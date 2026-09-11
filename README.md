@@ -10,7 +10,25 @@ If you fail to syndicate your entity across these platforms, you remain invisibl
 
 **The Solution:** The `kirby-off-page-seo` skill enforces strict protocols for YouTube transcription SEO, Reddit/Parasite SEO, and AEO Press Release manipulation. It directs your AI agent to syndicate your entity footprint across the web, forcing consensus and hijacking high-authority platforms to funnel traffic back to your core assets.
 
-## Installation & Usage
-This is a standard AI agent skill (compatible with Antigravity, Cursor, Windsurf).
-1. Copy the `SKILL.md` and `references/` folder into your agent's skills directory.
-2. Trigger the skill by asking your agent to execute "Parasite SEO", "Off-page entity consensus", or "AEO Press Releases".
+## 🪄 The Magic Prompt
+
+Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity):
+
+```markdown
+@agent Please install the kirby-off-page-seo skill into this workspace.
+1. Read the `SKILL.md` file and `references/` directory from this repository: https://github.com/markkirby125/kirby-off-page-seo
+2. Identify the correct rules system for our current environment (e.g., `.cursor/rules/` for Cursor, `.windsurfrules` for Windsurf, `.clinerules` for Cline, or `~/.agents/skills/` for Antigravity).
+3. Save the contents appropriately. If our environment supports multi-file dispatcher skills, clone the directory structure exactly.
+4. Confirm when the installation is complete.
+```
+
+## Manual Installation
+
+- **Cursor**: Save `SKILL.md` to `.cursor/rules/kirby-off-page-seo.mdc` and copy `references/`
+- **Windsurf**: Save `SKILL.md` to `.windsurfrules` and copy `references/`
+- **Antigravity**: Clone this repository directly into `~/.agents/skills/kirby-off-page-seo`
+
+## Tech Stack
+
+- **Format**: Markdown / YAML
+- **Compatibility**: Antigravity, Claude Code, Cursor, Windsurf, Cline
