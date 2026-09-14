@@ -1,6 +1,6 @@
 ---
 name: kirby-off-page-seo
-description: "Use when executing off-page entity consensus, Reddit/YouTube optimization, PR syndication, and Link acquisition strategies."
+description: "Use when executing off-page entity consensus, Reddit/YouTube optimization, PR syndication, micro-influencers, and Link acquisition strategies."
 category: technique
 triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers]
 ---
@@ -11,12 +11,12 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 ## 📚 Module Index
 - **Module 4: Off-Page Consensus & Video Transcription** -> Read `references/module_4_off_page_consensus_video_transcription.md`
 - **Module 12: AEO Press Release Manipulation (Edward Sturm Ep. 1164)** -> Read `references/module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
-- **Module 13: Reddit Keyword Hijacking & GSC Telemetry (Edward Sturm Ep. 1101)** -> Read `references/module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
+- **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `references/module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
 - **Module 15: The Micro-Influencer Indexation Play** -> Read `references/module_15_micro_influencer_indexation_play_8jHGa95T0GY.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
 - You are optimizing YouTube transcripts or executing Parasite SEO.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews.
-- You are targeting "[Keyword] Reddit" searches with first-party pages to capture zero-volume GSC telemetry.
+- You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
