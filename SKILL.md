@@ -12,7 +12,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 4: Off-Page Consensus & Video Transcription** -> Read `references/module_4_off_page_consensus_video_transcription.md`
 - **Module 12: AEO Press Release Manipulation (Edward Sturm Ep. 1164)** -> Read `references/module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
 - **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `references/module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
-- **Module 15: The Micro-Influencer Indexation Play** -> Read `references/module_15_micro_influencer_indexation_play_8jHGa95T0GY.md`
+- **Module 15: The Micro-Influencer Indexation Play** -> Read `references/module_15_micro_influencer_indexation_play.md`
 - **Module 16: Entity Corroboration & Force-Indexing** -> Read `references/module_16_entity_corroboration_force_indexing.md`
 
 ## When to Use

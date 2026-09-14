@@ -1,6 +1,6 @@
-# Module 15: The Micro-Influencer Indexation Play (8jHGa95T0GY)
+# Module 15: The Micro-Influencer Indexation Play
 
-*Source: YouTube Video 8jHGa95T0GY*
+*Source: Edward Sturm / The Edward Show, Episode 1130*
 
 ### **15.1 The Shift from Press Releases to Micro-Creators**
 Traditional off-page PR syndication (e.g., $80 wire press releases) has heavily degraded in efficacy as Google and AI search engines filter out automated syndication networks. The modern replacement is leveraging tiny "micro-influencers" (creators with only a few hundred to a few thousand followers) across Instagram Reels, TikTok, Facebook, and YouTube Shorts.

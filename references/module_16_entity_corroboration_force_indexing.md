@@ -1,6 +1,6 @@
 # Module 16: Entity Corroboration & Force-Indexing
 
-*Source: The "Money-Hat" Playbook (mhVbtxiy9qM / EOkrLkKNDrY)*
+*Source: James Dooley ("Money-Hat SEO") & TJ Robertson / The Edward Show, Episodes 1116 & 1134*
 
 To dominate Generative Engine Optimization (GEO) and AI Overviews, you must actively "clarify" your entity across the highest-trust nodes on the web. AI search engines map the world via semantic triples (Subject → Predicate → Object) and look for multi-domain consensus. A single claim on a brand website is often ignored.
 
