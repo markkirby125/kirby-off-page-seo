@@ -18,7 +18,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 ## When to Use
 - You need to build multi-platform entity consensus.
 - You are optimizing YouTube transcripts or executing Parasite SEO.
-- You are planning backlink acquisition or PR syndication to manipulate AI Overviews.
+- You are planning backlink acquisition or PR syndication to manipulate AI Overviews (AEO press releases live here in Module 12, not in `kirby-technical-aeo`).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.18).
