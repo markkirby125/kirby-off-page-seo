@@ -1,6 +1,8 @@
-# Module 13: Reddit Keyword Hijacking & GSC Telemetry (Edward Sturm Ep. 1101)
+# Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)
 
 *Source: The Edward Show, Episode 1101 (Edward Sturm with David Quaid)*
+
+GSC query harvesting for these modifiers lives in `kirby-seo-telemetry` Module 7. This module is owned-asset execution only.
 
 ### **13.1 The "Reddit" Search Modifier Opportunity**
 People frequently append "Reddit" to search queries to find real opinions, discussions, and unfiltered answers. However, Google and LLMs (ChatGPT, Perplexity, Gemini) do not always return Reddit pages for these specific modifier searches. This creates an arbitrage opportunity to build dedicated pages on your own website targeting "[Keyword] + Reddit" queries, ranking your site where users expect a forum thread.

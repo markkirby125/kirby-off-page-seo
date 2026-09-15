@@ -2,6 +2,8 @@
 
 *Source: James Dooley ("Money-Hat SEO") & TJ Robertson / The Edward Show, Episodes 1116 & 1134*
 
+Before syndicating claims, finish on-page pruning in `kirby-aiseo-skill` Module 2 §2.18 so weak URLs are not corroborated.
+
 To dominate Generative Engine Optimization (GEO) and AI Overviews, you must actively "clarify" your entity across the highest-trust nodes on the web. AI search engines map the world via semantic triples (Subject → Predicate → Object) and look for multi-domain consensus. A single claim on a brand website is often ignored.
 
 ### **16.1 High-Trust Node Clarification**

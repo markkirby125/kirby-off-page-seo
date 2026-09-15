@@ -2,7 +2,7 @@
 name: kirby-off-page-seo
 description: "Use when executing off-page entity consensus, Reddit/YouTube optimization, PR syndication, micro-influencers, and Link acquisition strategies."
 category: technique
-triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers, entity-clarification]
+triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers, entity-corroboration]
 ---
 # Kirby Off-Page SEO
 
@@ -21,4 +21,4 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews.
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
-- You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration.
+- You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.18).
