@@ -616,6 +616,8 @@ Rather than manufacturing inauthentic synthetic mentions, deploy the compliant *
 2. **Pitch Insertion / Editorial Update:** Reach out to the publishing webmaster, author, or editor with a focused Digital PR pitch (§5.3). Offer updated primary data, verified pricing metrics, or an affiliate partnership to insert your brand alongside existing ranked alternatives.
 3. **Instant Retrieval Inheritance:** Because the host URL already possesses established retrieval weight within the LLM's citation store, getting added to the existing document instantly intercepts conversational search recommendations without waiting for new URLs to establish domain authority.
 
+SaaS/B2B **how** (Ahrefs ≥2-competitor gap, AI-visibility overlap including non-top-10 citers, outreach, pricing): Module 18. This section remains the intercept thesis.
+
 ---
 
 ### **4.12 The Low-Quality Backlink GEO Suppression Penalty & The Scripted Audit Moat**
@@ -717,6 +719,7 @@ Each tier references and links to the next, building an unbreakable chain of thi
 * In high-value commercial verticals, do not spend months attempting to outrank established affiliate comparison listicles.
 * Negotiate paid placement for the #1 position on existing ranked third-party listicles, or acquire the ranking affiliate URL outright.
 * Securing the top positions on ranking third-party review hubs immediately captures LLM search grounding citations while permanently locking competitors out of conversational recommendation carousels.
+* **SaaS execution (price, pitch, brief):** Module 18. Distinct from the §4.12 GEO penalty on junk paid links.
 
 **GEO + ORM Execution Checklist**
 - [ ] Establish distinct operational responsibilities for traditional SEO vs. off-page GEO/ORM sentiment engineering.
@@ -724,7 +727,7 @@ Each tier references and links to the next, building an unbreakable chain of thi
 - [ ] Implement Temporal Semantic Updating across core service pages (frame legacy methods before introducing current solutions).
 - [ ] Deploy off-page daisy-chaining: link PR releases to guest posts and review hubs before terminating on brand money pages.
 - [ ] Identify and target platform-specific query fan-outs (`[Brand] reviews [Directory]`) across secondary authority domains.
-- [ ] Audit top 5 ranking third-party listicles for commercial queries and execute sponsored placements or asset acquisitions.
+- [ ] Audit top 5 ranking third-party listicles for commercial queries and execute sponsored placements or asset acquisitions (SaaS ops: Module 18).
 
 ---
 

@@ -8,7 +8,7 @@ You are trying to build off-page authority to rank your primary domain. In the p
 
 If you fail to syndicate your entity across these platforms, you remain invisible to the LLMs powering modern search, losing massive top-of-funnel discovery traffic.
 
-**The Solution:** The `kirby-off-page-seo` skill enforces strict protocols for YouTube transcription SEO, Reddit/Parasite SEO, and AEO Press Release manipulation. It directs your AI agent to syndicate your entity footprint across the web, forcing consensus and hijacking high-authority platforms to funnel traffic back to your core assets.
+**The Solution:** The `kirby-off-page-seo` skill enforces strict protocols for YouTube transcription SEO, Reddit/Parasite SEO, AEO Press Release manipulation, and SaaS listicle / competitive-gap link acquisition (Module 18). It directs your AI agent to syndicate your entity footprint across the web, forcing consensus and hijacking high-authority platforms to funnel traffic back to your core assets.
 
 ## 🪄 The Magic Prompt
 

@@ -7,7 +7,7 @@ Before syndicating claims, finish on-page pruning in `kirby-aiseo-skill` Module 
 To dominate Generative Engine Optimization (GEO) and AI Overviews, you must actively "clarify" your entity across the highest-trust nodes on the web. AI search engines map the world via semantic triples (Subject → Predicate → Object) and look for multi-domain consensus. A single claim on a brand website is often ignored.
 
 ### **16.1 High-Trust Node Clarification**
-*   **Target Nodes:** AI engines heavily weight canonical databases. You must inject your entity into Wikidata, Crunchbase, IMDb (if applicable), and industry-specific registries.
+*   **Target Nodes:** AI engines heavily weight canonical databases. You must inject your entity into Wikidata, Crunchbase, IMDb (if applicable), and industry-specific registries. SaaS **launch** directories (Product Hunt, BetaList, gap audits) are Module 18 §18.13 — this section remains canonical entity parity, not directory link-building.
 *   **Data Parity:** Ensure the data across these nodes is mathematically identical (same address format, same executive names, same founding dates). Discrepancies cause LLM hallucination and citation dropping.
 
 ### **16.2 Cross-Platform Corroboration (Force-Indexing)**
