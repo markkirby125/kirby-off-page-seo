@@ -17,6 +17,18 @@ Treat AI SEO as two halves:
 
 **Priority:** for a ~200-query commercial set, get into the ~10 roundups with the most AI retrievals *before* waiting on model-authority updates. Roundups also sit in the evaluation / comparison stage (e.g. “best CRM for small agency”).
 
+### **18.1.1 The Off-Page Boundary Mandate: On-Page Undertargeting First (Edward Sturm Ep. 1169)**
+
+*Source: Edward Sturm, The Edward Show Episode 1169 ("How SEOs Actually Find Keywords in 2026").*
+
+Before committing budget or hours to third-party listicle placement, backlink outreach, or competitive gap acquisition:
+* **The Pre-Requisite Undertargeting Check:** Run the 4-Spot SERP Undertargeting Inspection (`kirby-aiseo-skill` Module 2 §2.29) on the primary target keyword.
+* **The Deferral Rule:** If the SERP is **undertargeted** (i.e. $\le 2$ of the top 5 ranking competitors target the exact keyword across their `<title>`, URL slug, `<h1>`, and first sentence hook), **halt off-page outreach**. A dedicated, high-intent on-page landing page can rank in 1–2 weeks with bare-minimum on-page matching and zero link building.
+* **When Off-Page Is Strictly Indicated:** Third-party listicle placement and competitive gap outreach are indicated **only** when:
+  1. The SERP is **defended** (top competitors already target all 4 spots and hold high domain authority).
+  2. The target URL is an indexed-but-unranked citation node that actively feeds LLM answer synthesis (ChatGPT / Perplexity).
+  3. The keyword is an evaluation-stage "Alternatives / Best X" query where searchers demand third-party consensus (§18.1).
+
 ### **18.2 Competitive gap SOP (Ahrefs)**
 
 Cheapest Ahrefs tier is enough. Read-only MCP rules: `kirby-agent-security`.
