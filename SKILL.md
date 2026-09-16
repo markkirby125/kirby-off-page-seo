@@ -22,5 +22,5 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews (AEO press releases live here in Module 12, not in `kirby-technical-aeo`).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
-- You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.18).
+- You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).
 - You are placing a SaaS/B2B brand into third-party listicles/roundups, running competitive link-gap outreach, or pricing editorial insertions (Module 18). First-party “Best X” pages stay in `kirby-aiseo-skill` Module 2 §2.16. LinkedIn parasite *posts* stay in Module 4 §4.14; LinkedIn *DMs for placements* are Module 18.
