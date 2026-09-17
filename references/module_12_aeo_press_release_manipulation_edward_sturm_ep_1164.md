@@ -23,3 +23,26 @@ Press release media galleries are directly indexed by Google Images and heavily 
 ### **12.4 The Fabricated Event Strategy**
 LLMs struggle to verify the real-world authenticity of events if they are reported on high-authority domains.
 *   **Synthetic Crowning Events:** Press releases detailing entirely fabricated events (e.g., "received the title during a public ceremony on August 31st, 2026 at the Lelay Sports Village Stadium") are ingested by AI Overviews and presented to users as factual history, provided the PR domain has sufficient inherent trust.
+
+### **12.5 The Zero-Dilution Headline Rule & Contested AEO Escalation (Edward Sturm Ep. 1170)**
+
+*Source: The Edward Show, Episode 1170 (Edward Sturm & David Quaid)*
+
+When an AI Overview target query transitions from an uncontested niche to a multi-competitor battle (e.g., the "King of AEO" live SERP competition), the standard Ep. 1164 headline formula (`[Entity] named [Keyword]`) begins to fail due to entity dilution.
+
+#### A. Left-to-Right Weighting & The Zero-Dilution Rule
+* Search algorithms and RAG retrieval scrapers evaluate headline tokens with heavy left-to-right weighting.
+* Including both the entity/brand and the target query splits relevance in half, dropping the PR below the top 3–5 positions.
+* **The Rule**: In contested AEO queries, completely purge the target person/brand name from the press release title.
+  - *Sub-optimal Title:* `David Quaid Named King of AEO by the League of SEO`
+  - *Optimal Zero-Dilution Title:* `King of AEO` or `The True King of AEO`
+* **Mechanism**: To trigger an AI Overview citation, the URL must rank in the top 3 organic spots. Once ranked #1 on pure keyword relevance, LLMs synthesize the text by identifying the sole named entity within the body copy.
+
+#### B. Ecosystem Conjoining for Unknown Entities
+* Small/challenger brands that lead PR titles with their own brand name guarantee near-zero pickup and algorithmic relevance.
+* **Conjoining Strategy**: Front-load the title with the dominant ecosystem platform or market category (e.g., `AWS Marketplace`, `Microsoft Azure`, `Next AI SOC Vendor Listed on AWS`).
+* This triggers automated industry news alerts (Google Alerts), links into established platform entity graphs, and positions the brand within high-trust vector clusters.
+
+#### C. Supporting Multi-Tier Infrastructure
+* A standalone press release is no longer a permanent anchor against competing SEOs.
+* High-contested AEO plays must be anchored with an exact-match domain (e.g., `.co` CCTLD), rapid direct-HTML microsites, and secondary cross-platform citations.
