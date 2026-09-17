@@ -1,4 +1,4 @@
-# Module 12: AEO Press Release Manipulation & Consensus Injection (Edward Sturm Ep. 1164)
+# Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164 & 1170)
 
 *Source: The Edward Show, Episode 1164 (Edward Sturm)*
 
