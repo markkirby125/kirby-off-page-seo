@@ -4,11 +4,12 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 
 ## 📚 Module Index
 - **Module 4: Off-Page Consensus & Video Transcription** -> Read `./module_4_off_page_consensus_video_transcription.md`
-- **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164 & 1170)** -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
+- **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)** -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
 - **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `./module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
 - **Module 15: The Micro-Influencer Indexation Play** -> Read `./module_15_micro_influencer_indexation_play.md`
 - **Module 16: Entity Corroboration & Force-Indexing** -> Read `./module_16_entity_corroboration_force_indexing.md`
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
+- **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
@@ -18,3 +19,5 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are using micro-influencers and short-form video for indexable social proof.
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).
 - You are placing a SaaS/B2B brand into third-party listicles/roundups, running competitive link-gap outreach, or pricing editorial insertions (Module 18). First-party “Best X” pages stay in `kirby-aiseo-skill` Module 2 §2.16. Before initiating off-page outreach, check SERP undertargeting (`kirby-aiseo-skill` §2.29); defer link building if on-page targeting can rank first (§18.1.1). LinkedIn parasite *posts* stay in Module 4 §4.14; LinkedIn *DMs for placements* are Module 18.
+- You are evaluating which asset should hold a commercial head term, whether a high-authority social post can beat exact-match domains and link-built networks, or how a "Positive Ranking State" expands query radius beyond the written page (Module 19). LinkedIn production mechanics stay in Module 4 §4.14; Module 19 holds the ranking-substrate doctrine, including per-market/geo-fenced top social results.
+- You are planning PR syndication budgets and must choose between a one-off release and a reload schedule: press releases decay after 4–6 weeks, so durable commercial terms need recurring syndication every 4–6 weeks or permanent tier-2 links into the PR URLs, while transient/event queries can run on a single PR (Module 12 §12.6). For evergreen terms prefer owned assets + entity corroboration (`kirby-aiseo-skill` §2.35 / Module 16).

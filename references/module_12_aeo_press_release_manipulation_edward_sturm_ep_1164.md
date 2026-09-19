@@ -1,4 +1,4 @@
-# Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164 & 1170)
+# Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)
 
 *Source: The Edward Show, Episode 1164 (Edward Sturm)*
 
@@ -46,3 +46,14 @@ When an AI Overview target query transitions from an uncontested niche to a mult
 #### C. Supporting Multi-Tier Infrastructure
 * A standalone press release is no longer a permanent anchor against competing SEOs.
 * High-contested AEO plays must be anchored with an exact-match domain (e.g., `.co` CCTLD), rapid direct-HTML microsites, and secondary cross-platform citations.
+
+### **12.6 The 4–6 Week Press Release Decay Cliff, Reload Cadence, & Temporal Semantic Updating Attacks**
+
+*Source: Edward Sturm × James Dooley (Ep. 1,171). September 2026.*
+
+* **The 4–6 Week Half-Life**: Press releases achieve sharp entity definition and rapid indexing spikes, but suffer severe algorithmic decay after 4 to 6 weeks. They drop off search rankings and AI Overview citations unless supported.
+* **The Mandatory Reload Cadence**: High-stakes entity campaigns must budget for recurring syndication drops every 4–6 weeks or construct permanent tier-2 backlink profiles directly into the PR URLs (e.g. USA Today, BarChart, AP News wire pickups).
+* **Routing Decision Rule**:
+  - *Transient / Event-Based Queries:* Deploy PRs (rapid entity anchor, event dates).
+  - *Durable / Evergreen Commercial Queries:* Do NOT rely on standalone PRs without reload budgets; deploy owned assets and permanent entity corroboration (`kirby-aiseo-skill` §2.35 / `kirby-off-page-seo` Module 16).
+* **Temporal Semantic Updating Attacks**: Competitor tactics designed to dethrone established entities by publishing dated temporal claims (e.g., *"Entity X was acknowledged on September 1st, but on September 17th Entity Y was officially crowned..."*). Explains how timestamped press releases can be counteracted by newer timestamped releases that force LLMs to update temporal consensus.
