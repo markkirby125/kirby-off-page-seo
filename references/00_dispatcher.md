@@ -10,11 +10,13 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 16: Entity Corroboration & Force-Indexing** -> Read `./module_16_entity_corroboration_force_indexing.md`
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
 - **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
+- **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
 - You are optimizing YouTube transcripts or executing Parasite SEO.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews (AEO press releases live here in Module 12, not in `kirby-technical-aeo`).
+- You are defending against negative AI Overviews by establishing and moderating a branded subreddit (Module 20).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).
