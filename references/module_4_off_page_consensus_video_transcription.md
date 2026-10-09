@@ -799,6 +799,7 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
   - [ ] Check archive.org history for prior PBN/redirect-abuse usage.
   - [ ] Confirm the domain's seed-graph proximity actually serves the target niche (proximity ≠ topical relevance).
   - [ ] Pass the §4.6 non-indexed-link audit gate and §4.12 toxic-backlink screening before any expired/acquired-domain buy closes.
+  - [ ] Never deploy the acquired domain itself as a link satellite — the module's PBN bans apply to self-built networks regardless of how the domain was sourced.
 * **Caution:** Low-DR acquisitions carry a heavy due-diligence burden per dollar saved; harmonic data is opaque and hard to verify independently. Never build a strategy on a single metric read.
 
 ### **4.16 The 90-Day Branded Window (Positions 1–30 Semantic Perimeter)**
@@ -817,6 +818,12 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 
 * **The Play:** Search the target city name for the top 100 ranking blogs, community portals, and local sports clubs. Reach out with an immediate upfront cash offer ($100–$500 per post) to bypass gatekeepers and secure hyper-local backlinks that national competitor outreach never touches.
 * **Workflow:** city-query scrape → classify (blog / portal / club) → shortlist by local relevance → direct offer email → deliver content to host's standards → verify indexation of the placed link within 14 days (§4.6 non-indexed-link gate).
+* **Outreach template (cash-first, message 1):**
+
+  > Subject: Paid local post — [City] [Blog Name]
+  >
+  > Hi [Name] — I work with [Business], a [service] serving [City]. We'd like to publish one useful local article on [Blog Name] and pay you for the placement: **$[100–500] upfront**, sponsor-disclosed and nofollow'd per your guidelines. Topic is yours to approve; we write to your standards. If you're open, I'll send the brief today.
+
 * **Scope note:** This is the *local* cash-outreach play (blogs, community portals, clubs), where leading with the offer is the point. It does not override Module 18's editorial/SaaS negotiation rule — there, §18.8 bans quoting a dollar amount in message 1.
 * **⚠️ Disclosure guardrail:** Paid placements without `nofollow`/sponsor disclosure breach Google link-spam policy and FTC endorsement guides — the link buys local citation exposure and relationship, not undisclosed equity. Costs scale linearly with volume; local-link ROI lives in relationship reuse, not one-off buys. Every placed link remains subject to the §4.12 low-quality paid-link GEO-demotion screen — vet hosts for real local traffic before offering.
 
