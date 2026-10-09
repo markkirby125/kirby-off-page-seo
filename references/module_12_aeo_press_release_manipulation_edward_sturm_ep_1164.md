@@ -57,3 +57,14 @@ When an AI Overview target query transitions from an uncontested niche to a mult
   - *Transient / Event-Based Queries:* Deploy PRs (rapid entity anchor, event dates).
   - *Durable / Evergreen Commercial Queries:* Do NOT rely on standalone PRs without reload budgets; deploy owned assets and permanent entity corroboration (`kirby-aiseo-skill` §2.35 / `kirby-off-page-seo` Module 16).
 * **Temporal Semantic Updating Attacks**: Competitor tactics designed to dethrone established entities by publishing dated temporal claims (e.g., *"Entity X was acknowledged on September 1st, but on September 17th Entity Y was officially crowned..."*). Explains how timestamped press releases can be counteracted by newer timestamped releases that force LLMs to update temporal consensus.
+
+### **12.7 Advertorial Compliance Standards (Crawlable Static Placement Doctrine)**
+
+*Source: LLM Mastery — "Advanced LLM Visibility Hacks".*
+
+* **Advertorials remain potent LLM citation sources** provided three placement conditions hold:
+  1. The advertorial resides on a **crawlable, static URL** on a high-reputation domain (not rotating ad-server slots or JS-injected placements).
+  2. Content is **rendered in raw HTML** in the response body — JavaScript ad-server injection makes the content invisible to CCBot-class and RAG retrieval (plain-text delivery standard, `kirby-aiseo-skill` §1.18 doctrine).
+  3. The URL is indexable (no `noindex`, not orphaned behind a session wall).
+* **⚠️ Disclosure guardrail (non-negotiable):** Paid placements must carry `nofollow`/`sponsored` attributes and clear sponsorship disclosure — Google link-spam policy and FTC endorsement guides both apply. The *AI-citation* value generally survives disclosure (LLMs cite crawlable content regardless of link attributes); it does not survive undisclosed-placement penalties. The *indexation* value must still pass the §4.6 non-indexed-link audit gate — an advertorial on a URL Google never indexes delivers neither.
+* **Decay note:** Inherit the §12.6 reload cadence — a static advertorial is still a dated asset; schedule tier-2 support or refresh cycles for evergreen campaigns.

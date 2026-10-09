@@ -776,3 +776,48 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 - [ ] Isolate third-party indexer tools (Indexceptional) exclusively to DA99 parasite URLs; ban use on primary client money sites.
 
 ---
+
+### **4.15 Harmonic Centrality Link Arbitrage (Self-Contained Twin of `kirby-aiseo-skill` Module 1 §1.17)**
+
+> **Self-contained duplicate (twin).** The doctrine block below replicates `kirby-aiseo-skill` Module 1 §1.17 verbatim per the duplication policy (no cross-skill links); update both twins in the same change. The application layer after it is off-page-specific and not part of the canonical block. (Note: the block's parenthetical about acquisition arbitrage "living in `kirby-off-page-seo`" is written from the canonical's perspective — inside this skill it simply self-references this module.)
+
+**Doctrine block (verbatim from canonical):**
+
+* **The Metric Shift:** Common Crawl's published web graph carries both PageRank and harmonic centrality columns, but CCBot-era crawl prioritization and downstream LLM-corpus relevance skew toward **Harmonic Centrality** — proximity to the core of the web graph and to trusted seed sites, weighted by inverse distance — rather than raw link volume/weight.
+* **The Analogy:** PageRank counts how many roads lead to your house; Harmonic Centrality measures how close your house sits to the center of the city.
+* **Arbitrage Consequence:** A site with massive PageRank can remain effectively invisible if it is isolated from the seed cluster. Conversely, a single backlink from a high-harmonic-centrality seed site catapults a domain into the web's core. Link auditing must therefore supplement DR/DA screening with harmonic-centrality screening (acquisition arbitrage and outreach execution live in `kirby-off-page-seo`; do not duplicate them here).
+* **Correlation Notes:** Harmonic centrality correlates strongly with PageRank (trusted seed sites naturally accumulate links). Reported direct correlation with **Bing organic rankings** is directional (single-source, LLM Mastery) — treat as a screening hint, not a ranking law.
+* **Audit Tooling:** `audit.stephenburns.ai` (harmonic centrality auditor) · `webgraph.commoncrawl.org` (downloadable web graph for seed-site extraction and distance metrics) · Matei Ion's CC Rank Checker.
+* **Caution:** Emerging, less-validated metric dependent on third-party proprietary tooling that may become unavailable. Use as a supplementary screening signal, never the sole acquisition criterion.
+
+**Application layer — seed-graph arbitrage (Stephen Burns / James Dooley, LLM Mastery):**
+
+* **The Screen:** Elite link builders obsess over DR/DA (Ahrefs/Moz). The arbitrage is discovering **DR 10–20 domains with high harmonic centrality** — frequently acquirable for ~$20 versus $100+ for inflated-DR sites — while delivering superior LLM crawl access and seed authority.
+* **Acquisition Due-Diligence Checklist (mandatory before purchase):**
+  - [ ] Backlink history audit for spam patterns and link-scheme footprints (expired-domain penalties transfer).
+  - [ ] Verify harmonic-centrality reading from at least one independent source beyond a single proprietary tool.
+  - [ ] Check archive.org history for prior PBN/redirect-abuse usage.
+  - [ ] Confirm the domain's seed-graph proximity actually serves the target niche (proximity ≠ topical relevance).
+  - [ ] Pass the §4.6 non-indexed-link audit gate and §4.12 toxic-backlink screening before any expired/acquired-domain buy closes.
+* **Caution:** Low-DR acquisitions carry a heavy due-diligence burden per dollar saved; harmonic data is opaque and hard to verify independently. Never build a strategy on a single metric read.
+
+### **4.16 The 90-Day Branded Window (Positions 1–30 Semantic Perimeter)**
+
+*Source: LLM Mastery — "Advanced LLM Visibility Hacks" (Landwehr / Dash / Dooley).*
+
+* **The Window:** Focus on Google positions 1–30 for brand-name searches during the first 90 days. Acquire branded guest posts that define entity nature, capabilities, and target audience — not keyword-stuffed anchors — across the secondary search pages to create an airtight semantic perimeter around the brand.
+* **Content Spec:** Each placement states the 1–2 sentence entity definition plus one capability, one audience, and one third-party-proof (*why*) clause — the Who/What/Why trinity format (`kirby-aiseo-skill` §2.42 doctrine).
+* **Cadence:** Sustained across 90 days; a burst of branded placements in one week patterns as a link scheme.
+* **⚠️ Disclosure guardrail:** Paid or compensated branded placements carry the §12.7 nofollow/sponsor-disclosure requirement — the perimeter buys semantic corroboration, not undisclosed equity. All placements remain subject to the §4.12 low-quality paid-link GEO-demotion screen; as few as 20 low-quality paid links collapse AI visibility from >50% to <6%.
+* **Caution:** Volume guest-posting for brand queries can pattern-match as manipulative link building; keep anchor text natural (brand, URL, naked mentions) and diversify hosting domains. Over-optimized branded anchors defeat the perimeter's purpose.
+
+### **4.17 Direct Cash Local Link Outreach ($100–$500 Upfront Offers)**
+
+*Source: Matt Hammerton, Ep. 1135.*
+
+* **The Play:** Search the target city name for the top 100 ranking blogs, community portals, and local sports clubs. Reach out with an immediate upfront cash offer ($100–$500 per post) to bypass gatekeepers and secure hyper-local backlinks that national competitor outreach never touches.
+* **Workflow:** city-query scrape → classify (blog / portal / club) → shortlist by local relevance → direct offer email → deliver content to host's standards → verify indexation of the placed link within 14 days (§4.6 non-indexed-link gate).
+* **Scope note:** This is the *local* cash-outreach play (blogs, community portals, clubs), where leading with the offer is the point. It does not override Module 18's editorial/SaaS negotiation rule — there, §18.8 bans quoting a dollar amount in message 1.
+* **⚠️ Disclosure guardrail:** Paid placements without `nofollow`/sponsor disclosure breach Google link-spam policy and FTC endorsement guides — the link buys local citation exposure and relationship, not undisclosed equity. Costs scale linearly with volume; local-link ROI lives in relationship reuse, not one-off buys. Every placed link remains subject to the §4.12 low-quality paid-link GEO-demotion screen — vet hosts for real local traffic before offering.
+
+---

@@ -228,3 +228,22 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 - [ ] Quotes via §4.12.F platforms; human-only (18.12).
 - [ ] Reject DR-only briefs and zero-value link patterns (18.18).
 - [ ] Measure publisher retrievals in `kirby-seo-telemetry`; do not wait 6–8 months to start intercept (18.1).
+
+### **18.21 The Directory Review Jump (The 93% Zero-Review Void)**
+
+*Source: LLM Mastery — "Advanced LLM Visibility Hacks".*
+
+* **The Void:** ~93% of directory listings on Clutch, G2, and DesignRush carry **zero reviews** (source figure spans review directories broadly). Securing just 1–2 reviews typically jumps a listing to page 1 of the directory's own category pages (directional, single-test) — visibility inside the directory's internal search that LLM retrieval also fans out to.
+* **Execution:** Identify the 2–3 directories where the category page ranks for commercial queries; request reviews from genuine recent clients with directory accounts (the §4.12.F quote platforms route the same way).
+* **⚠️ Sourcing guardrail:** Genuine customer-solicited reviews only — fabricated or agency-seeded reviews are astroturfing and violate Clutch/Yelp authenticity rules. One or two real reviews accomplish the jump; fabrication risks the entire listing.
+
+### **18.22 Digital PR Yield Benchmarks & The Disavow Dichotomy**
+
+*Source: 9,249 validated case-study meta-analysis (Edward Sturm Ep. 1191).*
+
+* **Digital PR yield:** Editorial backlinks acquired via digital PR produced an average **+71% organic-session lift** in the source tests (directional — treat as the strongest measured single link-acquisition lever, not a guarantee). Budget digital PR before volume guest-posting.
+* **The Disavow Dichotomy:**
+  * **With an active manual penalty:** submitting a disavow file produced an **+80% rebound** in organic sessions.
+  * **Without an active manual penalty:** disavowing showed **zero measurable traffic impact** — Google algorithmically ignores spam links, and manual disavowal of unpenalized profiles risks discarding beneficial equity.
+* **Decision rule:** Never disavow prophylactically. Audit for a manual action first (GSC); disavow only what the penalty notice names, then stop.
+* **Scope reconciliation with §4.12:** The dichotomy above is a *Google-organic-traffic* measurement. It does not override §4.12's GEO finding: low-quality/paid backlink footprints actively suppress AI-citation visibility (the >50%→<6% collapse) **without any Google manual penalty**. When AI Overviews/ChatGPT citations are suppressed, run §4.12's Proactive Link Toxicity Audit and disavow or remove the polluting links on that axis — the "zero impact" result applies only to organic-traffic recovery in the absence of a manual action.
