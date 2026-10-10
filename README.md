@@ -10,6 +10,13 @@ If you fail to syndicate your entity across these platforms, you remain invisibl
 
 **The Solution:** The `kirby-off-page-seo` skill enforces strict protocols for YouTube transcription SEO, Reddit/Parasite SEO, AEO Press Release manipulation, and SaaS listicle / competitive-gap link acquisition (Module 18). It directs your AI agent to syndicate your entity footprint across the web, forcing consensus and hijacking high-authority platforms to funnel traffic back to your core assets.
 
+## 🆕 October 2026 — Link Acquisition Doctrine
+
+- **§4.15** Harmonic-centrality link arbitrage — DR 10–20 high-harmonic domains at ~$20 (self-contained twin of `kirby-aiseo-skill` §1.17) with a 6-point acquisition due-diligence checklist
+- **§4.16–§4.17** The 90-day branded-window guest-post perimeter (positions 1–30) and direct cash local outreach ($100–$500, disclosure-guarded)
+- **§12.7** Advertorial compliance standards — static raw-HTML placement conditions + mandatory nofollow/sponsor disclosure
+- **§18.21–§18.22** The 93% zero-review directory void jump and the digital-PR/disavow dichotomy (+71% / +80%-with-penalty / 0%-without), reconciled with the §4.12 GEO-demotion axis
+
 ## 🪄 The Magic Prompt
 
 Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity):
