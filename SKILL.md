@@ -16,11 +16,6 @@ tags: [kirby, ai-agent, workflow]
 Do not guess or hallucinate the instructions. Read the file above to proceed.
 
 
-## Examples
-
-*(Add specific conversational examples here showing how the agent should behave.)*
-
-
 ## Limitations (When NOT to Use)
 
 - Do not use this skill outside of its intended scope.

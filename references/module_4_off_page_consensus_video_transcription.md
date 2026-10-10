@@ -125,7 +125,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
 
 ---
 
-### **4.4 Image Alt-Text Backlink Mechanics & Passive Stock Asset Syndication**
+### **4.18 Image Alt-Text Backlink Mechanics & Passive Stock Asset Syndication**
 
 Image backlinks constitute an under-leveraged link acquisition vector with superior algorithmic weighting in modern multimodal AI search engines compared to traditional contextual text links.
 
@@ -183,7 +183,7 @@ Image backlinks constitute an under-leveraged link acquisition vector with super
 
 ---
 
-### **4.5 High-Authority Parasite SEO: Subfolder Artifact Hijacking, Branded SERP Defense & Interim BOFU Intercepts**
+### **4.19 High-Authority Parasite SEO: Subfolder Artifact Hijacking, Branded SERP Defense & Interim BOFU Intercepts**
 
 *Source: Jesper Nissen & Edward Sturm podcast Episode 788 & Episode 642. September 2026.*
 
@@ -304,7 +304,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 
 ---
 
-### **4.6 Wikipedia Source Synthesis: Resolving "Citation Needed" Gaps to Anchor Global LLM Retrieval Weights**
+### **4.20 Wikipedia Source Synthesis: Resolving "Citation Needed" Gaps to Anchor Global LLM Retrieval Weights**
 
 *Source: Mick Meaney (Profit Copilot), "5.5 Billion Visitors! ChatGPT Traffic Hack!". September 2026.*
 
@@ -438,7 +438,7 @@ When an AI search engine hallucinates, misquotes pricing, or claims your service
 
 ---
 
-### **4.5 The "Reputation Tree" Entity Architecture, The Claim-Frame-Prove Framework & The 25% Word-of-Mouth AI Conversion Multiplier**
+### **4.21 The "Reputation Tree" Entity Architecture, The Claim-Frame-Prove Framework & The 25% Word-of-Mouth AI Conversion Multiplier**
 
 *Source: James Dooley & Alex Drew (Odys Global / Audisto, "AI Visibility - Why LLM Marketing Needs To Be The Main SEO Strategy"). September 2026.*
 
@@ -487,7 +487,7 @@ Static keyword rank tracking (Position 1–10) is obsolete in conversational AI 
 3. Deploy Targeted Digital PR, Sponsorship, or Review Solicitation on Those Sources.
                                │
                                ▼
-4. Force-Index Third-Party Mentions (§4.4) to Update LLM Ground-Truth Retrieval.
+4. Force-Index Third-Party Mentions (§4.9) to Update LLM Ground-Truth Retrieval.
 ```
 
 #### D. Agentic Commerce Readiness: The Extinction Event
@@ -503,7 +503,7 @@ As autonomous purchasing agents (e.g., automated procurement bots operating with
 
 ---
 
-### **4.6 The $5M Link Acquisition Reality: The Non-Indexed Link Audit Gate, Educational Asset Barter & Fake Copyright Defense (Michał Rochwerger)**
+### **4.22 The $5M Link Acquisition Reality: The Non-Indexed Link Audit Gate, Educational Asset Barter & Fake Copyright Defense (Michał Rochwerger)**
 
 *Source: Michał Rochwerger (Odys Podcast / High Stakes Growth Show, "I spent $5M on SEO Links - Here's What Actually Works"). September 2026.*
 
@@ -525,7 +525,7 @@ In an AI-saturated ecosystem where tens of millions of new web documents are pub
 │ URL IS INDEXED:           │ URL IS NOT INDEXED:        │
 │ • PageRank & Anchor Flow  │ • ZERO PageRank or Anchor  │
 │   Active                  │   Equity Transmitted       │
-│ • Log Placement as Valid  │ • Deploy Force-Index (§4.4)│
+│ • Log Placement as Valid  │ • Deploy Force-Index (§4.9)│
 │   Asset                   │ • If unindexed by Day 28:  │
 │                           │   Demand Vendor Refund     │
 └───────────────────────────┴────────────────────────────┘
@@ -535,7 +535,7 @@ In an AI-saturated ecosystem where tens of millions of new web documents are pub
 Across comprehensive audits of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were NEVER indexed by Google**:
 * **The Blind Reporting Trap:** Media houses and SEO agencies routinely celebrate acquiring high-authority placements in client deliverables without verifying whether Googlebot actually indexed the host page.
 * **The Mathematical Reality:** A non-indexed backlink passes **0 PageRank, 0 anchor text equity, and 0 LLM retrieval grounding**. Every non-indexed link represents 100% wasted budget.
-* **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be immediately routed into the force-indexing pipeline (§4.4) or flagged for a contractual placement replacement or refund.
+* **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be immediately routed into the force-indexing pipeline (§4.9) or flagged for a contractual placement replacement or refund.
 
 #### B. The Obsolete Tactic Burn Audit
 Empirical budget testing confirms the complete obsolescence or severe toxicity of the following traditional tactics:
@@ -561,7 +561,7 @@ Black-hat operators frequently run automated extortion schemes that client webma
 
 **Link Acquisition & Indexation Checklist**
 - [ ] Enforce an automated 14-day indexation verification check on every acquired backlink.
-- [ ] Deploy the force-indexing pipeline (§4.4) on any placement that remains un-indexed after 14 days.
+- [ ] Deploy the force-indexing pipeline (§4.9) on any placement that remains un-indexed after 14 days.
 - [ ] Enforce contractual refund or replacement clauses for any link failing indexation past 28 days.
 - [ ] Ban all low-quality directory, forum profile, and manipulated metric PBN expenditures.
 - [ ] Execute educational barter partnerships with universities to secure high-trust `.edu` / `.ac.uk` citations.
@@ -608,7 +608,7 @@ Google's official stance asserts that *"chasing inauthentic mentions isn’t as 
 
 #### A. The Inauthentic Mention Algorithmic Discrepancy
 * **Current LLM Retrieval Flaw:** Generative AI retrieval engines (including ChatGPT Search and Perplexity) heavily weight comparative roundups and review videos. Synthetic review networks—such as automated YouTube channels reviewing real products they have never purchased to position an alternative as "#1"—currently achieve persistent top-tier citations in conversational engines.
-* **The Impending Purge Cliff:** YouTube engineers and Google Webspam teams are actively engineering detection heuristics specifically targeting synthetic comparison and review content. Operating mass synthetic review networks carries catastrophic platform and domain ban risks identical to pre-Penguin link networks (§4.6).
+* **The Impending Purge Cliff:** YouTube engineers and Google Webspam teams are actively engineering detection heuristics specifically targeting synthetic comparison and review content. Operating mass synthetic review networks carries catastrophic platform and domain ban risks identical to pre-Penguin link networks (§4.6 Prohibition of LLM Answer Manipulation).
 
 #### B. The "LLM Citation Intercept" Digital PR Vector
 Rather than manufacturing inauthentic synthetic mentions, deploy the compliant **LLM Citation Intercept** workflow:
@@ -798,7 +798,7 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
   - [ ] Verify harmonic-centrality reading from at least one independent source beyond a single proprietary tool.
   - [ ] Check archive.org history for prior PBN/redirect-abuse usage.
   - [ ] Confirm the domain's seed-graph proximity actually serves the target niche (proximity ≠ topical relevance).
-  - [ ] Pass the §4.6 non-indexed-link audit gate and §4.12 toxic-backlink screening before any expired/acquired-domain buy closes.
+  - [ ] Pass the §4.22 non-indexed-link audit gate and §4.12 toxic-backlink screening before any expired/acquired-domain buy closes.
   - [ ] Never deploy the acquired domain itself as a link satellite — the module's PBN bans apply to self-built networks regardless of how the domain was sourced.
 * **Caution:** Low-DR acquisitions carry a heavy due-diligence burden per dollar saved; harmonic data is opaque and hard to verify independently. Never build a strategy on a single metric read.
 
@@ -817,7 +817,7 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 *Source: Matt Hammerton, Ep. 1135.*
 
 * **The Play:** Search the target city name for the top 100 ranking blogs, community portals, and local sports clubs. Reach out with an immediate upfront cash offer ($100–$500 per post) to bypass gatekeepers and secure hyper-local backlinks that national competitor outreach never touches.
-* **Workflow:** city-query scrape → classify (blog / portal / club) → shortlist by local relevance → direct offer email → deliver content to host's standards → verify indexation of the placed link within 14 days (§4.6 non-indexed-link gate).
+* **Workflow:** city-query scrape → classify (blog / portal / club) → shortlist by local relevance → direct offer email → deliver content to host's standards → verify indexation of the placed link within 14 days (§4.22 non-indexed-link gate).
 * **Outreach template (cash-first, message 1):**
 
   > Subject: Paid local post — [City] [Blog Name]

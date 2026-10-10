@@ -189,7 +189,7 @@ Distinct from Module 15 micro-influencers ($25–$50 short-form).
 
 Not a 3-month sprint then stop. No 5-links-then-silence-then-5. Mixed anchors (brand + long; not only exact match). Cadence is a system.
 
-Compatible with `kirby-aiseo-skill` §1.11.D (60% branded inbound). Roundup/quote gravity (18.10) is why you must mix the rest.
+Compatible with `kirby-aiseo-skill` §1.11.1.D (60% branded inbound). Roundup/quote gravity (18.10) is why you must mix the rest.
 
 Volume is relative: five links/month can be nothing or everything depending on the competitor set. Do not overdo any one tactic.
 
@@ -205,7 +205,7 @@ Score: traffic **source**, topical fit, content, **inlinks vs outlinks**. Not bi
 
 ### **18.19 Anti-patterns**
 
-* Mass write-for-us / guest-post farms (§4.6, §4.12).
+* Mass write-for-us / guest-post farms (§4.22, §4.12).
 * Paying junk directories/PBNs and calling it this play.
 * Synthetic first-party listicle spam (`kirby-aiseo-skill` §2.16 ClickUp failure).
 * **Nofollow bait-and-switch:** inviting industry experts to write, giving them nofollow author links they do not understand, then harvesting follow equity and social bragging. Ban. Honest bylines with disclosed link policy are fine.
