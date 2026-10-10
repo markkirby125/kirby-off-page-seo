@@ -7,7 +7,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)** -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
 - **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `./module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
 - **Module 15: The Micro-Influencer Indexation Play** -> Read `./module_15_micro_influencer_indexation_play.md`
-- **Module 16: Entity Corroboration & Force-Indexing** -> Read `./module_16_entity_corroboration_force_indexing.md`
+- **Module 16: Entity Corroboration, Weighted Source Hierarchy, Google Ecosystem Stacking, Multi-Node Anchors & 48-Hour Opinion Sculpting** -> Read `./module_16_entity_corroboration_force_indexing.md`
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
 - **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
 - **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
@@ -27,3 +27,4 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are executing the 90-day branded-window guest-post perimeter for brand-name positions 1–30 (Module 4 §4.16) or direct cash local link outreach at $100–$500/post (Module 4 §4.17 — disclosure guardrail applies).
 - You are placing paid advertorials (Module 12 §12.7 — static raw-HTML placement conditions + disclosure guardrail).
 - You are seeding directory reviews on the zero-review void (Module 18 §18.21 — genuine sourcing only) or deciding whether to disavow (Module 18 §18.22 — never prophylactically; digital PR +71% benchmark).
+- You are working the weighted source hierarchy (Google Books/YouTube/Wikipedia), IMDb Pro profiles, Google ecosystem stacking (sites.google.com, NotebookLM, Events), podcast `Event` entities, 4-node entity anchoring, or 48-hour opinion sculpting (Module 16 §16.3–§16.6).
