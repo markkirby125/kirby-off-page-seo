@@ -76,7 +76,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   * Alternatively, record the business owner speaking (voice only) and combine with b-roll footage.
   * Output: A factual, serviceable video. The goal is Gemini indexation, not audience engagement.
 * **The Two-Video Rule (V6-E — entity-anchor complement to this pipeline):** above the volume pipeline, the business owner records just **1–2 short authentic videos** to anchor video entity presence — syndicated across YouTube, Transistor/Spotify/Apple Podcasts, and IMDb (§16.3). Authentic owner footage beats AI avatars on production economics too: high-fidelity cloning (HeyGen + ~6h ElevenLabs voice training + phonetic debugging) costs *more* labor than recording raw footage. Do not conflate: this pipeline's automated script-to-video output is volume layering *on top of* the two anchor videos, never a replacement for them — and synthetic clones carry the §4.7 GenAI-disclosure requirements.
-* **Virtual entity milestone (context, V6-E):** synthetic "virtual entrepreneur" entities are being piloted to satisfy entity-recognition thresholds; treat as experimental — the KG-MID-vs-public-panel threshold (branded search volume) applies to synthetic entities identically.
+* **Virtual entity milestone (context, V6-E):** synthetic "virtual entrepreneur" entities are being piloted to satisfy entity-recognition thresholds; treat as experimental — the KG-MID-vs-public-panel threshold (branded search volume) applies to synthetic entities identically, and §4.7 GenAI-disclosure requirements apply wherever a synthetic persona appears on-platform.
 * **Production Volume Target:** Produce YouTube videos for 33%–50% of all published service pages and geo-content articles. Prioritise: (a) primary service page videos, (b) emergency/high-urgency service videos, (c) geo-content for the highest-value rank deficit zones.
 * **YouTube Upload & Optimisation Standards:**
   * Video title must mirror the target page's `<h1>` tag exactly (or near-exactly).
@@ -791,6 +791,9 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 * **Correlation Notes:** Harmonic centrality correlates strongly with PageRank (trusted seed sites naturally accumulate links). Reported direct correlation with **Bing organic rankings** is directional (single-source, LLM Mastery) — treat as a screening hint, not a ranking law.
 * **Audit Tooling:** `audit.stephenburns.ai` (harmonic centrality auditor) · `webgraph.commoncrawl.org` (downloadable web graph for seed-site extraction and distance metrics) · Matei Ion's CC Rank Checker.
 * **Caution:** Emerging, less-validated metric dependent on third-party proprietary tooling that may become unavailable. Use as a supplementary screening signal, never the sole acquisition criterion.
+* **Scope note:** This doctrine supersedes PageRank as a *link-authority auditing* frame only. Internal-link-equity PageRank usage elsewhere in this module (§1.8 Canon Law recirculation, §1.15 crawl-depth privilege) remains valid doctrine and is intentionally out of scope.
+
+*(Reference note: §1.8/§1.15 in the Scope note are `kirby-aiseo-skill` Module 1 internal references.)*
 
 **Application layer — seed-graph arbitrage (Stephen Burns / James Dooley, LLM Mastery):**
 

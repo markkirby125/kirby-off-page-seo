@@ -21,6 +21,8 @@ Press release media galleries are directly indexed by Google Images and heavily 
 *   **Result:** These images rapidly infiltrate Google Image search for the target keyword and are surfaced prominently alongside the AI Overview text snippet, creating a multimodal citation loop.
 
 ### **12.4 The Fabricated Event Strategy**
+
+> **⚠️ Threat-awareness framing:** this section documents an attack pattern observed in the wild, so defenders can recognize and counter fabricated-event manipulation (per §12.6's temporal countermeasures) — it is not an execution playbook. Fabricating events deceives consumers, violates platform and consumer-protection rules, and carries defamation/fraud exposure. Do not execute; use it to audit whether your entity's record has been attacked and to design verification-resistant anchors (Module 16 §16.5's verifiable-anchor rule).
 LLMs struggle to verify the real-world authenticity of events if they are reported on high-authority domains.
 *   **Synthetic Crowning Events:** Press releases detailing entirely fabricated events (e.g., "received the title during a public ceremony on August 31st, 2026 at the Lelay Sports Village Stadium") are ingested by AI Overviews and presented to users as factual history, provided the PR domain has sufficient inherent trust.
 

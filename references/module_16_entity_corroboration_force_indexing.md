@@ -35,7 +35,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
 
 * **The Stack:** Google-owned platforms feed directly into Google's entity indexing pipeline: `sites.google.com` (resurgent authoritative parasite), `notebooklm.google.com`, and **Google Events**. Stacking these around the brand entity compounds KG ingestion speed.
 * **Podcast Episodes as `Event` Entities:** every individual podcast episode can be published as an `Event` entity capable of securing its **own KG MID**. Episodes featuring established industry entities cross-link and amplify all participating knowledge panels (each co-present entity's panel strengthens the others — the mechanism behind §16.5's fourth anchor node).
-* **Caution:** each stacked node obeys the §16.1 data-parity rule; a stale Google Sites page with outdated NAP is worse than none. Event entities need real dates/venues. **Fabricated events are banned outright in this module** — §12.4 documents the fabricated-event attack pattern for defensive awareness under the PR-manipulation module's own framing; it is not authorization for entity-anchor fabrication.
+* **Caution:** each stacked node obeys the §16.1 data-parity rule; a stale Google Sites page with outdated NAP is worse than none. Event entities need real dates/venues. **Fabricated events are banned outright in this module.** §12.4 documents the fabricated-event attack pattern as it exists in the wild — that documentation is threat awareness, not authorization; entity-anchor fabrication is prohibited here regardless of §12.4.
 
 ### **16.5 The Multi-Node Anchor Framework & Entity Juice (V6-D)**
 
@@ -48,7 +48,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
   3. **Exact Timestamp/Date**, and
   4. **Co-Present Verifiable Entities** (other recognized entities at the same event/claim).
 * **Case (King of AEO — Dooley/Floate V6, distinct from Module 12's PR-manipulation episodes):** a crowning claim anchored to a specific date, a verified GBP location (Leigh Sports Village), and 5 recognized speaker entities became universally recognized across Claude, Perplexity, ChatGPT, and Google AI Mode. **20+ competitors failed to displace it using 15–20 Exact Match Domains** — EMDs lack multi-node graph relationships and lose to 4-node-anchored claims.
-* **⚠️ Guardrail:** synthetic relationship claims must have a verifiable real-world footprint — every anchor node must independently check out (person real, GBP real, date real, co-present entities real). Fabricated anchors are the §12.4 failure mode with worse durability, because model memory holds them *permanently*.
+* **⚠️ Guardrail:** synthetic relationship claims must have a verifiable real-world footprint — every anchor node must independently check out (person real, GBP real, date real, co-present entities real). Fabricated anchors are the §12.4 failure mode with worse durability than PR-based fabrications — once ingested into model memory they outlive the §12.6 decay cycle and resist correction.
 
 ### **16.6 48-Hour Opinion Sculpting & ORM at Scale (V6-H)**
 
