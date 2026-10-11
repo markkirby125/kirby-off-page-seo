@@ -4,7 +4,7 @@ description: "Use when executing off-page entity consensus, Reddit/YouTube optim
 category: technique
 triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers, entity-corroboration, saas-listicles, link-gap, listicle-placement, branded-subreddit, ai-overview-defense]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
