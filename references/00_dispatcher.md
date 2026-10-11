@@ -11,9 +11,11 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
 - **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
 - **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
+- **Module 21: Newswire Indexation Criteria, DMCA Defense & Canonical-Trap Auditing (Charles Floate E1193)** -> Read `./module_21_newswire_dmca_canonical_defense.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
+- You are vetting paid newswire/press placements for guaranteed indexation, defending against fraudulent competitor DMCA takedowns (pre-position, counter-notice, §512(f) escalation), or auditing host platforms for self-referential canonical traps (Module 21).
 - You are optimizing YouTube transcripts or executing Parasite SEO.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews (AEO press releases live here in Module 12, not in `kirby-technical-aeo`).
 - You are defending against negative AI Overviews by establishing and moderating a branded subreddit (Module 20).
