@@ -12,6 +12,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
 - **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
 - **Module 21: Newswire Indexation Criteria, DMCA Defense & Canonical-Trap Auditing (Charles Floate E1193)** -> Read `./module_21_newswire_dmca_canonical_defense.md`
+- **Module 22: Cold-Email Reply-Rate Benchmarks — The 6,337-Email Empirical Dataset (Edward Sturm E1194)** -> Read `./module_22_cold_email_reply_benchmarks_edward_sturm_ep_1194.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
@@ -29,4 +30,5 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are executing the 90-day branded-window guest-post perimeter for brand-name positions 1–30 (Module 4 §4.16) or direct cash local link outreach at $100–$500/post (Module 4 §4.17 — disclosure guardrail applies).
 - You are placing paid advertorials (Module 12 §12.7 — static raw-HTML placement conditions + disclosure guardrail).
 - You are seeding directory reviews on the zero-review void (Module 18 §18.21 — genuine sourcing only) or deciding whether to disavow (Module 18 §18.22 — never prophylactically; digital PR +71% benchmark).
+- You are composing, sequencing, or scheduling ANY outbound outreach email — link-gap, listicle placement, PR pitching, guest-post, or cash local outreach: enforce the empirical reply-rate mandates (60–90 word body, 1–2 follow-up cap, sub-30-character subject line, Tuesday/Wednesday dispatch, value-first open, editors-not-CEOs targeting — Module 22).
 - You are working the weighted source hierarchy (Google Books/YouTube/Wikipedia), IMDb Pro profiles, Google ecosystem stacking (sites.google.com, NotebookLM, Events), podcast `Event` entities, 4-node entity anchoring, or 48-hour opinion sculpting (Module 16 §16.3–§16.6).
