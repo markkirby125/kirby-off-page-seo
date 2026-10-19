@@ -13,6 +13,8 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
 - **Module 21: Newswire Indexation Criteria, DMCA Defense & Canonical-Trap Auditing (Charles Floate E1193)** -> Read `./module_21_newswire_dmca_canonical_defense.md`
 - **Module 22: Cold-Email Reply-Rate Benchmarks — The 6,337-Email Empirical Dataset (Edward Sturm E1194)** -> Read `./module_22_cold_email_reply_benchmarks_edward_sturm_ep_1194.md`
+- **Module 23: Nofollow Link Graph Ranking Physics & Clickstream Transmission (Edward Sturm Ep. 1198)** -> Read `./module_23_nofollow_link_graph_ranking_physics_edward_sturm_ep_1198.md`
+- **Module 24: Omnichannel AI Authority Seeding & Expert Consensus (Edward Sturm Ep. 1202)** -> Read `./module_24_omnichannel_ai_authority_seeding_edward_sturm_ep_1202.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
@@ -32,3 +34,6 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are seeding directory reviews on the zero-review void (Module 18 §18.21 — genuine sourcing only) or deciding whether to disavow (Module 18 §18.22 — never prophylactically; digital PR +71% benchmark).
 - You are composing, sequencing, or scheduling ANY outbound outreach email — link-gap, listicle placement, PR pitching, guest-post, or cash local outreach: enforce the empirical reply-rate mandates (60–90 word body, 1–2 follow-up cap, sub-30-character subject line, Tuesday/Wednesday dispatch, value-first open, editors-not-CEOs targeting — Module 22).
 - You are working the weighted source hierarchy (Google Books/YouTube/Wikipedia), IMDb Pro profiles, Google ecosystem stacking (sites.google.com, NotebookLM, Events), podcast `Event` entities, 4-node entity anchoring, or 48-hour opinion sculpting (Module 16 §16.3–§16.6).
+
+- You are acquiring nofollow backlinks or evaluating whether nofollow links pass ranking authority: apply Kyle Roof's Two-Factor Law (host page ranks + gets clicks), the May 2024 Google API clickstream data, and the Semrush 2025 AI visibility correlation (Module 23).
+- You are engineering AI search engine and LLM consensus to name an individual or brand as the top expert in a niche: deploy the Pedro Diaz LinkedIn Index-0 formula, tiered Yahoo Finance wire syndication (Zean Yasin case study), David Quaid on-site entity proclamations, and balanced self-promotional listicles (Module 24).
