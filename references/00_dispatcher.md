@@ -15,6 +15,9 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 22: Cold-Email Reply-Rate Benchmarks — The 6,337-Email Empirical Dataset (Edward Sturm E1194)** -> Read `./module_22_cold_email_reply_benchmarks_edward_sturm_ep_1194.md`
 - **Module 23: Nofollow Link Graph Ranking Physics & Clickstream Transmission (Edward Sturm Ep. 1198)** -> Read `./module_23_nofollow_link_graph_ranking_physics_edward_sturm_ep_1198.md`
 - **Module 24: Omnichannel AI Authority Seeding & Expert Consensus (Edward Sturm Ep. 1202)** -> Read `./module_24_omnichannel_ai_authority_seeding_edward_sturm_ep_1202.md`
+- **Module 25: The Claude 9-Minute Backlink Filtration & Prospecting Engine (Nico | AI Ranking)** -> Read `./module_25_claude_9_minute_backlink_filtration_engine.md`
+- **Module 26: On-Site "Reddit Alternative Resource Hubs" & Multi-Modal AI Overview Capture (Edward Sturm & Whitespark E49)** -> Read `./module_26_reddit_resource_hub_inversion_and_ai_parasite.md`
+- **Module 27: ChatGPT Local Discovery & The Yelp Data Licensing Mandate (Whitespark E44 & E47)** -> Read `./module_27_chatgpt_local_discovery_and_yelp_licensing_mandate.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
@@ -37,3 +40,6 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 
 - You are acquiring nofollow backlinks or evaluating whether nofollow links pass ranking authority: apply Kyle Roof's Two-Factor Law (host page ranks + gets clicks), the May 2024 Google API clickstream data, and the Semrush 2025 AI visibility correlation (Module 23).
 - You are engineering AI search engine and LLM consensus to name an individual or brand as the top expert in a niche: deploy the Pedro Diaz LinkedIn Index-0 formula, tiered Yahoo Finance wire syndication (Zean Yasin case study), David Quaid on-site entity proclamations, and balanced self-promotional listicles (Module 24).
+- You are filtering raw competitor backlink CSV exports via LLM prompts to strip out 95% of scraper/directory spam and classify prospects into the 4 high-yield buckets (Vendor/Partner Directories, Regional Chambers, Resource Insertions, and Editorial Roundups) paired with Module 22 outreach constraints (Module 25).
+- You are building an on-site **"Reddit Alternative Resource Hub"** (synthesizing multi-thread community complaints and pricing into structured comparison tables that rank alongside or above Reddit) or executing the LinkedIn Entity Hashtag + NotebookLM Audio Overview loop to capture Google AI Overviews (Module 26; distinct from basic title interception in M13 and branded subreddit defense in M20).
+- You are optimizing off-page review and directory signals for **ChatGPT local recommendations**: execute the **Yelp Data Licensing Mandate** (OpenAI pulls local star ratings, photos, and Request-a-Quote cards directly from Yelp) alongside multi-platform consensus across Trustpilot, Clutch, and regional chambers (Module 27; Yelp solicitation guardrails in `../../kirby-local-seo/SKILL.md` Module 6 §6.12).
