@@ -70,3 +70,31 @@ When an AI Overview target query transitions from an uncontested niche to a mult
   3. The URL is indexable (no `noindex`, not orphaned behind a session wall).
 * **⚠️ Disclosure guardrail (non-negotiable):** Paid placements must carry `nofollow`/`sponsored` attributes and clear sponsorship disclosure — Google link-spam policy and FTC endorsement guides both apply. The *AI-citation* value generally survives disclosure (LLMs cite crawlable content regardless of link attributes); it does not survive undisclosed-placement penalties. The *indexation* value must still pass the §4.22 non-indexed-link audit gate — an advertorial on a URL Google never indexes delivers neither. And like every paid placement in this skill, advertorials remain subject to the §4.12 low-quality paid-link GEO-demotion screen — vet the host's real authority and traffic before buying.
 * **Decay note:** Inherit the §12.6 reload cadence — a static advertorial is still a dated asset; schedule tier-2 support or refresh cycles for evergreen campaigns.
+
+---
+
+### **12.8 PR Wire Headline Front-Loading Formula for Commercial Ranking (Harpreet Singh & David Quaid Ep. 1206)**
+
+*Source: The Edward Show, Episode 1,206 (Harpreet Singh, David Quaid, Gagan Ghotra & Edward Sturm)*
+
+* **The Wire URL Slug Inheritance Mechanism:** High-tier press wires (PR Newswire, Business Wire) generate publication slugs directly from the release headline. When the exact commercial query is placed at character 0, the resulting high-authority wire URL ranks in Google Page 1 and Top Stories carousels within hours:
+  * *Sub-optimal Title (Brand-First):* `Mattress Firm Announces Exclusive Black Friday Discounts for Holiday Shoppers`
+    $\rightarrow$ *Resulting Slug:* `/mattress-firm-announces-exclusive-black-friday...` (lacks exact phrase match).
+  * *Optimal Front-Loaded Title (Commercial Query First):* `The Best Black Friday Mattress Deals Are Here at Mattress Firm`
+    $\rightarrow$ *Resulting Slug:* `/the-best-black-friday-mattress-deals-are-here-at-mattress-firm` (100% exact-match commercial slug).
+* **Wire Budget & Tiering Doctrine:**
+  * Do not spend $10,000+ on single prestige wires without established conversion attribution.
+  * Growth-hacker budget tier: $2,000–$4,000 spread across mid-tier syndication networks. Test multiple headline variations rather than banking on a single national wire.
+* **Link Value Expectation:** Wire-distributed links are universally `rel="nofollow"` or `rel="sponsored"`. The purpose of this play is **direct organic Page 1 ranking, Top Stories capture, and referral conversion**, not backlink equity transfer.
+
+---
+
+### **12.9 The Publisher Subfolder Exclusion Rule (Gagan Ghotra Ep. 1206)**
+
+* **The Publisher Subfolder Trap:** Media publishers frequently sell sponsored articles and gift guide placements for $5,000–$15,000, but publish the content inside segregated subfolders (e.g., `publisher.com/sponsored/`, `publisher.com/affiliate-hub/`, `publisher.com/fashion-deals/`).
+* **The Algorithmic Devaluation:**
+  * Both Google search algorithms and LLM RAG pipelines (ChatGPT Search, Perplexity) actively discount content housed in dedicated commercial affiliate subfolders because they are flagged as non-editorial paid promotion.
+* **The Mandatory Placement Contract:**
+  * Never purchase sponsored articles or seasonal PR placements relegated to an affiliate subfolder.
+  * Require the publisher to publish the article under their primary editorial or news URL root (e.g., `publisher.com/news/article-title` or `publisher.com/lifestyle/article-title`). If the publisher cannot provide primary root or section-level editorial URL placement, reject the placement.
+

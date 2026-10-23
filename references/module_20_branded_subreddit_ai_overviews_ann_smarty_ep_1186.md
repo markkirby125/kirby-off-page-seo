@@ -17,4 +17,21 @@ To defend against negative third-party sentiment, brands must actively build and
 
 ---
 
+### **20.4 The 2026 Automated Anti-Spam Crackdown & Circumvention Ban (Ep. 1206)**
+
+*Source: The Edward Show, Episode 1,206 (David Quaid, Harpreet Singh, Gagan Ghotra & Edward Sturm)*
+
+* **The Anti-Spam Hammer Reality:** Reddit administrators (not local subreddit moderators, but platform-level automated algorithms) aggressively suspend new accounts and brand-created subreddits within 3 to 5 minutes of creation. Default subreddit rules now mandate automated spam detection that cannot be disabled.
+* **The Circumvention Death Spiral:**
+  * When a new branded account or subreddit is banned, creating a variant account or recreating the community triggers Reddit's **Circumvention Rule**.
+  * Circumvention penalties blacklist associated IP addresses, device IDs, connected ad accounts, and user clusters, permanently destroying the brand's ability to participate on the platform.
+* **Seasonal Execution Prohibition:**
+  * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new subreddit in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). The risk of algorithmic account termination is near 100%.
+* **The Legitimate Engagement Channel:**
+  * Rather than creating rogue accounts or sending prohibited cash offers for Reddit posts, brands can legitimately hire established, recognized community moderators as official **Brand Ambassadors or Technical Advisors**.
+  * Established moderators possess aged accounts with high karma and verified trust scores, allowing legitimate support communication and AMA scheduling without triggering administrative spam flags.
+* **The On-Domain Counter-Positioning Rule:** For mitigating negative sentiment already present on Reddit, do not battle in comment threads. Execute the on-domain rebuttal architecture detailed in `../../kirby-aiseo-skill/SKILL.md` Module 14 §14.4.
+
+---
+
 *See also: [Module 13: Reddit & Quora "Modifier" Execution](module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md) (for resolving tension between owned assets vs. third-party platform moderation) and [Module 16: The 3rd-Party Corroboration Engine (Brand vs. Non-Brand)](module_16_entity_corroboration_force_indexing.md).*

@@ -3,14 +3,14 @@
 This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 
 ## 📚 Module Index
-- **Module 4: Off-Page Consensus & Video Transcription** -> Read `./module_4_off_page_consensus_video_transcription.md`
-- **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)** -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
+- **Module 4: Off-Page Consensus & Video Transcription** (including on-domain influencer video transcripts §4.23) -> Read `./module_4_off_page_consensus_video_transcription.md`
+- **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)** (including headline front-loading §12.8 and publisher subfolder exclusion §12.9) -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
 - **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `./module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
 - **Module 15: The Micro-Influencer Indexation Play** -> Read `./module_15_micro_influencer_indexation_play.md`
 - **Module 16: Entity Corroboration, Weighted Source Hierarchy, Google Ecosystem Stacking, Multi-Node Anchors & 48-Hour Opinion Sculpting** -> Read `./module_16_entity_corroboration_force_indexing.md`
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
 - **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
-- **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
+- **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** (including 2026 automated anti-spam crackdown and moderator ambassador protocol §20.4) -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
 - **Module 21: Newswire Indexation Criteria, DMCA Defense & Canonical-Trap Auditing (Charles Floate E1193)** -> Read `./module_21_newswire_dmca_canonical_defense.md`
 - **Module 22: Cold-Email Reply-Rate Benchmarks — The 6,337-Email Empirical Dataset (Edward Sturm E1194)** -> Read `./module_22_cold_email_reply_benchmarks_edward_sturm_ep_1194.md`
 - **Module 23: Nofollow Link Graph Ranking Physics & Clickstream Transmission (Edward Sturm Ep. 1198)** -> Read `./module_23_nofollow_link_graph_ranking_physics_edward_sturm_ep_1198.md`
@@ -24,7 +24,9 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are vetting paid newswire/press placements for guaranteed indexation, defending against fraudulent competitor DMCA takedowns (pre-position, counter-notice, §512(f) escalation), or auditing host platforms for self-referential canonical traps (Module 21).
 - You are optimizing YouTube transcripts or executing Parasite SEO.
 - You are planning backlink acquisition or PR syndication to manipulate AI Overviews (AEO press releases live here in Module 12, not in `kirby-technical-aeo`).
-- You are defending against negative AI Overviews by establishing and moderating a branded subreddit (Module 20).
+- You are structuring front-loaded PR Newswire headlines to rank directly on Page 1 for commercial queries (Module 12 §12.8), or auditing media buys to enforce the publisher subfolder exclusion rule (§12.9).
+- You are defending against negative AI Overviews by establishing and moderating a branded subreddit, or navigating the 2026 administrative anti-spam crackdown and ambassador protocol (Module 20 §20.4).
+- You are transcribing influencer YouTube review videos on your primary domain with FTC Part 465 disclosures to seed LLM consensus (Module 4 §4.23).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable social proof.
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).

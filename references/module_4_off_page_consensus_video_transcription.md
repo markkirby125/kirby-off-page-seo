@@ -833,3 +833,19 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 * **⚠️ Disclosure guardrail:** Paid placements without `nofollow`/sponsor disclosure breach Google link-spam policy and FTC endorsement guides — the link buys local citation exposure and relationship, not undisclosed equity. Costs scale linearly with volume; local-link ROI lives in relationship reuse, not one-off buys. Every placed link remains subject to the §4.12 low-quality paid-link GEO-demotion screen — vet hosts for real local traffic before offering.
 
 ---
+
+### **4.23 On-Domain Influencer Video Transcripts with FTC Disclosures (Gagan Ghotra & David Quaid Ep. 1206)**
+
+*Source: The Edward Show, Episode 1,206 (Gagan Ghotra, David Quaid, Harpreet Singh & Edward Sturm)*
+
+* **The Influencer Content Repurposing Moat:** When brands sponsor niche creators and industry influencers on YouTube, the spoken video text contains rich, authentic product praise and comparative benchmarks. However, LLMs and search engines ingest text documents far more deterministically than raw audio streams.
+* **On-Domain Ingestion Architecture:**
+  1. Transcribe sponsored video reviews, tutorials, and unboxings using automated transcription tools (Descript, Whisper).
+  2. Publish structured review pages directly on the **primary money domain** under a dedicated directory: `brand.com/reviews/[creator-name]-review`.
+  3. Mark up the document with `VideoObject` and `Review` schema, linking the video embed to the timestamped text transcript.
+* **FTC Sponsorship Compliance (16 CFR Part 465):**
+  * Mandate conspicuous, above-the-fold sponsorship disclosures:
+    > *"Notice: This review transcript features a sponsored product partnership between [Brand] and [Creator]. Opinions and test results reflect genuine creator evaluations."*
+  * Disclose compensation clearly to prevent regulatory enforcement under FTC endorsement and testimonial rules.
+* **LLM Synthesis Outcome:** Answer engines (ChatGPT, Perplexity) searching for brand reviews crawl the structured on-domain transcript text and cite the creator’s positive technical observations during comparative buyer prompts, converting influencer spend into permanent generative search equity.
+
