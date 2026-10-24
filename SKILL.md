@@ -1,8 +1,8 @@
 ---
 name: kirby-off-page-seo
-description: "Use when executing off-page entity consensus, Reddit/YouTube optimization, PR syndication, micro-influencers, SaaS listicle placement, competitive link-gap outreach, cold-email outreach benchmarks, or Link acquisition strategies."
+description: "Use when executing off-page entity consensus, Reddit/YouTube optimization, PR syndication, digital PR, interactive calculators, micro-influencers, SaaS listicle placement, competitive link-gap outreach, cold-email outreach benchmarks, or Link acquisition strategies."
 category: technique
-triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers, entity-corroboration, saas-listicles, link-gap, listicle-placement, branded-subreddit, ai-overview-defense, cold-outreach, link-outreach, email-reply-rate, nofollow-seo, ai-authority-seeding, press-release-syndication, claude-backlinks, yelp-chatgpt, reddit-resource-hub]
+triggers: [off-page-seo, backlinks, parasite-seo, entity-consensus, youtube-seo, reddit-hijacking, micro-influencers, entity-corroboration, saas-listicles, link-gap, listicle-placement, branded-subreddit, ai-overview-defense, cold-outreach, link-outreach, email-reply-rate, nofollow-seo, ai-authority-seeding, press-release-syndication, claude-backlinks, yelp-chatgpt, reddit-resource-hub, digital-pr, proprietary-data, interactive-calculators, disavow-boundary]
 risk: unverified
 author: paul-kirby
 tags: [kirby, ai-agent, workflow]

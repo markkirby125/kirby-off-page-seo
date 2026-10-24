@@ -239,7 +239,7 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 
 ### **18.22 Digital PR Yield Benchmarks & The Disavow Dichotomy**
 
-*Source: 9,249 validated case-study meta-analysis (Edward Sturm Ep. 1191).*
+*Source: 9,249-document systematic review (Edward Sturm Ep. 1191 audio / Ep. 1207 YouTube).*
 
 * **Digital PR yield:** Editorial backlinks acquired via digital PR produced an average **+71% organic-session lift** in the source tests (directional — treat as the strongest measured single link-acquisition lever, not a guarantee). Budget digital PR before volume guest-posting.
 * **The Disavow Dichotomy:**

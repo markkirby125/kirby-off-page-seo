@@ -18,6 +18,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - **Module 25: The Claude 9-Minute Backlink Filtration & Prospecting Engine (Nico | AI Ranking)** -> Read `./module_25_claude_9_minute_backlink_filtration_engine.md`
 - **Module 26: On-Site "Reddit Alternative Resource Hubs" & Multi-Modal AI Overview Capture (Edward Sturm & Whitespark E49)** -> Read `./module_26_reddit_resource_hub_inversion_and_ai_parasite.md`
 - **Module 27: ChatGPT Local Discovery & The Yelp Data Licensing Mandate (Whitespark E44 & E47)** -> Read `./module_27_chatgpt_local_discovery_and_yelp_licensing_mandate.md`
+- **Module 28: Proprietary Data Digital PR & Interactive Calculators (Ep. 1191 audio / Ep. 1207 YouTube — Zenodo 10.5281/zenodo.22768160)** -> Read `./module_28_proprietary_data_pr_and_interactive_calculators_ep_1207.md`
 
 ## When to Use
 - You need to build multi-platform entity consensus.
@@ -45,3 +46,4 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are filtering raw competitor backlink CSV exports via LLM prompts to strip out 95% of scraper/directory spam and classify prospects into the 4 high-yield buckets (Vendor/Partner Directories, Regional Chambers, Resource Insertions, and Editorial Roundups) paired with Module 22 outreach constraints (Module 25).
 - You are building an on-site **"Reddit Alternative Resource Hub"** (synthesizing multi-thread community complaints and pricing into structured comparison tables that rank alongside or above Reddit) or executing the LinkedIn Entity Hashtag + NotebookLM Audio Overview loop to capture Google AI Overviews (Module 26; distinct from basic title interception in M13 and branded subreddit defense in M20).
 - You are optimizing off-page review and directory signals for **ChatGPT local recommendations**: execute the **Yelp Data Licensing Mandate** (OpenAI pulls local star ratings, photos, and Request-a-Quote cards directly from Yelp) alongside multi-platform consensus across Trustpilot, Clutch, and regional chambers (Module 27; Yelp solicitation guardrails in `../../kirby-local-seo/SKILL.md` Module 6 §6.12).
+- You are engineering high-authority Digital PR link magnets from proprietary customer datasets, deploying client-side interactive calculators (e.g., sustainability/savings tools), evaluating disavow penalty recovery boundaries, or leveraging ranking nofollow links to trigger dual-surface SERP video co-ranking (Module 28).
