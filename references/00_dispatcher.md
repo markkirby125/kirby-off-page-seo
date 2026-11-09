@@ -3,13 +3,13 @@
 This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 
 ## 📚 Module Index
-- **Module 4: Off-Page Consensus & Video Transcription** (including on-domain influencer video transcripts §4.23) -> Read `./module_4_off_page_consensus_video_transcription.md`
+- **Module 4: Off-Page Consensus & Video Transcription** (including SME Answer-Echo interview protocol & Shorts vs. Long-Form RAG law §4.2, and on-domain influencer video transcripts §4.23) -> Read `./module_4_off_page_consensus_video_transcription.md`
 - **Module 12: AEO Press Release Manipulation & Zero-Dilution Title Engineering (Edward Sturm Ep. 1164, 1170 & 1171)** (including headline front-loading §12.8 and publisher subfolder exclusion §12.9) -> Read `./module_12_aeo_press_release_manipulation_edward_sturm_ep_1164.md`
 - **Module 13: Reddit Keyword Hijacking (Edward Sturm Ep. 1101)** -> Read `./module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md`
 - **Module 15: The Micro-Influencer Indexation Play** -> Read `./module_15_micro_influencer_indexation_play.md`
 - **Module 16: Entity Corroboration, Weighted Source Hierarchy, Google Ecosystem Stacking, Multi-Node Anchors & 48-Hour Opinion Sculpting** -> Read `./module_16_entity_corroboration_force_indexing.md`
 - **Module 18: SaaS Listicle Placement & Competitive Gap Outreach (Edward Sturm Ep. 1168)** -> Read `./module_18_saas_listicle_placement_edward_sturm_ep_1168.md`
-- **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171)** -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
+- **Module 19: Semantic Elasticity & Social Media Parasite Power Rankings (Edward Sturm × James Dooley Ep. 1171; Edward Sturm Ep. 1112)** (including Medium.com H1 direct-answer architecture, `@username` prefix de-indexing defense, and FTC/Spam Policy executive syndication guardrails §19.2D) -> Read `./module_19_semantic_elasticity_social_parasite_power.md`
 - **Module 20: The Branded Subreddit AI Overview Defense (Ann Smarty Ep. 1186)** (including 2026 automated anti-spam crackdown and moderator ambassador protocol §20.4) -> Read `./module_20_branded_subreddit_ai_overviews_ann_smarty_ep_1186.md`
 - **Module 21: Newswire Indexation Criteria, DMCA Defense & Canonical-Trap Auditing (Charles Floate E1193)** -> Read `./module_21_newswire_dmca_canonical_defense.md`
 - **Module 22: Cold-Email Reply-Rate Benchmarks — The 6,337-Email Empirical Dataset (Edward Sturm E1194)** -> Read `./module_22_cold_email_reply_benchmarks_edward_sturm_ep_1194.md`

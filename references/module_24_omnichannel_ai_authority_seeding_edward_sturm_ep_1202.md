@@ -49,6 +49,7 @@ Publishing "Best [Niche Service] in [City] 2026" on your own website, placing yo
   1. **Equal Real Estate**: Give all competitors mentioned equal word count, bullet styling, and formatting. Do not make your entry 5x longer.
   2. **Quiet Confidence vs. Hyperbolic Sales Pitch**: Eliminate sales hyperbole (*"revolutionary"*, *"best in the world"*, *"unbelievable"*). Strip artificial intensifiers (*"really"*, *"very"*). A neutral, matter-of-fact tone builds algorithmic trust and prevents LLM hallucination filtering.
   3. **Transparent Criteria**: Explicitly document the objective evaluation criteria (years in business, technology stack, case studies).
+  4. **The Self-Promotional Listicle Exclusion Caveat (Dmytro Sochko / Editorial.Link in Ep. 1208 `10DT7t1RetI`; corroborated by Lily Ray, June 2026):** As documented in `../../kirby-decision-engine-optimization/SKILL.md` (Module 6 §6.1), Dmytro Sochko's research cited in Ep. 1208 (`10DT7t1RetI`) shows that Google cites self-promotional listicles **~2× less frequently** than independent roundups and leaves out the brand that ranked itself #1 from the synthesized AI answer most of the time *(external corroboration: Lily Ray's separate June 2026 observational study of 323 cited self-ranking listicles indicates a **69% [224/323] synthesis exclusion rate**)*. Treat an on-site self-promotional listicle strictly as **Step 1 seed copy** for the off-page PR and UGC flywheel below (`§24.5`), never as a substitute for third-party listicle placements (`Module 18`).
 
 ---
 

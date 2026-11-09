@@ -5,12 +5,21 @@
 * **NAP & Entity Consistency:** Standardise the exact Legal Business Name, Address, Phone, and Service Categories verbatim across secondary trade registries (Yell, Clutch UK, Spiceworks, LinkedIn, Thomson Local) to supply consistent cross-referencing signals for LLM consensus validation.  
 * **Schema Hierarchy:** Connect all local business listings to the primary website via LocalBusiness and Organization JSON-LD schemas utilising the sameAs array and hasMap CID endpoints.
 
-### **4.2 YouTube Transcript Optimisation (0.737 ChatGPT Correlation)**
+### **4.2 YouTube Transcript Optimisation, SME Answer-Echo Protocol & Long-Form RAG Context Law (0.737 ChatGPT Correlation)**
 
-YouTube is the single most cited domain in Google AI Overviews, and branded transcript mentions demonstrate a 0.737 correlation with ChatGPT citation inclusion.
+YouTube is the single most cited domain in Google AI Overviews (reported at **22%** of all AI Overview citations — the #1 source — by Rob Hoffman [`S_5rx9H0elM`]; external industry benchmarks similarly report ~22.9% [Ahrefs] to ~29.5% [BrightEdge], while Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined represent **15% of all sources linked inside AI summaries** vs. 5% in standard search results), and branded transcript mentions demonstrate a 0.737 correlation with ChatGPT citation inclusion.
 
 * **First-45-Second Spoken Tokens:** Speak the primary brand name, geographic location, and specific technical topic clearly within the first 45 seconds of video audio.  
 * **ISO Chapter Timestamps:** Structure video descriptions with exact chapter timestamps aligned with the corresponding on-site article headings.
+* **Why LLMs Prioritize Video Transcripts (Information Gain vs. Model Collapse — Rob Hoffman, `S_5rx9H0elM`):** Because static web text is increasingly saturated with recycled AI-generated prose, LLMs risk recursive **Model Collapse** when training on synthetic text. Retrieval pipelines therefore prioritize human-created YouTube video transcripts as high-trust sources of first-person **Information Gain** (compounded by Google's native ecosystem preference for YouTube in Gemini/AI Overviews and RAG transcript ingestion across ChatGPT, Claude, and Perplexity).
+* **The SME "Answer-Echo" Interview Protocol (Rob Hoffman, `S_5rx9H0elM`):**
+  1. **Target Keyword-Researched BOFU Queries:** Select specific, high-intent questions based on keyword research (focusing on bottom-of-funnel commercial and comparative questions rather than broad top-of-funnel definitions).
+  2. **Unscripted SME Capture:** Interview an internal Subject Matter Expert (SME) or founder on camera—do **not** hand them a rigid word-for-word script, as natural human cadence and domain terminology produce higher information gain.
+  3. **The Answer-Echo Opening Rule:** Instruct the SME to **repeat/echo the target question in their opening sentence** (e.g., *"When people ask what the best [product/service] is for [use case], I tell them..."*), then cut out the interviewer's voice in post-production so the video opens directly with a clean, self-contained semantic Q&A block.
+  4. **Verified Transcript / Closed-Caption (`.SRT`) Upload & On-Site Mirroring:** Generate a clean transcript using **Gemini** (which produces cleaner punctuation and entity spelling than raw YouTube auto-captions), manually verify and upload that transcript / closed-caption (`.SRT`) file directly to YouTube, and embed the video alongside the structured Q&A text on the corresponding website page (with bidirectional links between the YouTube description and the site URL).
+* **The Shorts vs. Long-Form RAG Context Law & `CCBot` Audit (Nathan Gotch, `xo-daGqFFhM`):**
+  * **Longer-Form for AI Retrieval vs. Shorts for SERP Carousels:** While YouTube Shorts dominate mobile organic SERP video carousels (see `§4.14E`), Gotch notes that **Shorts are not retrieved in AI search because their script is too small (often `<100 words`) to provide sufficient semantic context**. Prioritize longer-form educational and comparison videos to supply the transcript depth LLMs require for citation.
+  * **Bot Access Verification (`CCBot`):** Verify that `robots.txt` on the companion website does not block **`CCBot` (Common Crawl)**, which LLMs rely on for training and entity discovery *(editorial extension: also verify access for live retrieval bots `OAI-SearchBot`, `GPTBot`, `ClaudeBot`, and `PerplexityBot`)*.
 
 ### **4.3 The 250 Authority Protocol & Reddit AI Search Blueprint**
 
