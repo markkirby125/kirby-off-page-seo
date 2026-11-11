@@ -250,9 +250,9 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 
 ### **18.23 Residual Credibility Triage (After a Broad Link-Based Demotion)**
 
-*Directional, from one reported case study (single source, unverified, not a Google statement). This module owns the triage; other skills point here as Module 18 §18.23. It is a recovery step, not pruning (the aiseo pruning protocol removes content; this concentrates it).*
+*Directional, from one reported case study (single source, unverified, not a Google statement). This module owns the triage; other skills point here as Module 18 §18.23. It is a recovery step, not pruning (`../../kirby-aiseo-skill/SKILL.md` Module 2 §2.34 removes content; this concentrates it).*
 
 1. **Find the survivors:** After a broad demotion, filter Search Console performance for the narrow cluster of long-tail queries that still earn impressions. Treat that cluster as a working assumption about where Google still extends some credibility to the site, not as proof.
 2. **Concentrate content there:** Rank the surviving queries by impressions times competitor coverage gap and build depth where competitors have little or no coverage. Do not rewrite the whole site.
 3. **Restore equity last:** Only once rankings and impressions have stopped falling, push equity back to money pages with internal links. Do not set a fixed wait; the reported case gives none.
-4. **No site-wide overhaul plus disavow by default:** The reported case says this approach often fails (same single source). Remove or replace harmful links at their source first and disavow only what a manual-action notice names, as in §18.22.
+4. **Avoid the site-wide overhaul plus default-disavow approach:** The reported case says this approach often fails (same single source). Remove or replace harmful links at their source first and disavow only what a manual-action notice names, as in §18.22.

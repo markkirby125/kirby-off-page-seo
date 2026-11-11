@@ -58,13 +58,13 @@ Publishing "Best [Niche Service] in [City] 2026" on your own website, placing yo
 
 ```mermaid
 graph TD
-    A["1. On-Site Balanced Listicle<br/>(Brand placement subject to §24.4 rule 5)"] --> B["2. Press Release Syndication<br/>(Globe Newswire / Yahoo Finance)"]
+    A["1. On-Site Balanced Listicle<br/>(Brand at #1, only if it passes §24.4 rule 5)"] --> B["2. Press Release Syndication<br/>(Globe Newswire / Yahoo Finance)"]
     B --> C["3. UGC Authority Hook<br/>(LinkedIn Opening Sentence)"]
     C --> D["4. Tier-2 Backlink Fortification<br/>(Links to PR & LinkedIn Posts)"]
     D --> E["Permanent AI Search Citation<br/>(ChatGPT, Gemini, Perplexity)"]
 ```
 
-1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (subject to the §24.4 rule 4 and rule 5 gates).
+1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (only if it passes the §24.4 rule 5 gate).
 2. **Step 2**: Issue a press release via Globe Newswire / Yahoo Finance declaring the recognition or research findings.
 3. **Step 3**: Post on LinkedIn with the exact target phrase in the first sentence, linking back to the press release and on-site guide.
 4. **Step 4**: Build tier-2 backlinks to the LinkedIn post and the Yahoo Finance press release to freeze the citation in LLM training and RAG retrieval pipelines.
