@@ -58,7 +58,7 @@ The meta-study analyzed the empirical impact of Google's Disavow tool across his
 - **Reconciliation with Module 18 §18.22 & Dispatcher "When to Use" Rule**: Prophylactic disavowal remains strictly prohibited. A domain must never disavow links based on third-party "toxic score" metrics. Disavowal is reserved exclusively for:
   1. Reversing an active Google Manual Action for Unnatural Inbound Links.
   2. Documented historical paid-link networks explicitly identified in manual action notifications.
-- **Scope boundary with §4.12 (matching §18.22)**: This prohibition governs *Google-organic* prophylactic disavowal. It does not override §4.12's symptom-triggered GEO axis: when AI Overviews/ChatGPT citations are suppressed without a manual action, run the §4.12 Proactive Link Toxicity Audit and disavow or remove the polluting spam-network/paid-guest-post links — that is remediation of an observed suppression signal, not a third-party "toxic score" cull.
+- **Scope boundary with §4.12 (matching §18.22)**: This prohibition governs *Google-organic* prophylactic disavowal. It does not override §4.12's symptom-triggered GEO axis: when AI Overviews/ChatGPT citations are suppressed without a manual action, run the §4.12 Proactive Link Toxicity Audit and remove or replace the polluting spam-network/paid-guest-post links at the source first. The disavow tool is for domains a manual-action notice names, not for this axis. This is remediation of an observed suppression signal, not a third-party "toxic score" cull.
 
 ---
 

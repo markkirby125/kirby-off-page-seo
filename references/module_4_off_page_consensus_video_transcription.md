@@ -639,10 +639,10 @@ SaaS/B2B **how** (Ahrefs ≥2-competitor gap, AI-visibility overlap including no
 
 Following Google's official confirmation that random, low-quality backlinks (unrelated directories, forum signatures, low-tier PBNs, automated bookmarks) provide zero ranking value, site owners face widespread demands for paid link insertions. However, paying for low-quality or manufactured links introduces fatal generative engine demotion vectors. High-authority, cost-free backlink acquisition in 2026 relies on empirical data syndication, sector-wide scripted audits, and authentic entity validation.
 
-#### A. The GEO Link Penalty & LLM Reasoning Filters (Gavalist Benchmark)
-* **Active LLM Retrieval Filtering:** Low-quality paid backlinks do not merely face passive mathematical discounting by search algorithms; they actively trigger anti-spam heuristics within conversational AI reasoning engines (e.g., Claude's reasoning stage explicitly logging *"filtering out SEO spam"*).
-* **The 50% to <6% Citation Collapse:** In empirical GEO audits, websites with otherwise optimal technical architecture that acquired as few as 20 low-quality paid backlinks had their conversational AI visibility collapse from an expected $>50\%$ down to $<6\%$. Generative models flagged the backlink footprint as misleading, paid-for, or synthetic, requiring users to explicitly prompt the exact brand name to trigger retrieval.
-* **Proactive Link Toxicity Audit:** For domains suffering suppressed AI Overviews or ChatGPT citations, conduct an immediate backlink audit to disavow or remove spam-network or paid-guest-post backlinks that pollute entity trust graphs.
+#### A. The GEO Link Penalty & LLM Reasoning Filters (Gavalist Benchmark, single reported audit)
+* **Active LLM Retrieval Filtering:** Low-quality paid backlinks do not merely face passive mathematical discounting by search algorithms; they reportedly trigger anti-spam heuristics within conversational AI reasoning engines (directional, single source; e.g., Claude's reasoning stage explicitly logging *"filtering out SEO spam"*).
+* **The 50% to <6% Citation Collapse (directional, single source):** In one reported GEO audit, websites with otherwise optimal technical architecture that acquired as few as 20 low-quality paid backlinks had their conversational AI visibility collapse from an expected $>50\%$ down to $<6\%$. Generative models flagged the backlink footprint as misleading, paid-for, or synthetic, requiring users to explicitly prompt the exact brand name to trigger retrieval.
+* **Proactive Link Toxicity Audit:** For domains suffering suppressed AI Overviews or ChatGPT citations, conduct an immediate backlink audit. Remove or replace spam-network and paid-guest-post links at the source first (ask the host to take them down or make them `nofollow`/sponsored). Disavow only the domains a manual-action notice names (see the Disavow Dichotomy and decision rule in Module 18 §18.22). One reported case study (directional, single source, unverified) found that site-wide overhauls plus disavow files failed to lift a broad link penalty and that Google demoted a domain carrying toxic paid links; treat that as a caution, not a rule.
 
 #### B. The Scripted Sector-Wide Audit Engine ($n \ge 3,000$ Formula)
 * **Outreach-Free Citation Moats:** Traditional manual outreach achieves low conversion and high payment demands. Replace manual link requests with the automated programmatic sector audit (the *best8381 benchmark*).
@@ -683,7 +683,7 @@ Following Google's official confirmation that random, low-quality backlinks (unr
   3. **Authority / Backlinks (#3 Priority):** Accounts for approximately one-third of total algorithmic weight. Operates as an amplifier for relevant, high-engagement content, but triggers immediate demotion or LLM exclusion if acquired through manipulative or low-quality networks.
 
 **Episode 1,160 Implementation Checklist**
-- [ ] Audit backlink profiles for spammy/paid links; disavow toxic referring domains to eliminate LLM reasoning suppression filters.
+- [ ] Audit backlink profiles for spammy/paid links; remove or replace them at the source first, and disavow only domains a manual-action notice names (see §4.12.A and Module 18 §18.22).
 - [ ] Identify a sector-wide vertical to scrape and audit at $n \ge 3,000$; isolate one contentious metric and draft an honest methodology disclosure.
 - [ ] Cross-reference government/census data sets with industry topics to construct a regional index report for local press syndication.
 - [ ] Implement an anonymous tip workflow for charitable and community service projects to secure local news coverage.
@@ -823,7 +823,7 @@ Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated tex
 * **The Window:** Focus on Google positions 1–30 for brand-name searches during the first 90 days. Acquire branded guest posts that define entity nature, capabilities, and target audience — not keyword-stuffed anchors — across the secondary search pages to create an airtight semantic perimeter around the brand.
 * **Content Spec:** Each placement states the 1–2 sentence entity definition plus one capability, one audience, and one third-party-proof (*why*) clause — the Who/What/Why trinity format (`kirby-aiseo-skill` §2.42 doctrine).
 * **Cadence:** Sustained across 90 days; a burst of branded placements in one week patterns as a link scheme.
-* **⚠️ Disclosure guardrail:** Paid or compensated branded placements carry the §12.7 nofollow/sponsor-disclosure requirement — the perimeter buys semantic corroboration, not undisclosed equity. All placements remain subject to the §4.12 low-quality paid-link GEO-demotion screen; as few as 20 low-quality paid links collapse AI visibility from >50% to <6%.
+* **⚠️ Disclosure guardrail:** Paid or compensated branded placements carry the §12.7 nofollow/sponsor-disclosure requirement — the perimeter buys semantic corroboration, not undisclosed equity. All placements remain subject to the §4.12 low-quality paid-link GEO-demotion screen; in one reported audit as few as 20 low-quality paid links collapsed AI visibility from >50% to <6% (directional, single source).
 * **Caution:** Volume guest-posting for brand queries can pattern-match as manipulative link building; keep anchor text natural (brand, URL, naked mentions) and diversify hosting domains. Over-optimized branded anchors defeat the perimeter's purpose.
 
 ### **4.17 Direct Cash Local Link Outreach ($100–$500 Upfront Offers)**
