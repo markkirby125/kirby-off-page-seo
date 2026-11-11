@@ -247,3 +247,12 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
   * **Without an active manual penalty:** disavowing showed **zero measurable traffic impact** — Google algorithmically ignores spam links, and manual disavowal of unpenalized profiles risks discarding beneficial equity.
 * **Decision rule:** Never disavow prophylactically. Audit for a manual action first (GSC); disavow only what the penalty notice names, then stop.
 * **Scope reconciliation with §4.12:** The dichotomy above is a *Google-organic-traffic* measurement. It does not override §4.12's GEO finding: low-quality/paid backlink footprints actively suppress AI-citation visibility (the >50%→<6% collapse) **without any Google manual penalty**. When AI Overviews/ChatGPT citations are suppressed, run §4.12's Proactive Link Toxicity Audit and remove or replace the polluting links at the source first. Do not disavow on this axis without a manual-action notice naming the domains: the disavow tool has no documented effect outside manual-action remediation, and removing the link at its source is the only fix with a visible result. The "zero impact" measurement above is an organic-traffic result and is not evidence about AI-citation recovery.
+
+### **18.23 Residual Credibility Triage (After a Broad Link-Based Demotion)**
+
+*Directional, from one reported case study (single source, unverified, not a Google statement). This module owns the triage; other skills point here as Module 18 §18.23. It is a recovery step, not pruning (the aiseo pruning protocol removes content; this concentrates it).*
+
+1. **Find the survivors:** After a broad demotion, filter Search Console performance for the narrow cluster of long-tail queries that still earn impressions. Treat that cluster as a working assumption about where Google still extends some credibility to the site, not as proof.
+2. **Concentrate content there:** Rank the surviving queries by impressions times competitor coverage gap and build depth where competitors have little or no coverage. Do not rewrite the whole site.
+3. **Restore equity last:** Only once rankings and impressions have stopped falling, push equity back to money pages with internal links. Do not set a fixed wait; the reported case gives none.
+4. **No site-wide overhaul plus disavow by default:** The reported case says this approach often fails (same single source). Remove or replace harmful links at their source first and disavow only what a manual-action notice names, as in §18.22.
