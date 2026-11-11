@@ -50,6 +50,7 @@ Publishing "Best [Niche Service] in [City] 2026" on your own website, placing yo
   2. **Quiet Confidence vs. Hyperbolic Sales Pitch**: Eliminate sales hyperbole (*"revolutionary"*, *"best in the world"*, *"unbelievable"*). Strip artificial intensifiers (*"really"*, *"very"*). A neutral, matter-of-fact tone builds algorithmic trust and prevents LLM hallucination filtering.
   3. **Transparent Criteria**: Explicitly document the objective evaluation criteria (years in business, technology stack, case studies).
   4. **The Self-Promotional Listicle Exclusion Caveat (Dmytro Sochko / Editorial.Link in Ep. 1208 `10DT7t1RetI`; corroborated by Lily Ray, June 2026):** As documented in `../../kirby-decision-engine-optimization/SKILL.md` (Module 6 §6.1), Dmytro Sochko's research cited in Ep. 1208 (`10DT7t1RetI`) shows that Google cites self-promotional listicles **~2× less frequently** than independent roundups and leaves out the brand that ranked itself #1 from the synthesized AI answer most of the time *(external corroboration: Lily Ray's separate June 2026 observational study of 323 cited self-ranking listicles indicates a **69% [224/323] synthesis exclusion rate**)*. Treat an on-site self-promotional listicle strictly as **Step 1 seed copy** for the off-page PR and UGC flywheel below (`§24.5`), never as a substitute for third-party listicle placements (`Module 18`).
+  5. **Manual-Action Risk Gate (unverified):** A report (directional, single source, unverified) suggests that listicles ranking the publisher first may raise spam-policy risk, described as an automated manual-action trigger. Treat this as a risk signal, not a confirmed rule, and not as evidence that a manual-action notice was issued (see the disavow dichotomy in Module 18 §18.22). The original source is not recorded in the dossier. Publish a self-ranking listicle only when it uses real, documented comparison criteria (rule 3) applied to every entry with equal real estate (rule 1), states the publisher's own interest in a visible disclosure near the top, and would still read as a fair comparison if your entry ranked lower. If you cannot meet any one of these conditions, do not publish it.
 
 ---
 
@@ -57,13 +58,13 @@ Publishing "Best [Niche Service] in [City] 2026" on your own website, placing yo
 
 ```mermaid
 graph TD
-    A["1. On-Site Balanced Listicle<br/>(Places Brand at #1)"] --> B["2. Press Release Syndication<br/>(Globe Newswire / Yahoo Finance)"]
+    A["1. On-Site Balanced Listicle<br/>(Brand placement subject to §24.4 rule 5)"] --> B["2. Press Release Syndication<br/>(Globe Newswire / Yahoo Finance)"]
     B --> C["3. UGC Authority Hook<br/>(LinkedIn Opening Sentence)"]
     C --> D["4. Tier-2 Backlink Fortification<br/>(Links to PR & LinkedIn Posts)"]
     D --> E["Permanent AI Search Citation<br/>(ChatGPT, Gemini, Perplexity)"]
 ```
 
-1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain.
+1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (subject to the §24.4 rule 4 and rule 5 gates).
 2. **Step 2**: Issue a press release via Globe Newswire / Yahoo Finance declaring the recognition or research findings.
 3. **Step 3**: Post on LinkedIn with the exact target phrase in the first sentence, linking back to the press release and on-site guide.
 4. **Step 4**: Build tier-2 backlinks to the LinkedIn post and the Yahoo Finance press release to freeze the citation in LLM training and RAG retrieval pipelines.

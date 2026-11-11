@@ -27,9 +27,9 @@ Anthropic research establishes that ~250 distributed documents/mentions create p
 1. **Owned Foundation:** Case studies with hard numbers and hyper-local parameters (e.g., "replaced 14 consumer units in Ascot, reducing downtime by 2 hours").
 2. **Professional Platforms:** LinkedIn technical articles, guest publications, niche author profiles.
 3. **Community Consensus (Reddit AI Blueprint — 20x Referral Lift):**
-   * *Profile Stealth:* Deploy unbranded personas with plain avatars; zero commercial links or sales pitches in profile bios.
+   * *Profile Stealth (unbranded, not fake):* Post from real, disclosed people with plain avatars (a real photo or a neutral avatar); zero commercial links or sales pitches in profile bios. "Unbranded" means no sales pitch, not a fabricated identity: never invent an expert persona, credentials or an AI-generated headshot, and disclose your affiliation in the post or comment text whenever you mention your own business or clients.
    * *7–14 Day Subculture Onboarding:* Analyze subreddit rules, upvoted syntax, and moderation quirks (or prompt Claude with subreddit URL to generate subculture playbook in 30s).
-   * *Two-Tier Strategy:* Tier 1 (niche subreddits for karma/account aging) $\rightarrow$ Tier 2 (high-volume commercial subreddits).
+   * *Two-Tier Strategy:* Tier 1 (genuine participation in niche subreddits to build real reputation over time; no scripted karma farming, purchased accounts or artificially aged accounts) $\rightarrow$ Tier 2 (high-volume commercial subreddits, once the reputation is real).
    * *SERP Cross-Targeting:* Identify and seed subreddits currently ranking on Google Page 1 for high-value transactional terms (these feed directly into AI search pipelines).
    * *Velocity Filter:* Target "Rising" or "Hot" threads to establish early presence before threads index into LLM retrieval stores.
 4. **Third-Party Validation:** Local chambers of commerce, trade accreditations, and PR press citations.
