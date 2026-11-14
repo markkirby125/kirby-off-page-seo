@@ -35,6 +35,12 @@ Standard guest-post outreach and directory submissions suffer from steep diminis
    - One declarative BLUF headline.
    - Clean data tables with downloadable raw CSV data.
    - Embeddable visualization graphics with attribution links.
+3. **V5 Vertical Fan-Out Target Matrix & Split Off-Site Placement Strategy (Kasra Dash V5)**:
+   - **Match Placement Type to Vertical Fan-Out Divergence:**
+     - **Local Services (`Brand + Trade Directories`):** Pair regional data PR (Module 4 §4.12C) with verified local/trade directory profiles (Yelp, Checkatrade, Chambers) containing hard-number `About` bios (Module 16 §16.1).
+     - **E-Commerce (`Exact SKU/Model + Review Roundups`):** Pair proprietary category data PR with hands-on product-testing placements and independent review roundups citing exact SKU/model strings.
+     - **B2B SaaS (`Brand + Comparisons/Screenshots`):** Pair proprietary telemetry/benchmark PR with mid-tier `X vs Y` comparison and alternatives listicle insertions (Module 18) supplying real product screenshots and trade-off tables.
+   - **Two-Track Budget Split:** Separate off-site execution into **(a) Scalable Mid-Tier Fan-Out Outreach** (Module 18 listicle/comparison insertions targeting the exact URLs surfaced in 3–5x multi-run fan-out clusters) and **(b) Tier-1 Editorial PR & Product Testing** (this module's data studies, calculators, and major media reviews). Evaluate ROI via **Synthesis Recommendation Share** + citations + conversions across **Google AIO (2–4 weeks)** vs. **ChatGPT Search (60–120 days)** propagation windows ([`kirby-seo-telemetry`](../../kirby-seo-telemetry/SKILL.md) Module 15 §15.3).
 
 ---
 

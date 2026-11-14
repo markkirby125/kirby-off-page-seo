@@ -17,6 +17,12 @@ Treat AI SEO as two halves:
 
 **Priority:** for a ~200-query commercial set, get into the ~10 roundups with the most AI retrievals *before* waiting on model-authority updates. Roundups also sit in the evaluation / comparison stage (e.g. “best CRM for small agency”).
 
+* **V5 Vertical Fan-Out Target Matrix (Kasra Dash V5):** Align off-page citation interception with the specific query fan-out pattern of the client's vertical:
+  * **Local Services:** LLMs fan out to `[Brand Name]` + **local/trade directories** (Yelp, Checkatrade, Yell, regional Chambers — see Module 27).
+  * **E-Commerce:** LLMs fan out to **exact SKU / model numbers** + **independent product-testing and review roundups** (Wirecutter-style hands-on tests, niche review sites).
+  * **B2B SaaS:** LLMs fan out to `[Brand Name]` + **head-to-head comparison matrices (`X vs Y`), alternatives roundups, and real product UI screenshots**.
+* **Split Off-Site Placement Strategy (Mid-Tier Outreach vs. Tier-1 Editorial PR):** Divide off-page execution into two distinct tracks rather than treating all outreach identically: (1) **Scalable Mid-Tier Outreach** (this module: systematically securing placements across the 10–20 niche listicles, comparison blogs, and directory roundups that recurringly appear in 3–5x multi-run LLM fan-out clusters), and (2) **Tier-1 Editorial PR & Product-Testing** (Module 28 & Module 4 §4.8/§4.12C: pitching proprietary data studies, interactive calculators, or hands-on product review units to high-authority mastheads that anchor citation trust). Track **Synthesis Recommendation Share** (how often the brand is actively recommended in the LLM's synthesized answer body, not just footnote-cited) alongside citations and conversions across engine lag windows (**Google AI Overviews: 2–4 weeks** vs. **ChatGPT Search: 60–120 days**; see [`kirby-seo-telemetry`](../../kirby-seo-telemetry/SKILL.md) Module 9 §9.6 & Module 15 §15.3).
+
 ### **18.1.1 The Off-Page Boundary Mandate: On-Page Undertargeting First (Edward Sturm Ep. 1169)**
 
 *Source: Edward Sturm, The Edward Show Episode 1169 ("How SEOs Actually Find Keywords in 2026").*

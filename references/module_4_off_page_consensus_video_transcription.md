@@ -93,7 +93,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   * Tags: Match service entity + location entity tokens.
   * ISO Chapters: Add chapter timestamps aligned with article subheadings.
 * **On-Page Embedding Requirement:** Embed the corresponding YouTube video directly on the published article/service page. This creates a bidirectional citation loop — the page ranks the video, and the video surfaces the page to Gemini's video-native retrieval system.
-* **AI Image Metadata Enrichment (supplementary):** When using AI-generated images on local pages in lieu of authentic photography, embed EXIF metadata fields (GPS coordinates matching the service area, camera make/model data, creation timestamp) to improve image authenticity signals. Note: EXIF data impact on ranking is empirically contested — treat as supplementary measure, not primary strategy.
+* **Strict Ban on Synthetic GPS EXIF Metadata Injection:** Never inject synthetic GPS coordinates, fabricated camera make/model strings, or spoofed EXIF timestamps into page or AI-generated images. Practitioner split-testing and empirical audits (directional, single-source practitioner consensus — Tier 3) report zero consistent local pack or organic ranking lift from synthetic EXIF geotagging, many modern CDNs/image optimizers strip EXIF payloads on delivery, and synthetic visual/metadata spoofing risks algorithmic suppression (see [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 3 §3.20 & Module 6 §6.4). Prioritize authentic in-situ operational photography with descriptive filenames and alt text.
 
 **Video Production Checklist (per asset)**
 - [ ] Write 2–3 minute structured script for target service or geo-article.
@@ -103,7 +103,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
 - [ ] Apply service entity and location entity tags to the YouTube upload.
 - [ ] Add ISO chapter timestamps aligned with article subheadings.
 - [ ] Embed published YouTube video directly onto the corresponding article/service page.
-- [ ] Inject EXIF metadata into AI-generated page images if used (GPS coordinates, timestamp).
+- [ ] Verify zero synthetic GPS EXIF coordinate injection on page images; use authentic in-situ operational photos per [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) §3.20/§6.4.
 
 ---
 
@@ -483,7 +483,7 @@ To dominate multi-intent AI queries, an organization's digital architecture must
 Most B2B and trade businesses fail at the "Prove" layer:
 * **1. The Claim:** Stating your baseline service offering (*"We provide responsive managed IT support for Berkshire SMEs"*).
 * **2. The Frame:** Contextualizing your competitive difference (*"Unlike ticketing queues that take 4 hours to acknowledge outages, our Tier-3 engineers answer direct within 4 rings"*).
-* **3. The Prove (The Non-Negotiable LLM Gate):** Providing independent, verifiable third-party corroboration. LLM retrieval agents synthesize recommendations by seeking consensus across independent digital sources (industry directories, local press, trade bodies like Cyber Essentials or FMB, unedited video case studies). **An uncorroborated claim on your own website carries near-zero weight in LLM evaluation sets.**
+* **3. The Prove (The Non-Negotiable LLM Gate):** Providing independent, verifiable third-party corroboration. LLM retrieval agents synthesize recommendations by seeking consensus across independent digital sources (industry directories, local press, trade bodies like Cyber Essentials or FMB, unedited video case studies). **For unbranded discovery queries, an uncorroborated marketing claim on your own website carries low standalone weight unless paired with an on-domain `/trust` Self-Corroboration Hub ([`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 2 §2.38/§2.51, Tier #1 for branded/trust verification) and verified third-party consensus nodes (Tiers #3–#5, Module 16 §16.1–§16.2).**
 
 #### C. Share of Voice (SOV) & The LLM Gap Remediation Workflow
 Static keyword rank tracking (Position 1–10) is obsolete in conversational AI search because user prompts are infinitely variable. Visibility must be tracked via **Share of Voice (SOV) across target Query Fan-Out vectors**:
@@ -507,7 +507,7 @@ As autonomous purchasing agents (e.g., automated procurement bots operating with
 
 **AI Visibility & Corroboration Checklist**
 - [ ] Map company services to the Reputation Tree: Roots (identity), Branches (sub-intents), and Flowers (proof).
-- [ ] Implement the Claim-Frame-Prove protocol: every commercial claim must cite external corroboration.
+- [ ] Implement the Claim-Frame-Prove protocol: pair on-domain `/trust` Self-Corroboration Hub claims with verified third-party consensus nodes for unbranded discovery queries.
 - [ ] Track AI Share of Voice (SOV) across conversational query vectors instead of static keyword rankings.
 - [ ] Run regular LLM Gap Analyses to reverse-engineer competitor citations and target identical external sources.
 - [ ] Publish clear operational constraints (pricing floors, response time SLAs, geographic coverage) to ensure inclusion in autonomous agent purchasing workflows.
