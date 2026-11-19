@@ -4,7 +4,7 @@
 
 Conventional SEO dogma asserts that `rel="nofollow"` links pass zero PageRank, carry zero ranking authority, and are completely ignored by Google’s core ranking algorithms. This belief originated in 2005 when Google introduced `nofollow` to fight comment spam.
 
-In **September 2019**, Google officially revised its documentation: links marked `nofollow`, `rel="sponsored"`, and `rel="ugc"` are officially treated as **hints** rather than absolute directives. Long before 2019—and cemented by Google API leaks and empirical split-tests in 2024–2026—rigorous data confirms that nofollow backlinks produce direct, measurable keyword ranking surges and AI citations when specific conditions are met.
+In **September 2019**, Google officially revised its documentation: links marked `nofollow`, `rel="sponsored"`, and `rel="ugc"` are officially treated as **hints** rather than absolute directives. Long before 2019—and cemented by Google API leaks and empirical split-tests in 2024–2026—reported split-tests (directional, single-source, unverified) suggest that nofollow backlinks can produce measurable keyword ranking gains and AI citations when specific conditions are met.
 
 ---
 

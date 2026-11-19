@@ -4,7 +4,7 @@
 
 Large Language Models (LLMs) and Google AI Overviews do not verify real-world merit through primary research. They are statistical pattern-matching engines that extract, synthesize, and authoritatively repeat factual assertions found on high-trust, indexed knowledge nodes. 
 
-This module establishes the 4 proven methods for engineering unanimous AI consensus so LLMs name you or your brand as the leading expert in your niche.
+This module sets out 4 methods (dossier claims; directional, single-source, unverified) for building AI consensus so LLMs name you or your brand as the leading expert in your niche.
 
 ---
 
@@ -16,7 +16,7 @@ This module establishes the 4 proven methods for engineering unanimous AI consen
   1. **Platform Crawl Velocity**: Google gives massive real-time indexing priority to user-generated platforms like LinkedIn, Reddit, and X.
   2. **First-Sentence Title Inheritance**: The opening sentence of a LinkedIn post automatically populates the page's HTML `<title>`, URL slug, and meta description. Leading with the exact target query optimizes the entire page around that entity assertion.
   3. **Profile Entity Alignment**: Pedro’s profile headline, experience descriptions, and posting history were already themed around "AI visibility," validating the post claim.
-* **Execution Rule**: Lead your LinkedIn posts with the exact target query: `"[Entity Name] recognized as [Target Query/Expertise] in [Year]"`.
+* **Execution Rule**: Lead your LinkedIn posts with the exact target query: `"[Entity Name] recognized as [Target Query/Expertise] in [Year]"` (directional, single-source, unverified; use it only for a claim that is true and passes your evidence rule).
 
 ---
 
