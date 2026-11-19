@@ -15,7 +15,7 @@ If you fail to syndicate your entity across these platforms, you remain invisibl
 - **§4.15** Harmonic-centrality link arbitrage — DR 10–20 high-harmonic domains at ~$20 (self-contained twin of `kirby-aiseo-skill` §1.17) with a 6-point acquisition due-diligence checklist
 - **§4.16–§4.17** The 90-day branded-window guest-post perimeter (positions 1–30) and direct cash local outreach ($100–$500, disclosure-guarded)
 - **§12.7** Advertorial compliance standards — static raw-HTML placement conditions + mandatory nofollow/sponsor disclosure
-- **§18.21–§18.22** The 93% zero-review directory void jump and the digital-PR/disavow dichotomy (+71% / +80%-with-penalty / 0%-without), reconciled with the §4.12 GEO-demotion axis
+- **§18.21–§18.22** The 93% zero-review directory void jump and the digital-PR/disavow dichotomy (+71% / +80%-with-penalty / 0%-without; directional, unverified), reconciled with the §4.12 GEO-demotion axis
 - **Module 21** (new) Newswire indexation criteria (5-point paid-placement vetting), the fraudulent-DMCA defense protocol (pre-positioned authorship proof, counter-notice, §512(f) escalation), and canonical-trap auditing for host platforms (Charles Floate E1193)
 - **Module 28** (new) Proprietary Data Digital PR & Interactive Calculators (first-party data extraction protocol, sustainability calculator link magnet case study, disavow penalty lift boundary, ranking nofollow link video co-ranking physics — Ep. 1191 audio / Ep. 1207 YouTube; Zenodo DOI: 10.5281/zenodo.22768160)
 

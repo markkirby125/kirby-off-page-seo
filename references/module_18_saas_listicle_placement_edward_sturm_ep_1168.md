@@ -249,8 +249,8 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 
 * **Digital PR yield:** Editorial backlinks acquired via digital PR produced an average **+71% organic-session lift** in the source tests (directional — treat as the strongest measured single link-acquisition lever, not a guarantee). Budget digital PR before volume guest-posting.
 * **The Disavow Dichotomy:**
-  * **With an active manual penalty:** submitting a disavow file produced an **+80% rebound** in organic sessions.
-  * **Without an active manual penalty:** disavowing showed **zero measurable traffic impact** — Google algorithmically ignores spam links, and manual disavowal of unpenalized profiles risks discarding beneficial equity.
+  * **With an active manual penalty:** submitting a disavow file produced an **+80% rebound** in organic sessions (directional, unverified).
+  * **Without an active manual penalty:** disavowing showed **zero measurable traffic impact** (directional, unverified) — Google algorithmically ignores spam links, and manual disavowal of unpenalized profiles risks discarding beneficial equity.
 * **Decision rule:** Never disavow prophylactically. Audit for a manual action first (GSC); disavow only what the penalty notice names, then stop.
 * **Scope reconciliation with §4.12:** The dichotomy above is a *Google-organic-traffic* measurement. It does not override §4.12's GEO finding: low-quality/paid backlink footprints actively suppress AI-citation visibility (the >50%→<6% collapse) **without any Google manual penalty**. When AI Overviews/ChatGPT citations are suppressed, run §4.12's Proactive Link Toxicity Audit and remove or replace the polluting links at the source first. Do not disavow on this axis without a manual-action notice naming the domains: the disavow tool has no documented effect outside manual-action remediation, and removing the link at its source is the only fix with a visible result. The "zero impact" measurement above is an organic-traffic result and is not evidence about AI-citation recovery.
 
