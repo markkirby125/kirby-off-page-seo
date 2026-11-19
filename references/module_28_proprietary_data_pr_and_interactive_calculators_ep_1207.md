@@ -48,7 +48,7 @@ Standard guest-post outreach and directory submissions suffer from steep diminis
 
 Interactive utility tools outperform static informational guides by functioning as persistent, shareable reference utilities for an entire vertical:
 
-- **The Utility Asset Mechanism**: Calculators that solve high-friction, multi-variable domain equations (e.g., sustainability cost offsets, tax amortizations, real estate yield comparisons) earn natural citations from industry publications, Reddit discussion hubs, and municipal/educational portals.
+- **The Utility Asset Mechanism**: Calculators that solve high-friction, multi-variable domain equations (e.g., sustainability cost offsets, tax amortizations, real estate yield comparisons) may earn natural citations (directional, single-source, unverified) from industry publications, Reddit discussion hubs, and municipal/educational portals.
 - **Calculator Architectural Constraints**:
   1. **Client-Side Execution**: Zero-latency calculation using lightweight vanilla JavaScript or React; never hide core outputs behind an email gate.
   2. **Novel Comparative Logic**: Translate technical inputs into concrete business or personal outcomes (e.g., upfront expenditure vs. 10-year operational savings vs. environmental offset).
