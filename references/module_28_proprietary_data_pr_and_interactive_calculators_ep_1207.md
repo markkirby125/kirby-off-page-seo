@@ -60,7 +60,7 @@ Interactive utility tools outperform static informational guides by functioning 
 
 The meta-study analyzed the empirical impact of Google's Disavow tool across historical case studies:
 
-- **The Measured Finding**: Disavowing toxic backlinks produced an **+80% organic sessions recovery in the presence of an active manual penalty**, but showed **no measurable traffic direction without one**.
+- **The Measured Finding (directional, unverified)**: Disavowing toxic backlinks produced an **+80% organic sessions recovery in the presence of an active manual penalty**, but showed **no measurable traffic impact without one**.
 - **Reconciliation with Module 18 §18.22 & Dispatcher "When to Use" Rule**: Prophylactic disavowal remains strictly prohibited. A domain must never disavow links based on third-party "toxic score" metrics. Disavowal is reserved exclusively for:
   1. Reversing an active Google Manual Action for Unnatural Inbound Links.
   2. Documented historical paid-link networks explicitly identified in manual action notifications.

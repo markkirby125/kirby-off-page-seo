@@ -660,9 +660,9 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 * **State/County Ranked Indexes:** Correlate public data points to create regional rankings (e.g., cross-referencing census housing density with municipal rodent reports to produce a state-by-state "Home Infestation Risk Index").
 * **Local Press Syndication:** Pitch the localized rankings to regional newspapers and city desks. Local media regularly publish regional index stories, securing 10–20 high-DR (DR70+) editorial backlinks and geo-grounded entity citations with zero ad spend.
 
-#### D. Goodwill Link Acquisition & Anonymous Human-Interest Tips
+#### D. Goodwill Link Acquisition & Named, Disclosed Human-Interest Tips
 * **Philanthropic Community Action:** Execute a tangible, high-impact service donation or community repair project (e.g., donating a complete roof replacement, non-profit community center IT infrastructure refit, or charitable trade renovation).
-* **Anonymous Press Tip Strategy:** Never pitch the donation as a self-promotional commercial press release. Instead, submit an anonymous or third-party news tip to local regional newspapers and journalists highlighting the human-interest story and beneficiary impact ("newspapers actively seek feel-good community stories").
+* **Named, Disclosed Press Tip Strategy:** Never pitch the donation as a self-promotional commercial press release. Instead, send local newspapers and journalists a news tip that highlights the human-interest story and beneficiary impact ("newspapers actively seek feel-good community stories"). The tip must name the business as the source; an agency may send it for the business, but never present it as coming from an unconnected third party.
 * **Unbuyable Authority Signals:** Media coverage generated via community goodwill produces permanent, high-trust local editorial backlinks that cannot be purchased through link brokers.
 
 #### E. Partner, Vendor & Customer Award Badging Architecture
@@ -686,7 +686,7 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 - [ ] Audit backlink profiles for spammy/paid links; remove or replace them at the source first, and disavow only domains a manual-action notice names (see §4.12.A and Module 18 §18.22).
 - [ ] Identify a sector-wide vertical to scrape and audit at $n \ge 3,000$; isolate one contentious metric and draft an honest methodology disclosure.
 - [ ] Cross-reference government/census data sets with industry topics to construct a regional index report for local press syndication.
-- [ ] Implement an anonymous tip workflow for charitable and community service projects to secure local news coverage.
+- [ ] Implement a named, disclosed tip workflow (the business is identified as the source) for charitable and community service projects to secure local news coverage.
 - [ ] Audit partner/vendor ecosystems and deploy embeddable HTML badges for approved partners or award recipients.
 - [ ] Register company experts on Connectively, Qwoted, and Source of Sources; enforce strict human-only response guidelines to avoid journalist blacklists.
 
@@ -773,7 +773,7 @@ When publishing a parasite asset on LinkedIn, place the exact commercial or enti
 * **Automatic Googlebot Ingestion:** Once daily cadence and initial engagement signals are restored, Googlebot and LLM web-crawlers index subsequent posts automatically without manual submission.
 
 #### E. The "Text-to-Video" Cross-Platform Arbitrage Loop (AEO Multi-Placement)
-Operationalize the AEO Multi-Placement Law (§10.5) by syndicating validated text assets into video dominance:
+Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, Module 10 §10.5) by syndicating validated text assets into video dominance:
 1. **Performance Validation Filter:** Identify written text posts (on X or LinkedIn) where **Total Views > Account Follower Count** (e.g., 100,000 impressions on an account with 30,000 followers).
 2. **The "Verbatim Read" Capture:** Record a vertical short-form video (60–90 seconds) simply reading the validated text post out loud with zero script alteration.
 3. **Omni-Channel Video Syndication:** Distribute the video simultaneously across TikTok, Instagram Reels, YouTube Shorts, Facebook Reels, and LinkedIn Video (generating 100k–200k weekly video impressions).
