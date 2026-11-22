@@ -57,8 +57,8 @@ When an AI Overview target query transitions from an uncontested niche to a mult
 
 *Source: Edward Sturm × James Dooley (Ep. 1,171). September 2026.*
 
-* **The 4–6 Week Half-Life**: Press releases achieve sharp entity definition and rapid indexing spikes, but suffer severe algorithmic decay after 4 to 6 weeks. They drop off search rankings and AI Overview citations unless supported.
-* **The Mandatory Reload Cadence**: High-stakes entity campaigns must budget for recurring syndication drops every 4–6 weeks or construct permanent tier-2 backlink profiles directly into the PR URLs (e.g. USA Today, BarChart, AP News wire pickups).
+* **The 4–6 Week Half-Life (directional, single-source)**: Press releases reportedly achieve sharp entity definition and rapid indexing spikes, but suffer severe algorithmic decay after 4 to 6 weeks. They drop off search rankings and AI Overview citations unless supported.
+* **The Reload Cadence (planning heuristic, not a rule)**: High-stakes entity campaigns must budget for recurring syndication drops every 4–6 weeks or construct permanent tier-2 backlink profiles directly into the PR URLs (e.g. USA Today, BarChart, AP News wire pickups).
 * **Routing Decision Rule**:
   - *Transient / Event-Based Queries:* Deploy PRs (rapid entity anchor, event dates).
   - *Durable / Evergreen Commercial Queries:* Do NOT rely on standalone PRs without reload budgets; deploy owned assets and permanent entity corroboration (`kirby-aiseo-skill` §2.35 / `kirby-off-page-seo` Module 16).
@@ -100,5 +100,5 @@ When an AI Overview target query transitions from an uncontested niche to a mult
   * Both Google search algorithms and LLM RAG pipelines (ChatGPT Search, Perplexity) actively discount content housed in dedicated commercial affiliate subfolders because they are flagged as non-editorial paid promotion.
 * **The Mandatory Placement Contract:**
   * Never purchase sponsored articles or seasonal PR placements relegated to an affiliate subfolder.
-  * Require the publisher to publish the article under their primary editorial or news URL root (e.g., `publisher.com/news/article-title` or `publisher.com/lifestyle/article-title`). If the publisher cannot provide primary root or section-level editorial URL placement, reject the placement.
+  * Require the publisher to publish the article under their primary editorial or news URL root (e.g., `publisher.com/news/article-title` or `publisher.com/lifestyle/article-title`). If the publisher cannot provide primary root or section-level editorial URL placement, reject the placement. The placement still carries clear sponsorship disclosure and `sponsored`/`nofollow` (§12.7); this rule is about buying honest editorial-section placement, never about disguising paid content as editorial.
 
