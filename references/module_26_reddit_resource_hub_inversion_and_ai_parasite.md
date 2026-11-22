@@ -43,6 +43,8 @@ Rather than deploying black-hat sockpuppet accounts inside subreddits (which get
    - Google’s Helpful Content and AI Overview classifiers reward pages that aggregate community consensus while providing structured data tables that Reddit lacks.
 2. **Compliant Subreddit Participation**:
    - Never drop naked promotional links from low-karma burner accounts. Build a verified founder/engineer profile in relevant regional or industry subreddits (`r/sysadmin`, `r/smallbusinessuk`, local city subreddits) and answer technical questions with zero link drops. When users subsequently search the brand or ask for recommendations, organic unlinked brand mentions corroborate entity authority (Module 23 & Module 24).
+   - **Established-Moderator & Disclosure-First Subreddit Participation (Video 11 `Af9rvlVPQCQ` + Module 20 §20.4):** Do **not** launch fresh brand-created subreddits (Module 20 §20.4 warns fresh accounts/subreddits risk immediate automated suspension and circumvention bans). Where participating in established regional/industry communities via an established moderator/ambassador route per Module 20 §20.4, operate with disclosure-first transparency (stating affiliation on every reference and following subreddit self-promotion rules) across **`~3 months`** of non-promotional technical Q&A before introducing sparse contextual resource references; maintain **zero PBN linkage** (never astroturf with sockpuppets).
+   - **Non-Overengineered Local Reddit Growth (directional practitioner workflow heuristic):** For local services, skip brittle multi-bot automation; monitor regional/city subreddits (`r/[City]`, homeowner advice threads) and deliver genuinely helpful, zero-pitch diagnostic answers using a verified real founder/engineer identity (`Compliant Subreddit Participation` + `Legitimate Subreddit Brand Citation Seeding`) that convert directly into warm DM/consultation leads.
 
 ---
 
@@ -59,6 +61,8 @@ When a new or rebranded domain lacks the historical authority to capture Google 
    - Feed the canonical Core 30 landing page (from [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 11) and the LinkedIn Article into **Google NotebookLM** to generate a two-host conversational **Audio Overview** podcast episode.
    - Export the audio file, accompany it with a full timestamped transcript containing exact entity names and pricing benchmarks, and syndicate it across YouTube, Spotify, and Apple Podcasts.
    - This creates a synchronized 3-node authority loop (Owned Resource Hub ↔ LinkedIn Article ↔ Podcast Transcript) that forces LLMs to cite the brand as the primary consensus authority.
+   - **Human-Made Creator Output vs. Automated AI Churn (`80/20` Pareto Rule — `eEQP8D3R7i4` / `OUEELIis-do`, directional/single-source):** Human-made creator video and podcast workflows (grounded in real domain proof and first-party insights) outperform automated AI-generated content churn in brand recall and audience engagement (use genuine practitioner content; avoid automated status churn).
+   - **LinkedIn Pulse BOFU Companion Syndication (Rob Hoffman, `OUEELIis-do`):** Publish a companion LinkedIn Pulse article (`§26.2` + `§4.14` structure with transparent first-person brand disclosure) paired with high-value BOFU comparison/alternatives pages ([`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 2 §2.50) *(directional/single-source practitioner workflow template only; no independent answer-engine citation data cited here)*.
 
 ---
 

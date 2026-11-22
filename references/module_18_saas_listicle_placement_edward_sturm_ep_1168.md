@@ -217,6 +217,9 @@ Score: traffic **source**, topical fit, content, **inlinks vs outlinks**. Not bi
 * **Nofollow bait-and-switch:** inviting industry experts to write, giving them nofollow author links they do not understand, then harvesting follow equity and social bragging. Ban. Honest bylines with disclosed link policy are fine.
 * Virality recipes / “stupid calculators.” Weird specific studies or stunts are optional; Kirby-native study shape is §4.12 $n≥3,000 audits. If you ship a stunt: Product Hunt + journalists + Reddit — not Product Hunt only.
 
+* **Perplexity `docs.google.com/mobilebasic` Loophole Warning (Video 04 `eEQP8D3R7i4` — Jonathan Berthold, threat intelligence ONLY):** Unbranded Google Docs `/mobilebasic` citation spoofing accounted for a reported `~16%` of VPN citations across a 42-prompt audit (single-source, unverified) — **never execute this exploit**. It is a brittle platform loophole violating editorial integrity and carrying potential FTC disclosure exposure.
+* **`3`-Site Non-Branded Shell-Publisher Prohibition (Video 04, directional/single-source):** Launching `3`-site clusters of unbranded fake-editorial review publishers to flood listicle citations violates FTC endorsement rules and suffers rapid de-indexing decay — **strictly prohibited** (pair with `../../kirby-saas-syndicate/SKILL.md` Module 1 §1.8, Module 2 §2.3, & Module 3 §3.3 non-branded shell-publisher bans).
+
 ### **18.20 What compounds**
 
 Competitive gap + qualifying roundups + expert quotes compound. Guest posts and swaps are supporting layers.
@@ -262,3 +265,9 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 2. **Concentrate content there:** Rank the surviving queries by impressions times competitor coverage gap and build depth where competitors have little or no coverage. Do not rewrite the whole site.
 3. **Restore equity last:** Only once rankings and impressions have stopped falling, push equity back to money pages with internal links. Do not set a fixed wait; the reported case gives none.
 4. **Avoid the site-wide overhaul plus default-disavow approach:** The reported case says this approach often fails (same single source). Remove or replace harmful links at their source first and disavow only what a manual-action notice names, as in §18.22.
+
+---
+
+### **18.24 Utility-First Free-Tool Link Efficiency vs. Generic Cold-Swap Outreach**
+*Sources: Video 09 (`ULvVvU0fWj8` — Mike Hawley) & Video 11 (`Af9rvlVPQCQ` — Koray Tuğberk GÜBÜR).*
+Prioritize building persistent, utility-first reference tools (distinct from `§18.19`'s ungrounded stunt/novelty calculators) — **standalone** utility microsites via [`kirby-linkable-microsite-factory`](../../kirby-linkable-microsite-factory/SKILL.md) (SSR architecture in that skill's Module 3; keeping on-site calculators/converters inside Module 28 §28.2 client-side execution) and standalone Gemini interactive study pages (`../../kirby-gemini-interactive-study-pages/SKILL.md`) paired with §18.2–§18.3 listicle gap placements over generic cold-swap outreach (§18.15/§18.20 keep selective guest posts/swaps as supporting layers). In the single-source Mike Hawley (`ULvVvU0fWj8`) case studies, `cheese.help` (`25`-page cheese encyclopedia covering `"mild cheese"`, `11` MSN backlinks — directional/single-source) reported natural editorial citations at lower reported spam-footprint risk than cold guest-post outreach (§18.15/§18.20).
