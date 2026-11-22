@@ -8,7 +8,7 @@ A paid newswire/press placement is only worth its fee if it indexes and stays in
 2.  **Self-canonical** — the article URL carries a self-referential canonical (verify on a recent client article; see §21.3). Syndication networks that canonical to a parent feed page never index under their own URL.
 3.  **Standalone page, not a feed item** — the article has its own URL, nav path, and indexable body — not an iframe or JS-injected snippet.
 4.  **Retention history** — sample 3–6 month-old articles from the same desk: still indexed in `site:` checks. Newswires that churn to `Crawled - currently not indexed` are renting you a screenshot.
-5.  ** topical adjacency** — the outlet's section where your article lands actually covers your niche; irrelevant-desk placements get deindexed in cleanup passes.
+5.  **topical adjacency** — the outlet's section where your article lands actually covers your niche; irrelevant-desk placements get deindexed in cleanup passes.
 
 **Recurring-need rule (from Module 12 §12.6):** press placements decay after 4–6 weeks; durable commercial terms need either the reload schedule or permanent tier-2 links into the placement URLs.
 

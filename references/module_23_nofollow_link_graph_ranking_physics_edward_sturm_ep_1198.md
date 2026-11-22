@@ -62,7 +62,7 @@ The May 2024 Google API leak confirmed the underlying mechanical reason why nofo
 Semrush and Kevin Indig analyzed 1,000 domains across 5 major AI search engines (Perplexity, ChatGPT Search, Gemini, Claude, Copilot):
 * Backlinks strongly correlate with AI visibility and LLM citations.
 * **Critical Finding**: **Nofollow backlinks showed a slightly STRONGER correlation with AI mentions than followed backlinks**.
-* *The Mechanism*: Major knowledge-dense platforms (Reddit, Wikipedia, Quora, GitHub) enforce nofollow on user-submitted links by default. However, these exact platforms form the primary retrieval corpora and RAG sources for LLM-generated search answers. Winning nofollow citations on these platforms directly forces LLM brand citations.
+* *The Mechanism*: Major knowledge-dense platforms (Reddit, Wikipedia, Quora, GitHub) enforce nofollow on user-submitted links by default. However, these exact platforms form the primary retrieval corpora and RAG sources for LLM-generated search answers. Winning nofollow citations on these platforms can improve the odds of LLM brand citations (directional, single-source).
 
 ---
 

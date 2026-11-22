@@ -73,7 +73,6 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   2. Cross-reference URL in tier-1 social hubs (X, LinkedIn) to trigger immediate discovery bot crawlers (GPTBot, ClaudeBot, Googlebot).
   3. Verify indexation within 48 hours to ensure LLM retrieval reasoning layers ingest the newly formed entity associations.
 
-##
 
 ### **4.2.1 Multimodal Video Syndication Pipeline for Google Ask Maps & Gemini**
 
@@ -114,7 +113,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   > *"Generate a list of local sponsorship opportunities in [service city radius] for [business type] with active sponsor registration pages."*
   * Filter Gemini output for opportunities with: (a) a verified public web presence with a sponsor registration page, (b) a domain with topical proximity to the local audience, (c) a sponsorship tier accessible at £100–£500.
   * Priority target types: University TEDx events (`.ac.uk` / `.edu` backlinks), local charity gala sponsorships, annual civic festivals, youth sports league kit sponsorships.
-  * **Case benchmark:** £250 UT Austin TEDx sponsorship → `.edu` domain backlink → immediate 3–4 position rank increase overnight.
+  * **Case benchmark (single-source, anecdotal, unverified):** £250 UT Austin TEDx sponsorship → `.edu` domain backlink → reported 3–4 position rank increase overnight; treat as one observation, not a repeatable effect.
 * **Multi-Chamber of Commerce Syndication:** For highly competitive local markets, simultaneously enrol the business in multiple Chambers of Commerce within a defined metro radius. Chambers generate high-Trust Flow, locally authoritative backlinks satisfying both Google Maps local entity verification and AI citation consensus requirements. Joining 10–17 chambers for a highly competitive market (e.g., personal injury law) is documented as achievable and effective.
 * **Monthly Google News Press Release Syndication:**
   * Use PR Underground (£50–£80/mo) as the lowest-cost syndication service that reliably achieves Google News inclusion.
@@ -262,7 +261,7 @@ While national subreddits enforce automated link-removal filters, regional and m
 
 Traditional parasite SEO relied on ephemeral "churn-and-burn" tactics—publishing low-effort promotional content on high-DR open platforms to capture temporary rankings before facing manual penalties or platform bans. In modern search and conversational AI systems, Google and frontier LLMs actively detect single-post throwaway accounts and reward **aged, active, multi-post publisher profiles and community hubs**.
 
-Furthermore, **43% of product and service recommendation queries executed in ChatGPT ("What is the best X for Y?") cite third-party listicles, review summaries, and UGC discussions** hosted on external web properties. Restricting optimization strictly to owned domains surrenders nearly half of conversational AI market share to competitors.
+Furthermore, a reported (single-source, directional) **43% of product and service recommendation queries executed in ChatGPT ("What is the best X for Y?") cite third-party listicles, review summaries, and UGC discussions** hosted on external web properties. Restricting optimization strictly to owned domains surrenders nearly half of conversational AI market share to competitors.
 
 #### A. The Anatomy of a Persistent Parasite Property
 A "Parasite Property" is an externally hosted digital asset that leverages a massive third-party parent domain's PageRank (YouTube, LinkedIn, Reddit, Facebook, Medium, or an acquired niche publication) while maintaining an authentic, aged operational history.
@@ -303,7 +302,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 * **SERP Forum Integration:** Google heavily favors Reddit within its "Discussions and Forums" search modules. An established, disclosed brand community can help Google’s forum carousels surface verified company documentation rather than unmoderated competitor criticism.
 
 #### D. Niche Blog Buyouts & Adversarial LLM Sentiment Defense
-* **Strategic Publisher Acquisitions:** Maturing brands quietly acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs. Converting these properties into authoritative comparison and review hubs secures permanent, top-tier positioning in the **43% of ChatGPT queries that retrieve third-party listicles**.
+* **Strategic Publisher Acquisitions:** Maturing brands quietly acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs. Converting these properties into authoritative comparison and review hubs secures permanent, top-tier positioning in the reported (single-source, directional) **43% of ChatGPT queries that retrieve third-party listicles**.
 * **Adversarial Threat Defense:** In cutthroat niches, competitors cultivate aged, anonymous persona accounts to seed disparaging reviews. Operators must run rolling monthly audits using Google's QRG operator (`[Brand Name] reviews -site:[domain.com]`, §1.9) to detect and counter negative astroturfing campaigns before they are ingested into frontier LLM training weights.
 
 **Persistent Parasite Properties Checklist**
@@ -453,7 +452,7 @@ When an AI search engine hallucinates, misquotes pricing, or claims your service
 
 *Source: James Dooley & Alex Drew (Odys Global / Audisto, "AI Visibility - Why LLM Marketing Needs To Be The Main SEO Strategy"). September 2026.*
 
-Generative Engine Optimization (GEO) is not merely a mechanism for acquiring organic traffic; it is an asymmetric commercial conversion multiplier. While cold organic search visitors convert at an industry average of **~5%**, AI recommendations generated by frontier models (ChatGPT, Gemini, Claude) operate as automated **Word-of-Mouth (WOM) referrals**, converting at **20%–25%** (a **400%–500% lift**). When an AI agent recommends a specific service, consumers perceive it as an objective, authoritative endorsement rather than an advertisement.
+Generative Engine Optimization (GEO) is not merely a mechanism for acquiring organic traffic; it is an asymmetric commercial conversion multiplier. While cold organic search visitors convert at an industry average of **~5%**, AI recommendations generated by frontier models (ChatGPT, Gemini, Claude) operate as automated **Word-of-Mouth (WOM) referrals**, converting at **20%–25%** (a **300%–400% lift**). When an AI agent recommends a specific service, consumers perceive it as an objective, authoritative endorsement rather than an advertisement.
 
 ```
 ┌────────────────────────────────────────────────────────┐
@@ -602,7 +601,7 @@ The volume of monthly branded-keyword searches required to trigger Google Auto-S
 Rather than deploying dangerous bot clicks or fake CTR traffic (which drop off immediately and risk manual spam action), generate legitimate human search velocity via partner and social distribution:
 * **The David Quaid `freeloadbalancer.com` Case Study:** When launching `freeloadbalancer.com`, partner networks and LinkedIn followers were instructed: *"Search Google for 'Kemp free load balancer' to download the tool."*
 * **The Algorithmic Velocity:** Thousands of real users executed the query across 24 hours. Google observed the surge, connected `freeloadbalancer.com` to the core keyword `free load balancer`, and pushed the URL to **#1 organically for the pure unbranded term in less than 24 hours**—where it has remained stable for over a decade.
-* **Execution Directive:** In all email marketing, podcast appearances, partner communications, and LinkedIn announcements, never provide a direct clickable link. Instead, provide a search instruction: *"Search '[Service] + [Brand]' on Google and click our result."*
+* **Execution Directive:** In all email marketing, podcast appearances, partner communications, and LinkedIn announcements, never provide a direct clickable link. Instead, provide a search instruction: *"Search '[Service] + [Brand]' on Google and click our result."* Use this only to ask real audiences for natural brand searches; never script, pay for or incentivise searches to move Auto-Suggest (signal manipulation).
 
 **Auto-Suggest Seeding Checklist**
 - [ ] Verify primary Knowledge Graph entity status before initiating search campaigns to leverage the 3,000-search threshold.
@@ -746,10 +745,10 @@ Each tier references and links to the next, building an unbreakable chain of thi
 
 *Source: Edward Sturm Podcast Episode 1,161 ("LinkedIn Is Still a Blue Ocean"). September 2026.*
 
-> **TL;DR:** LinkedIn (DA 99, 120M ranked keywords, ~500M monthly Google clicks) holds 5M citations across ChatGPT, AI Overviews, and AI Mode. Placing the target keyword at the very beginning of a post automatically injects it into the URL slug, title tag, meta description, and BLUF text. Daily posting reactivates dormant accounts within 7 days, and high-performing text posts can be read verbatim on video for omni-channel AEO multi-placement.
+> **TL;DR:** LinkedIn (DA 99, 120M ranked keywords, ~500M monthly Google clicks) holds ~5.7M citations across ChatGPT, AI Overviews, and AI Mode. Placing the target keyword at the very beginning of a post automatically injects it into the URL slug, title tag, meta description, and BLUF text. Daily posting reactivates dormant accounts within 7 days, and high-performing text posts can be read verbatim on video for omni-channel AEO multi-placement.
 
-#### A. Semrush LLM Citation Footprint (The 5M Grounding Moat)
-Across active conversational search engines, LinkedIn holds **5,000,000 indexed citations**:
+#### A. Semrush LLM Citation Footprint (The ~5.7M Grounding Moat)
+Across active conversational search engines, LinkedIn holds roughly **5.7 million indexed citations** (2.7M + 2.0M + ~1.0M):
 * **2.7 Million citations in ChatGPT**
 * **2.0 Million citations in Google AI Mode (SGE)**
 * **~1.0 Million citations in Google AI Overviews**

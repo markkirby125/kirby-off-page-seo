@@ -11,7 +11,7 @@ Before paying a creator, validate their back catalogue: paste the descriptions o
 
 ### **15.3 Execution: The $25–$50 Publishing Engine**
 1.  **Pitch & Price:** Approach micro-creators offering $25–$50 per post around a high-intent, overlooked keyword that competitors ignore (e.g., "residential general contractor software").
-2.  **The Keyword-Loaded Payload:** Supply the creator with a pre-written, keyword-dense description (utilizing the ~2,000-character limit on Instagram). Place the exact target keyword in the very first sentence.
+2.  **The Keyword-Loaded Payload:** Supply the creator with a pre-written, keyword-dense description (utilizing the ~2,000-character limit on Instagram). Place the exact target keyword in the very first sentence. Every paid post must carry a clear paid-partnership disclosure (platform branded-content label or #ad; FTC 16 CFR 255, UK CMA/ASA guidance); no disclosure, no post.
 3.  **Cross-Platform Syndication:** Have the creator post the video and description across Instagram Reels, Facebook, TikTok, and YouTube Shorts.
 4.  **Cluster with First-Party Content:** After 3–5 creators have posted, publish your own supporting first-party landing page with the identical target keyword in the page title, URL slug, H1, and opening sentence.
 

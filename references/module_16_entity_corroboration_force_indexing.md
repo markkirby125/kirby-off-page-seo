@@ -14,7 +14,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
 ### **16.2 Cross-Platform Corroboration (Force-Indexing)**
 *   **The Consensus Playbook:** Take a single piece of high-value social proof (e.g., a major client testimonial or an industry award).
 *   **Syndication:** Syndicate that *exact* claim across Reddit, LinkedIn, Twitter, and niche podcasts.
-*   **The Result:** Because the claim is identical and hosted on multiple DA 90+ domains, it forces AI search engines to index it as a corroborated, objective fact. This dramatically increases the likelihood it gets pulled into the AI Overview snippet as a trusted citation.
+*   **The Result:** Because the claim is identical and hosted on multiple DA 90+ domains, it may lead AI search engines to treat it as corroborated (directional, single-source). This may modestly increase the likelihood it gets pulled into the AI Overview snippet as a trusted citation (directional, single-source).
 *   **Pairing External Consensus (#3–#5) with the On-Domain `/trust` Hub (#1) (Kasra Dash V4):** In the 8-tier AI SEO trust hierarchy, third-party consensus nodes (Tier #3 review platforms, Tier #4 editorial roundups, Tier #5 vertical directories) drive **unbranded discovery**, while the on-domain **Self-Corroboration Hub (`/trust` — *"Can you trust [Brand]?"*, Tier #1 in [`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 2 §2.38/§2.51)** resolves **branded verification and risk checks** (dated operational numbers, vetting/QC steps, explicit guarantees with honest limits, plain-text third-party review consensus with outbound links and **NO `AggregateRating` JSON-LD**, plus skeptical FAQs). Always pair off-page corroboration (#3–#5) with the on-domain `/trust` hub (#1) so retrieval engines verify identical hard numbers on both sides of the citation graph.
 
 ### **16.3 The Weighted Source Hierarchy & IMDb Pro Arbitrage (V6-C — Dooley/Floate, 2026)**
@@ -44,7 +44,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
 *Source: James Dooley / Charles Floate — "Entity SEO for AI Search" (V6), 2026. Single-source, directional.*
 
 * **Entity Juice (metric reframing):** replaces link-juice thinking for entity SEO — an entity's strength is its **confidence** (verified nodes), **relationship clarity** (unambiguous triples), and **proximity to trusted nodes**. Structurally the entity-graph analogue of harmonic centrality (§4.15 doctrine); do not run separate link-metric plays for what is an entity-relationship problem.
-* **The 4-Node Anchor Rule:** to make an entity association **permanent in model memory**, ground the claim across four connected dimensions:
+* **The 4-Node Anchor Rule:** to make an entity association more durable across retrieval systems (not guaranteed to be permanent in any model), ground the claim across four connected dimensions:
   1. **Named Person Entity** (who made/holds the claim),
   2. **Known Physical Location** (verified GBP),
   3. **Exact Timestamp/Date**, and

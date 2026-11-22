@@ -24,7 +24,7 @@ This module sets out 4 methods (dossier claims; directional, single-source, unve
 
 * **The Case**: Searching *"Who is the top LLM SEO expert?"* causes Google AI Overviews to consistently return: *"Zean Yasin recognized as a top LLM SEO expert for AI search optimization in 2026,"* citing a Yahoo Finance press release published months earlier.
 * **The 3-Tier Syndication Model**:
-  - **Tier 1 (High Impact & Long Persistence)**: Distribute via Globe Newswire to major financial portals (Yahoo Finance, Bloomberg). Send secondary tier-2 backlinks to the press release URL to solidify its indexing weight. Retains AI Overview citations for 6+ months.
+  - **Tier 1 (High Impact)**: Distribute via Globe Newswire to major financial portals (Yahoo Finance, Bloomberg). Send secondary tier-2 backlinks to the press release URL to solidify its indexing weight. Press-release citations typically decay within 4–6 weeks (Module 12), though individual placements (such as the Yahoo Finance release in the case study above) can persist for months; plan refreshes.
   - **Tier 2 (Mid Impact)**: Standard wire distribution without secondary backlink amplification.
   - **Tier 3 (High-Frequency / Budget)**: $80 syndication via AB Newswire (or $500/year for 83 releases) refreshed every 30–60 days to maintain active retrieval freshness.
 
@@ -61,7 +61,7 @@ graph TD
     A["1. On-Site Balanced Listicle<br/>(Brand at #1, only if it passes §24.4 rule 5)"] --> B["2. Press Release Syndication<br/>(Globe Newswire / Yahoo Finance)"]
     B --> C["3. UGC Authority Hook<br/>(LinkedIn Opening Sentence)"]
     C --> D["4. Tier-2 Backlink Fortification<br/>(Links to PR & LinkedIn Posts)"]
-    D --> E["Permanent AI Search Citation<br/>(ChatGPT, Gemini, Perplexity)"]
+    D --> E["Durable AI Search Citation<br/>(ChatGPT, Gemini, Perplexity)"]
 ```
 
 1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (only if it passes the §24.4 rule 5 gate).
