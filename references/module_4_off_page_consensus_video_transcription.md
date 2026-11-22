@@ -23,7 +23,7 @@ YouTube is the single most cited domain in Google AI Overviews (reported at **22
 
 ### **4.3 The 250 Authority Protocol & Reddit AI Search Blueprint**
 
-Anthropic research establishes that ~250 distributed documents/mentions create permanent retrieval patterns and weight consensus across LLMs up to 13B parameters. Distribute 250 assets across 4 environments:
+Directional, single-source and unverified here (a reported Anthropic-attributed finding, not an established one): on the order of 250 distributed documents may influence retrieval in small models (reported up to 13B parameters); there is no evidence it holds for frontier models or lasts. Treat 250 as a planning heuristic, not a requirement, and spread real assets across 4 environments:
 1. **Owned Foundation:** Case studies with hard numbers and hyper-local parameters (e.g., "replaced 14 consumer units in Ascot, reducing downtime by 2 hours").
 2. **Professional Platforms:** LinkedIn technical articles, guest publications, niche author profiles.
 3. **Community Consensus (Reddit AI Blueprint — 20x Referral Lift):**
@@ -207,7 +207,7 @@ The efficacy of parasite SEO is dictated by URL taxonomy:
   * Anthropic’s root domain maintains an enterprise-grade authority profile (DR 66+).
   * Published Claude Artifacts are hosted directly on the root domain within a subfolder path: `https://claude.ai/public/artifacts/[unique-uuid]`.
   * Because subfolder structures inherit the consolidated PageRank and crawling velocity of the root domain, Google’s search bots discover, crawl, and rank published artifacts in as little as **5 to 24 hours**.
-* **Seed-Click Crawl Ingestion Trigger:** To bypass standard batch crawl delays on newly published parasite URLs, generate 2–5 organic seed visits (via social cross-posting or team testing). Initial user interaction telemetry signals active status to Google's crawler scheduler, triggering immediate bot dispatch.
+* **Seed-Click Crawl Ingestion Trigger:** To shorten crawl delay on a newly published URL, share it where your real audience already is (your own social channels, newsletter or email list) so genuine visitors arrive. Never manufacture visits (bots, click farms, paid clicks, staged team clicks). Directional, single-source; no crawl-timing guarantee.
 
 #### B. Branded SERP Domination & Competitor Displacement
 Prospective clients searching a brand name (e.g., *"Berkshire IT Services"*, *"Swindon Plasterer"*) are frequently exposed to competitor bid aggregators, scrapers, or third-party directory listings on lower Page 1.
@@ -249,7 +249,7 @@ While national subreddits enforce automated link-removal filters, regional and m
 **Parasite SEO Operational Checklist**
 - [ ] Compile brand reputation dossier (reviews, accreditation badges, case metrics).
 - [ ] Generate and deploy published Claude Artifact in root subfolder (`claude.ai/public/artifacts/`).
-- [ ] Generate 2–5 seed visits to trigger rapid crawler dispatch.
+- [ ] Share the URL with your real audience (social, newsletter); never manufacture visits.
 - [ ] Verify branded SERPs: ensure parasite assets displace competitor listings on Page 1.
 - [ ] Deploy interim BOFU artifacts for rapid intent capture while owned URLs are engineered.
 - [ ] Update parasite assets with permanent canonical referral links to primary owned money pages once indexed.
@@ -282,7 +282,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 │ Pos 2: Google Business Profile (Map Pack / Reviews)    │
 │ Pos 3: YouTube Video Case Study: "[Brand] Review"      │ <── 5-Hour Indexation
 │ Pos 4: LinkedIn Case Study Article: "[Brand] Review"   │ <── High-Trust Domain
-│ Pos 5: Owned Subreddit Documentation (r/[brand])       │ <── Controls Forum Box
+│ Pos 5: Existing Brand Subreddit (r/[brand])            │ <── Controls Forum Box
 │ Pos 6: Verified Trustpilot Profile                     │
 └────────────────────────────────────────────────────────┘
 ```
@@ -296,11 +296,11 @@ When prospective buyers reach the final evaluation stage, they execute branded d
      * *Example (`swindonplasterer.com`):* `Swindon Plasterer Review: Victorian Lime Plaster Restoration Case Study`
    * **Indexing Speed:** High-authority UGC platforms index and display on Google Page 1 within **5 hours**, creating an impenetrable wall of verified first-party social proof that dominates branded SERPs.
 
-#### C. The Owned Subreddit Playbook (`r/[Brand]`)
+#### C. Maintaining an Existing Branded Subreddit (`r/[Brand]`)
 * National and industry-wide subreddits enforce stringent anti-promotional rules and automated link-pruning bots.
-* **The Owned Subreddit Standard:** Establish and operate an official brand subreddit (e.g., `r/BerkshireIT` or `r/SwindonPlastering` or `r/TCP123`).
+* **The Owned Subreddit Option:** Never launch a fresh brand subreddit (Module 20 §20.4 and Module 26); only an established, disclosed brand subreddit already in place may be maintained (e.g., `r/BerkshireIT` or `r/SwindonPlastering` or `r/TCP123`).
 * Publicly publish technical changelogs, operational FAQs, incident post-mortems, and customer service resolutions.
-* **SERP Forum Integration:** Google heavily favors Reddit within its "Discussions and Forums" search modules. An owned brand subreddit guarantees that Google’s forum carousels surface verified company documentation rather than unmoderated competitor criticism.
+* **SERP Forum Integration:** Google heavily favors Reddit within its "Discussions and Forums" search modules. An established, disclosed brand community can help Google’s forum carousels surface verified company documentation rather than unmoderated competitor criticism.
 
 #### D. Niche Blog Buyouts & Adversarial LLM Sentiment Defense
 * **Strategic Publisher Acquisitions:** Maturing brands quietly acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs. Converting these properties into authoritative comparison and review hubs secures permanent, top-tier positioning in the **43% of ChatGPT queries that retrieve third-party listicles**.
@@ -308,7 +308,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 
 **Persistent Parasite Properties Checklist**
 - [ ] Cultivate aged, multi-topic brand profiles across YouTube, LinkedIn, Medium, and Facebook.
-- [ ] Establish and curate an official brand subreddit (`r/[brand]`) to control Google forum carousels.
+- [ ] Do not launch a fresh brand subreddit; maintain only an established, disclosed one (Module 20 §20.4, Module 26).
 - [ ] Publish authentic customer video reviews with front-loaded `[Brand] Review:` titles for 5-hour Page 1 indexing.
 - [ ] Audit off-site brand reputation monthly via `[Brand] reviews -site:[domain.com]` to neutralize adversarial astroturfing.
 - [ ] Evaluate acquisition opportunities for aged niche blogs to secure permanent representation in the 43% of ChatGPT listicle queries.
@@ -356,7 +356,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 └────────────────────────────┬───────────────────────────┘
                              │
                              ▼
-          Deploy {{cite web}} on Wikipedia
+   Talk-page edit request if any COI; direct edit only if none
                              │
                              ▼
     Ingested into ChatGPT, Gemini & Perplexity RAG
@@ -371,8 +371,8 @@ Wikipedia editors require a single authoritative source that directly substantia
    * The page terminates with a formal, academic bibliography.
 
 #### D. Editorial Deployment & RAG Ingestion
-1. Authenticate an established Wikipedia editor account (build account standing by performing minor grammatical fixes on non-commercial pages first).
-2. Edit the target Wikipedia article, removing the `[citation needed]` flag and embedding the reference using standard citation markup:
+1. Edit only from your own real, disclosed Wikipedia account; never build up an account to look established or use undisclosed accounts. If you or your client have a financial or other interest in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
+2. With no financial or other interest, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
    * `{{cite web |url=https://domain.com/research/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
 3. Provide a transparent edit summary: *"Added multi-source synthesis reference substantiating unverified statement regarding [topic]"*.
 4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, ensuring that when ChatGPT, Gemini, or Perplexity perform real-time retrieval or periodic model weight refreshes, your owned synthesis asset is retrieved as the primary authoritative source.
@@ -382,7 +382,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 - [ ] Aggregate 3–5 verifiable third-party studies, expert quotes, and survey statistics.
 - [ ] Publish an objective, non-promotional "Source Synthesis" research brief on owned domain.
 - [ ] Verify zero commercial CTAs, complete author credentials, and formal bibliography.
-- [ ] Deploy standard `{{cite web}}` markup on Wikipedia and submit with descriptive edit summary.
+- [ ] Disclose any financial or other interest (WP:COI, WP:PAID); with any such interest, put the `{{cite web}}` markup inside a Talk-page edit request and do not edit the article; with none, add it directly with a descriptive edit summary.
 - [ ] Monitor edit longevity and verify automated citation retrieval across ChatGPT and Perplexity.
 
 ---

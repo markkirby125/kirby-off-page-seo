@@ -70,7 +70,7 @@ Semrush and Kevin Indig analyzed 1,000 domains across 5 major AI search engines 
 
 An unnatural backlink profile triggers algorithmic suppression:
 * **The 100% Follow Footprint Trap**: A backlink profile consisting exclusively of `dofollow` links is an immediate statistical anomaly that flags algorithmic link-spam filters. Natural profiles always contain a significant ratio of nofollow, UGC, and sponsored attributes.
-* **Low-Authority vs. High-Authority Balance**: As demonstrated in Episode 948, building low-authority and natural nofollow backlinks to balance an artificially high-DR profile frequently unlocks stuck keyword rankings by restoring natural profile entropy.
+* **Low-Authority vs. High-Authority Balance**: As demonstrated in Episode 948, a single-source observation (no guarantee) is that an unusually high-DR profile with few editorial or nofollow mentions can look lopsided; earn genuine links and mentions through real coverage rather than manufacturing links to engineer the profile (see the Module 18 bans on PBNs and junk directories).
 
 ---
 

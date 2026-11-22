@@ -5,7 +5,7 @@
 > **Scope Partition & Cross-Reference Boundaries:**
 > - **Module 13** owns basic `"[Keyword] Reddit"` title-tag interception and single-page owned-asset hijacking.
 > - **Module 19** owns social platform parasite power rankings and Positive Ranking State physics.
-> - **Module 20** owns establishing and moderating a branded subreddit (`r/YourBrand`) for reputation defense.
+> - **Module 20** owns the disclosure-first handling of an already-established branded subreddit (`r/YourBrand`) for reputation defense; it does not endorse launching a fresh one.
 > - **Module 16 §16.5** owns Google Ecosystem Stacking (`sites.google.com`, basic NotebookLM entity anchoring).
 > - **Module 26 (This Module)** owns the **On-Site "Reddit Alternative Resource Hub" Architecture** (mining multi-thread community objections into tabular comparison hubs that outrank Reddit itself), the **LinkedIn Hashtag + NotebookLM Audio AI Overview Takeover Loop**, and the **Competitor Review Sentiment Harvester SOP (§26.3)** for mining G2, Trustpilot, Capterra, and Reddit to populate BOFU alternatives pages (`../../kirby-aiseo-skill/SKILL.md` Module 2 §2.50).
 

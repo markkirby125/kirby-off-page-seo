@@ -5,8 +5,8 @@
 ### **20.1 The Reddit Citation Multiplier**
 Google's integration of Reddit into search results extends heavily into its AI Overviews. LLMs preferentially sample highly upvoted Reddit threads and community forums to determine authentic user sentiment for brand-related queries. This creates a critical vulnerability: an unmoderated, third-party complaint thread can become the definitive AI summary for a brand.
 
-### **20.2 Establishing the Branded Subreddit**
-To defend against negative third-party sentiment, brands must actively build and control their own branded subreddits (e.g., `r/BrandName`). 
+### **20.2 Maintaining an Established Branded Subreddit**
+To defend against negative third-party sentiment, a brand that already runs an established, disclosed branded subreddit (e.g., `r/BrandName`) may maintain it; do not launch a fresh one (see the Strict Prohibition in §20.4 and Module 26). It is an option, not a requirement. 
 *   **The Control Lever:** By operating the official subreddit, the brand dictates the moderation rules, curates the FAQ, and directs the narrative. 
 *   **The Indexation Advantage:** Because Reddit domains carry massive sitewide authority (NavBoost/Domain Rating), a properly optimized branded subreddit will rapidly rank for branded queries, displacing hostile third-party threads in both the standard SERP and AI Overview citation sources.
 
@@ -26,7 +26,7 @@ To defend against negative third-party sentiment, brands must actively build and
   * When a new branded account or subreddit is banned, creating a variant account or recreating the community triggers Reddit's **Circumvention Rule**.
   * Circumvention penalties blacklist associated IP addresses, device IDs, connected ad accounts, and user clusters, permanently destroying the brand's ability to participate on the platform.
 * **Seasonal Execution Prohibition:**
-  * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new subreddit in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). The risk of algorithmic account termination is near 100%.
+  * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new brand subreddit at any time, and above all in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). The risk of algorithmic account termination is near 100%.
 * **The Legitimate Engagement Channel:**
   * Rather than creating rogue accounts or sending prohibited cash offers for Reddit posts, brands can legitimately hire established, recognized community moderators as official **Brand Ambassadors or Technical Advisors**.
   * Established moderators possess aged accounts with high karma and verified trust scores, allowing legitimate support communication and AMA scheduling without triggering administrative spam flags.
