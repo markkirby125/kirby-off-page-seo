@@ -5,13 +5,13 @@
 * **NAP & Entity Consistency:** Standardise the exact Legal Business Name, Address, Phone, and Service Categories verbatim across secondary trade registries (Yell, Clutch UK, Spiceworks, LinkedIn, Thomson Local) to supply consistent cross-referencing signals for LLM consensus validation.  
 * **Schema Hierarchy:** Connect all local business listings to the primary website via LocalBusiness and Organization JSON-LD schemas utilising the sameAs array and hasMap CID endpoints.
 
-### **4.2 YouTube Transcript Optimisation, SME Answer-Echo Protocol & Long-Form RAG Context Law (0.737 ChatGPT Correlation)**
+### **4.2 YouTube Transcript Optimisation, SME Answer-Echo Protocol & Long-Form RAG Context Law (Reported 0.737 ChatGPT Correlation, Single-Source)**
 
-YouTube is the single most cited domain in Google AI Overviews (reported at **22%** of all AI Overview citations — the #1 source — by Rob Hoffman [`S_5rx9H0elM`]; external industry benchmarks similarly report ~22.9% [Ahrefs] to ~29.5% [BrightEdge], while Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined represent **15% of all sources linked inside AI summaries** vs. 5% in standard search results), and branded transcript mentions demonstrate a 0.737 correlation with ChatGPT citation inclusion.
+YouTube is the single most cited domain in Google AI Overviews (reported at **22%** of all AI Overview citations — the #1 source — by Rob Hoffman [`S_5rx9H0elM`]; external industry benchmarks similarly report ~22.9% [Ahrefs] to ~29.5% [BrightEdge], while Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined represent **15% of all sources linked inside AI summaries** vs. 5% in standard search results), and branded transcript mentions are reported (single-source, unverified) to show a 0.737 correlation with ChatGPT citation inclusion.
 
 * **First-45-Second Spoken Tokens:** Speak the primary brand name, geographic location, and specific technical topic clearly within the first 45 seconds of video audio.  
 * **ISO Chapter Timestamps:** Structure video descriptions with exact chapter timestamps aligned with the corresponding on-site article headings.
-* **Why LLMs Prioritize Video Transcripts (Information Gain vs. Model Collapse — Rob Hoffman, `S_5rx9H0elM`):** Because static web text is increasingly saturated with recycled AI-generated prose, LLMs risk recursive **Model Collapse** when training on synthetic text. Retrieval pipelines therefore prioritize human-created YouTube video transcripts as high-trust sources of first-person **Information Gain** (compounded by Google's native ecosystem preference for YouTube in Gemini/AI Overviews and RAG transcript ingestion across ChatGPT, Claude, and Perplexity).
+* **Why LLMs Prioritize Video Transcripts (Information Gain vs. Model Collapse — Rob Hoffman, `S_5rx9H0elM`):** Because static web text is increasingly saturated with recycled AI-generated prose, LLMs risk recursive **Model Collapse** when training on synthetic text. Hoffman argues retrieval pipelines therefore prioritize human-created YouTube video transcripts as high-trust sources of first-person **Information Gain** (compounded by Google's native ecosystem preference for YouTube in Gemini/AI Overviews and RAG transcript ingestion across ChatGPT, Claude, and Perplexity).
 * **The SME "Answer-Echo" Interview Protocol (Rob Hoffman, `S_5rx9H0elM`):**
   1. **Target Keyword-Researched BOFU Queries:** Select specific, high-intent questions based on keyword research (focusing on bottom-of-funnel commercial and comparative questions rather than broad top-of-funnel definitions).
   2. **Unscripted SME Capture:** Interview an internal Subject Matter Expert (SME) or founder on camera—do **not** hand them a rigid word-for-word script, as natural human cadence and domain terminology produce higher information gain.
@@ -69,7 +69,7 @@ YouTube Community Posts generate up to 10% of total channel impressions and trai
 To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, Medium teardowns, Web 2.0 assets) are indexed into LLM retrieval stores before competitors:
 * **Compact Keyword Distribution:** Deploy targeted entity anchors across secondary platforms matching specific high-intent sub-queries.
 * **Force-Indexing Workflow:** Immediately upon publishing off-page citations:
-  1. Ping and submit secondary URLs via Google Indexing API / Search Console URL Inspection where permissible.
+  1. Submit URLs on properties you own via Search Console URL Inspection (Google's Indexing API is limited to job-posting and livestream pages).
   2. Cross-reference URL in tier-1 social hubs (X, LinkedIn) to trigger immediate discovery bot crawlers (GPTBot, ClaudeBot, Googlebot).
   3. Verify indexation within 48 hours to ensure LLM retrieval reasoning layers ingest the newly formed entity associations.
 
@@ -84,7 +84,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   * Alternatively, record the business owner speaking (voice only) and combine with b-roll footage.
   * Output: A factual, serviceable video. The goal is Gemini indexation, not audience engagement.
 * **The Two-Video Rule (V6-E — entity-anchor complement to this pipeline):** above the volume pipeline, the business owner records just **1–2 short authentic videos** to anchor video entity presence — syndicated across YouTube, Transistor/Spotify/Apple Podcasts, and IMDb (§16.3). Authentic owner footage beats AI avatars on production economics too: high-fidelity cloning (HeyGen + ~6h ElevenLabs voice training + phonetic debugging) costs *more* labor than recording raw footage. Do not conflate: this pipeline's automated script-to-video output is volume layering *on top of* the two anchor videos, never a replacement for them — and synthetic clones carry the §4.7 GenAI-disclosure requirements.
-* **Virtual entity milestone (context, V6-E):** synthetic "virtual entrepreneur" entities are being piloted to satisfy entity-recognition thresholds; treat as experimental — the KG-MID-vs-public-panel threshold (branded search volume) applies to synthetic entities identically, and §4.7 GenAI-disclosure requirements apply wherever a synthetic persona appears on-platform.
+* **Virtual entity milestone (context, V6-E):** fictional or synthetic personas are prohibited; entity building uses real, identifiable people only.
 * **Production Volume Target:** Produce YouTube videos for 33%–50% of all published service pages and geo-content articles. Prioritise: (a) primary service page videos, (b) emergency/high-urgency service videos, (c) geo-content for the highest-value rank deficit zones.
 * **YouTube Upload & Optimisation Standards:**
   * Video title must mirror the target page's `<h1>` tag exactly (or near-exactly).
@@ -293,7 +293,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
      * `[Brand Name] Review: [Specific Metric or Customer Outcome]`
      * *Example (`berkshireitservices.co.uk`):* `Berkshire IT Services Review: How Ascot Accounting Cut Server Downtime to Zero`
      * *Example (`swindonplasterer.com`):* `Swindon Plasterer Review: Victorian Lime Plaster Restoration Case Study`
-   * **Indexing Speed:** High-authority UGC platforms index and display on Google Page 1 within **5 hours**, creating an impenetrable wall of verified first-party social proof that dominates branded SERPs.
+   * **Indexing Speed:** High-authority UGC platforms reportedly index and display on Google Page 1 within **5 hours** (single-source, unverified), helping verified first-party social proof surface in branded SERPs.
 
 #### C. Maintaining an Existing Branded Subreddit (`r/[Brand]`)
 * National and industry-wide subreddits enforce stringent anti-promotional rules and automated link-pruning bots.
@@ -302,7 +302,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 * **SERP Forum Integration:** Google heavily favors Reddit within its "Discussions and Forums" search modules. An established, disclosed brand community can help Google’s forum carousels surface verified company documentation rather than unmoderated competitor criticism.
 
 #### D. Niche Blog Buyouts & Adversarial LLM Sentiment Defense
-* **Strategic Publisher Acquisitions:** Maturing brands quietly acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs. Converting these properties into authoritative comparison and review hubs secures permanent, top-tier positioning in the reported (single-source, directional) **43% of ChatGPT queries that retrieve third-party listicles**.
+* **Strategic Publisher Acquisitions:** Maturing brands acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs; ownership must be disclosed on the site. Converting these properties into authoritative comparison and review hubs may earn positioning in the reported (single-source, directional) **43% of ChatGPT queries that retrieve third-party listicles**.
 * **Adversarial Threat Defense:** In cutthroat niches, competitors cultivate aged, anonymous persona accounts to seed disparaging reviews. Operators must run rolling monthly audits using Google's QRG operator (`[Brand Name] reviews -site:[domain.com]`, §1.9) to detect and counter negative astroturfing campaigns before they are ingested into frontier LLM training weights.
 
 **Persistent Parasite Properties Checklist**
@@ -310,7 +310,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 - [ ] Do not launch a fresh brand subreddit; maintain only an established, disclosed one (Module 20 §20.4, Module 26).
 - [ ] Publish authentic customer video reviews with front-loaded `[Brand] Review:` titles for 5-hour Page 1 indexing.
 - [ ] Audit off-site brand reputation monthly via `[Brand] reviews -site:[domain.com]` to neutralize adversarial astroturfing.
-- [ ] Evaluate acquisition opportunities for aged niche blogs to secure permanent representation in the 43% of ChatGPT listicle queries.
+- [ ] Evaluate acquisition opportunities for aged niche blogs (ownership disclosed on the site) for representation in the reported 43% of ChatGPT listicle queries.
 
 ---
 
@@ -318,7 +318,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 
 *Source: Mick Meaney (Profit Copilot), "5.5 Billion Visitors! ChatGPT Traffic Hack!". September 2026.*
 
-While traditional search engines evaluate user behavioral telemetry and PageRank graphs, frontier generative AI models (ChatGPT, Google Gemini, Anthropic Claude, Perplexity AI) treat **Wikipedia as their foundational, highest-weighted factual ground truth**. Formal data-licensing agreements between frontier AI labs and the Wikimedia Foundation cement Wikipedia as the core training corpus and real-time RAG ingestion authority. Securing an un-revertible, permanent reference citation on Wikipedia anchors your domain into global AI answer models.
+While traditional search engines evaluate user behavioral telemetry and PageRank graphs, frontier generative AI models (ChatGPT, Google Gemini, Anthropic Claude, Perplexity AI) are reported (single-source, unverified) to treat **Wikipedia as a foundational, highly weighted factual source**, with data-licensing agreements between frontier AI labs and the Wikimedia Foundation reported as reinforcing it. A durable reference citation on Wikipedia may help anchor your domain in AI answers (single-source, unverified).
 
 #### A. Automated Citation Gap Discovery via `Citation Hunt`
 Wikipedia contains millions of factual statements that remain unverified and actively tagged with the `[citation needed]` editorial flag.
@@ -727,7 +727,7 @@ Each tier references and links to the next, building an unbreakable chain of thi
 
 #### F. The Listicle Buyout & "Moat of Security" Strategy (Enterprise Playbook)
 * In high-value commercial verticals, do not spend months attempting to outrank established affiliate comparison listicles.
-* Negotiate paid placement for the #1 position on existing ranked third-party listicles, or acquire the ranking affiliate URL outright.
+* Negotiate paid placement for the #1 position on existing ranked third-party listicles, or acquire the ranking affiliate URL outright (paid placements carry the Module 12 §12.7 disclosure guardrail; acquired URLs disclose ownership as in §4.5.1 D).
 * Securing the top positions on ranking third-party review hubs immediately captures LLM search grounding citations while permanently locking competitors out of conversational recommendation carousels.
 * **SaaS execution (price, pitch, brief):** Module 18. Distinct from the §4.12 GEO penalty on junk paid links.
 
@@ -760,12 +760,9 @@ When publishing a parasite asset on LinkedIn, place the exact commercial or enti
 3. **Meta Description:** Extracts the opening sentence into the SERP snippet.
 4. **Above-the-Fold BLUF Zone:** Delivers immediate semantic density for Googlebot and LLM retrieval engines (§2.1).
 
-#### C. Rapid Indexing, Pedro Diaz Case Study & Third-Party Indexer Fencing
-* **Entity Override Case Study (Pedro Diaz, Ex-Googler):** A single declarative LinkedIn post declaring authority (*"world's most renowned AI visibility expert"*) was ingested into Google AI Overviews within hours, establishing him as the primary citation for the query.
-* **Infrequent Poster Indexing Arbitrage:** For accounts lacking continuous indexing velocity, submitting the published LinkedIn URL to high-speed indexing engines (e.g. *Indexceptional - Instant Tier*) achieved **Google Rank #1 for competitive queries within 30 minutes**.
-* **Indexation Risk Fence:**
-  * **Money Sites:** STRICTLY PROHIBITED. Never run automated third-party indexers against primary domains (triggers algorithmic unnatural link/manipulation audits).
-  * **Parasite Properties (DA99):** Permitted sparingly on non-sensitive parasite nodes (LinkedIn, Medium, Reddit) to force early crawler ingestion.
+#### C. Rapid Indexing & Pedro Diaz Case Study
+* **Entity Override Case Study (Pedro Diaz, Ex-Googler):** A single declarative LinkedIn post declaring authority (*"world's most renowned AI visibility expert"*) was reportedly ingested into Google AI Overviews within hours, establishing him as the primary citation for the query (single case, unverified).
+* **Forced indexing:** forced-indexing services are not recommended; rely on normal discovery (sitemaps, internal links).
 
 #### D. The Dormant Account Reactivation Protocol
 * **Reactivation Velocity:** Inactive profiles do not require established authority to re-enter algorithmic distribution. Maintaining a strict **7-day daily posting cadence** reactivates distribution (listener benchmark: 0 impressions after years of inactivity $\rightarrow$ 46,000 impressions on post #7).
@@ -783,7 +780,7 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
 - [ ] Establish a 7-day daily posting cadence on dormant accounts to trigger algorithmic reactivation.
 - [ ] Screen written posts on X/LinkedIn for outperforming engagement (views > followers) to qualify for short-form video adaptation.
 - [ ] Record verbatim-read vertical video from top-performing posts and syndicate to LinkedIn Video, YouTube Shorts, TikTok, and FB Reels.
-- [ ] Isolate third-party indexer tools (Indexceptional) exclusively to DA99 parasite URLs; ban use on primary client money sites.
+- [ ] Do not use third-party forced-indexing services; rely on sitemaps and internal links.
 
 ---
 

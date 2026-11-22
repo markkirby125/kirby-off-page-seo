@@ -1,7 +1,7 @@
 # Module 19: Semantic Elasticity & Social Media Parasite Power Rankings
 *Source: Edward Sturm × James Dooley (Ep. 1,171, "Query Augmentation: How One Page Ranks for Thousands of Keywords"). September 2026.*
 
-**This module is the ranking-substrate doctrine.** The *on-page* mechanics of query augmentation and authority elasticity are owned by `kirby-aiseo-skill` Module 2 §2.36 (canonical) and the URL-vs-`<h2>` architecture call by §2.37 — do not re-derive them here. LinkedIn *production mechanics* (~5.7M citation moat, CMS 4-zone keyword injection, dormant-account reactivation, indexer fencing) remain in Module 4 §4.14. Durable entity corroboration across high-trust nodes is Module 16; LinkedIn *DMs for placements* are Module 18. Read this module when deciding **what earns the ranking** for a commercial head term.
+**This module is the ranking-substrate doctrine.** The *on-page* mechanics of query augmentation and authority elasticity are owned by `kirby-aiseo-skill` Module 2 §2.36 (canonical) and the URL-vs-`<h2>` architecture call by §2.37 — do not re-derive them here. LinkedIn *production mechanics* (~5.7M citation moat, CMS 4-zone keyword injection, dormant-account reactivation) remain in Module 4 §4.14. Durable entity corroboration across high-trust nodes is Module 16; LinkedIn *DMs for placements* are Module 18. Read this module when deciding **what earns the ranking** for a commercial head term.
 
 ### **19.1 The Authority Elasticity & Query Radius Model**
 
@@ -41,7 +41,7 @@ When these co-occur, the entity occupies the broad-match rung of the §2.36E tru
 ### **19.2 Social Media Parasite Power Hierarchy (LinkedIn vs. EMDs & Tiered Networks)**
 
 #### A. The Live Competition Finding
-A single optimized LinkedIn post **repeatedly ranked #1 on Google for high-competition head terms**, directly outranking:
+A single optimized LinkedIn post **ranked #1 on Google for high-competition head terms (reported, single-source, unverified)**, directly outranking:
 
 * Dedicated exact-match domains (EMDs) built for the query;
 * A competitor fielding **15 interlinked guest posts backed by tier-2 links**.

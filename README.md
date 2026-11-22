@@ -4,7 +4,7 @@
 
 You are trying to build off-page authority to rank your primary domain. In the past, it made perfect sense to buy guest posts, blast web2.0 links, and rely solely on your domain's own backlink profile to signal trust to Google.
 
-**In practice, Google's Helpful Content classifiers now demand Multi-Platform Entity Consensus.** If your brand only exists on your own website, Google treats you as a localized anomaly. Furthermore, AI Overviews (AEO) source their answers from high-authority UGC platforms (Reddit, YouTube), not just standard blogs.
+**In practice, Multi-Platform Entity Consensus is reported (single-source, unverified) to matter for Google's Helpful Content classifiers.** If your brand only exists on your own website, Google may treat you as a localized anomaly. Furthermore, AI Overviews (AEO) source their answers from high-authority UGC platforms (Reddit, YouTube), not just standard blogs.
 
 If you fail to syndicate your entity across these platforms, you remain invisible to the LLMs powering modern search, losing massive top-of-funnel discovery traffic.
 

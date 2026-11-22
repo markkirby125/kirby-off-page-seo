@@ -113,7 +113,7 @@ Keywords around the brand: yes. Do not over-stuff. Do not pile exact-match ancho
 
 > We work with [product], highly relevant to this roundup. Surprised they are not in it. Happy to pay if you see the alignment.
 
-Offer to pay **without naming a number**. Publishers often ask less than you would have paid.
+Offer to pay **without naming a number** (Module 12 §12.7 disclosure guardrail applies). Publishers often ask less than you would have paid.
 
 Lead with money **only** when the publisher clearly monetizes roundups — then talk numbers immediately, still no first-message figure.
 
@@ -151,7 +151,7 @@ SaaS notes:
 * Bandwidth: Connectively (formerly Featured) + Qwoted + HARO. SOS is not required.
 * Featured/Connectively: fewer queries than HARO, higher close if you pitch on time.
 * Connectively has a free tier; judge ROI by BBC/HubSpot-class mentions, not subscription cost.
-* Quotes **compound**; paid interviews / sponsored homepage PR on the same domains do not substitute (the article is not labelled sponsored).
+* Quotes **compound**; paid interviews / sponsored homepage PR on the same domains do not substitute; any paid placement is labelled sponsored (Module 12 §12.7).
 * Examples (not guarantees): daily HARO ~1 month → Healthline dofollow + rank spike; HubSpot dofollows via quotes.
 
 ### **18.13 Foundational SaaS directories**

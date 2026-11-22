@@ -49,7 +49,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
   2. **Known Physical Location** (verified GBP),
   3. **Exact Timestamp/Date**, and
   4. **Co-Present Verifiable Entities** (other recognized entities at the same event/claim).
-* **Case (King of AEO — Dooley/Floate V6, distinct from Module 12's PR-manipulation episodes):** a crowning claim anchored to a specific date, a verified GBP location (Leigh Sports Village), and 5 recognized speaker entities became universally recognized across Claude, Perplexity, ChatGPT, and Google AI Mode. **20+ competitors failed to displace it using 15–20 Exact Match Domains** — EMDs lack multi-node graph relationships and lose to 4-node-anchored claims.
+* **Case (King of AEO):** an invented term and a fabricated event; see Module 12 (§12.1, §12.4). Do not execute. Reported outcome claims are unverified.
 * **⚠️ Guardrail:** synthetic relationship claims must have a verifiable real-world footprint — every anchor node must independently check out (person real, GBP real, date real, co-present entities real). Fabricated anchors are the §12.4 failure mode with worse durability than PR-based fabrications — once ingested into model memory they outlive the §12.6 decay cycle and resist correction.
 
 ### **16.6 48-Hour Opinion Sculpting & ORM at Scale (V6-H)**

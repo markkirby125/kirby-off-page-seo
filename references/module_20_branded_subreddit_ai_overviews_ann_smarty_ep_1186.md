@@ -21,12 +21,12 @@ To defend against negative third-party sentiment, a brand that already runs an e
 
 *Source: The Edward Show, Episode 1,206 (David Quaid, Harpreet Singh, Gagan Ghotra & Edward Sturm)*
 
-* **The Anti-Spam Hammer Reality:** Reddit administrators (not local subreddit moderators, but platform-level automated algorithms) aggressively suspend new accounts and brand-created subreddits within 3 to 5 minutes of creation. Default subreddit rules now mandate automated spam detection that cannot be disabled.
+* **The Anti-Spam Hammer Reality:** Reddit administrators (not local subreddit moderators, but platform-level automated algorithms) aggressively suspend new accounts and brand-created subreddits within 3 to 5 minutes of creation (reported, single-source, unverified). Default subreddit rules now mandate automated spam detection that cannot be disabled.
 * **The Circumvention Death Spiral:**
   * When a new branded account or subreddit is banned, creating a variant account or recreating the community triggers Reddit's **Circumvention Rule**.
   * Circumvention penalties blacklist associated IP addresses, device IDs, connected ad accounts, and user clusters, permanently destroying the brand's ability to participate on the platform.
 * **Seasonal Execution Prohibition:**
-  * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new brand subreddit at any time, and above all in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). The risk of algorithmic account termination is near 100%.
+  * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new brand subreddit at any time, and above all in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). Account termination is a high risk (reported, single-source, unverified).
 * **The Legitimate Engagement Channel:**
   * Rather than creating rogue accounts or sending prohibited cash offers for Reddit posts, brands can legitimately hire established, recognized community moderators as official **Brand Ambassadors or Technical Advisors**.
   * Established moderators possess aged accounts with high karma and verified trust scores, allowing legitimate support communication and AMA scheduling without triggering administrative spam flags.
