@@ -77,5 +77,5 @@ An unnatural backlink profile can reportedly trigger algorithmic suppression (pr
 ### **23.6 Executable Nofollow Placement SOP**
 
 1. **Identify Ranking Forum / Community Nodes**: Search for `"[target keyword]" site:reddit.com`, `site:quora.com`, or niche authority forums. Identify threads ranking in positions #1–#5 on Google with ongoing traffic.
-2. **Contextual Value Placement**: Post high-effort, authoritative responses that answer the primary inquiry, placing the target link as a supporting citation, tool, or research asset.
+2. **Contextual Value Placement**: Post high-effort, authoritative responses that answer the primary inquiry, placing the target link as a supporting citation, tool, or research asset; disclose affiliation, follow each community's self-promotion rules, and never post paid or undisclosed links.
 3. **Destination Optimization**: Ensure the destination landing page features embedded media (YouTube video or interactive calculator) and rapid load speeds to maximize engagement when clickstream traffic arrives.

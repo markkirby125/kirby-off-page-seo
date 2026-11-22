@@ -7,7 +7,7 @@
 
 ### **4.2 YouTube Transcript Optimisation, SME Answer-Echo Protocol & Long-Form RAG Context Law (Reported 0.737 ChatGPT Correlation, Single-Source)**
 
-YouTube is reported to be among the most cited domains in Google AI Overviews (Rob Hoffman [`S_5rx9H0elM`] reports **~22%**; industry benchmarks report ~22.9% [Ahrefs] to ~29.5% [BrightEdge]; these figures and their metric, share of citations or share of AI Overviews citing YouTube, are unverified here. Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined made up **15% of sources listed in AI summaries** vs. 17% in standard search results), and branded transcript mentions are reported (single-source, unverified) to show a 0.737 correlation with ChatGPT citation inclusion.
+YouTube is reported to be among the most cited domains in Google AI Overviews (Rob Hoffman [`S_5rx9H0elM`] reports **~22%**; industry benchmarks report ~22.9% [Ahrefs] to ~29.5% [BrightEdge]; these figures and their metric (share of citations or share of AI Overviews citing YouTube) are unverified here; separately, Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined made up **15% of sources listed in AI summaries** vs. 17% in standard search results), and branded transcript mentions are reported (single-source, unverified) to show a 0.737 correlation with ChatGPT citation inclusion.
 
 * **First-45-Second Spoken Tokens:** Speak the primary brand name, geographic location, and specific technical topic clearly within the first 45 seconds of video audio.  
 * **ISO Chapter Timestamps:** Structure video descriptions with exact chapter timestamps aligned with the corresponding on-site article headings.
@@ -197,7 +197,7 @@ Image backlinks constitute an under-leveraged link acquisition vector with super
 
 *Source: Jesper Nissen & Edward Sturm podcast Episode 788 & Episode 642. September 2026.*
 
-While establishing owned topical authority on primary domain infrastructure remains the fundamental long-term mandate, ranking young or maturing websites for high-intent search terms can require weeks of crawler validation. High-authority third-party hosting architectures (Parasite SEO) leverage established enterprise PageRank to achieve same-day Google indexation and top-tier rankings.
+While establishing owned topical authority on primary domain infrastructure remains the fundamental long-term mandate, ranking young or maturing websites for high-intent search terms can require weeks of crawler validation. High-authority third-party hosting architectures (Parasite SEO) are reported to leverage established enterprise PageRank to achieve same-day Google indexation and top-tier rankings (unverified).
 
 #### A. The Subfolder Authority Inheritance Mechanism
 The efficacy of parasite SEO is dictated by URL taxonomy:
@@ -229,7 +229,7 @@ Prospective clients searching a brand name (e.g., *"Berkshire IT Services"*, *"S
 1. **Asset Compilation:** Assemble all verified brand credentials: case studies, client review transcripts, verified licensing/accreditations, and transparent pricing benchmarks.
 2. **Artifact Generation:** Instruct an LLM to formulate an exhaustive, visually polished interactive review and operational profile of the brand, embedding explicit customer testimonials and service capabilities.
 3. **Publication:** Click the native **Publish** button within Claude to deploy the artifact to `claude.ai/public/artifacts/`.
-4. **The Yield:** The artifact ranks on Google within hours for branded queries, establishing an impenetrable third-party trust anchor that pushes competitor aggregators off Page 1 while funneling visitors directly into your owned conversion funnel via embedded CTA links.
+4. **The Yield:** The artifact reportedly ranks on Google within hours for branded queries (unverified), establishing a third-party trust anchor that pushes competitor aggregators off Page 1 while funneling visitors directly into your owned conversion funnel via embedded CTA links.
 
 #### C. The Interim BOFU Intent Intercept (5-Minute Placeholder)
 When a lucrative, low-competition Bottom-of-Funnel (BOFU) search opportunity is identified, custom-coding, designing, and staging a permanent landing page on an owned domain can create a 1–3 day deployment delay, followed by multi-week indexation lag.
@@ -242,8 +242,8 @@ When a lucrative, low-competition Bottom-of-Funnel (BOFU) search opportunity is 
   5. Once the owned URL is indexed and ranking, update the parasite artifact with a canonical citation link pointing to the new owned asset, transforming the parasite into a permanent high-trust referral node.
 
 #### D. Local Community Parasite SEO (Subreddit Exploitation)
-While national subreddits enforce automated link-removal filters, regional and municipal subreddits (e.g., `r/Swindon`, `r/Reading`, `r/Berkshire`) have minimal moderation friction.
-* Providing comprehensive, objective diagnostic solutions to community home-improvement or IT infrastructure inquiries and naturally citing your local resource page captures dominant Google SERP carousel placements for local recommendations without triggering spam flags.
+While national subreddits enforce automated link-removal filters, regional and municipal subreddits (e.g., `r/Swindon`, `r/Reading`, `r/Berkshire`) have their own rules.
+* Post only genuinely on-topic answers, disclose affiliation, and follow each subreddit's rules; providing comprehensive, objective diagnostic solutions to community home-improvement or IT infrastructure inquiries and citing your local resource page where relevant may earn Google SERP carousel placements for local recommendations.
 
 **Parasite SEO Operational Checklist**
 - [ ] Compile brand reputation dossier (reviews, accreditation badges, case metrics).
@@ -318,7 +318,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 
 *Source: Mick Meaney (Profit Copilot), "5.5 Billion Visitors! ChatGPT Traffic Hack!". September 2026.*
 
-While traditional search engines evaluate user behavioral telemetry and PageRank graphs, frontier generative AI models (ChatGPT, Google Gemini, Anthropic Claude, Perplexity AI) are reported (single-source, unverified) to treat **Wikipedia as a foundational, highly weighted factual source**, with data-licensing agreements between frontier AI labs and the Wikimedia Foundation reported as reinforcing it. A durable reference citation on Wikipedia may help anchor your domain in AI answers (single-source, unverified).
+While traditional search engines evaluate user behavioral telemetry and PageRank graphs, frontier generative AI models (ChatGPT, Google Gemini, Anthropic Claude, Perplexity AI) are reported (single-source, unverified) to treat **Wikipedia as a foundational, highly weighted factual source**, with data-licensing agreements between frontier AI labs and the Wikimedia Foundation reported as reinforcing it. A durable reference citation on Wikipedia may help anchor your entity or brand in AI answers (single-source, unverified).
 
 #### A. Automated Citation Gap Discovery via `Citation Hunt`
 Wikipedia contains millions of factual statements that remain unverified and actively tagged with the `[citation needed]` editorial flag.
@@ -331,7 +331,7 @@ Wikipedia contains millions of factual statements that remain unverified and act
 
 #### B. The Wikipedia Reliability Gate (WP:RS, WP:NPOV, WP:NOR & WP:COI)
 * **The Commercial Rejection Trap:** Linking directly to a commercial homepage, product brochure, or sales blog results in automated bot or administrator reversion within minutes for violating Wikipedia's guidelines on Reliable Sources (WP:RS) and Neutral Point of View (WP:NPOV).
-* **Mandatory Domain Infrastructure Standards:**
+* **Independent Publisher Standards (the cited outlet, not your domain):**
   * Domain maturity: minimum $\ge 6$ months of continuous uptime.
   * Transparent governance: a complete `/about/` page detailing verified company registration, corporate leadership, physical address, and formal editorial policies.
   * Author credentials: content must feature named authors with verifiable professional or academic credentials in the subject matter.
@@ -356,7 +356,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 └────────────────────────────┬───────────────────────────┘
                              │
                              ▼
-   Talk-page edit request if any COI; direct edit only if none
+   Talk-page edit request if any interest in the article's subject or cited source (COI); direct edit only if none
                              │
                              ▼
     May be retrieved by ChatGPT, Gemini & Perplexity
@@ -371,8 +371,8 @@ Wikipedia editors require a single authoritative source that directly substantia
    * The page terminates with a formal, academic bibliography.
 
 #### D. Editorial Deployment & RAG Ingestion
-1. Edit only from your own real, disclosed Wikipedia account; never build up an account to look established or use undisclosed accounts. If you or your client have a financial or other interest in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
-2. With no financial or other interest, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
+1. Edit only from your own real, disclosed Wikipedia account; never build up an account to look established or use undisclosed accounts. If you or your client have a financial or other interest in the article's subject or in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
+2. With no financial or other interest in the article's subject or in the cited source, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
    * `{{cite web |url=https://[independent-publisher]/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
 3. Provide a transparent edit summary: *"Added independent reliable source substantiating statement regarding [topic]"*.
 4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, which may increase the likelihood that ChatGPT, Gemini, or Perplexity retrieve the cited source during real-time retrieval or model refreshes (single-source, unverified); retrieval is not guaranteed.
@@ -382,7 +382,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 - [ ] Aggregate 3–5 verifiable third-party studies, expert quotes, and survey statistics.
 - [ ] Cite independent reliable sources directly, or an independently published research brief; never an owned copy (WP:RS, WP:NOR, WP:SYNTH, WP:COI).
 - [ ] Verify zero commercial CTAs, complete author credentials, and formal bibliography.
-- [ ] Disclose any financial or other interest (WP:COI, WP:PAID); with any such interest, put the `{{cite web}}` markup inside a Talk-page edit request and do not edit the article; with none, add it directly with a descriptive edit summary.
+- [ ] Disclose any financial or other interest in the article's subject or in the cited source (WP:COI, WP:PAID); with any such interest, put the `{{cite web}}` markup inside a Talk-page edit request and do not edit the article; with none, add it directly with a descriptive edit summary.
 - [ ] Monitor edit longevity and verify automated citation retrieval across ChatGPT and Perplexity.
 
 ---
@@ -514,11 +514,11 @@ As autonomous purchasing agents (e.g., automated procurement bots operating with
 
 ---
 
-### **4.22 The $5M Link Acquisition Reality: The Non-Indexed Link Audit Gate, Educational Asset Barter & Fake Copyright Defense (Michał Rochwerger)**
+### **4.22 The Reported $5M Link Acquisition Reality: The Non-Indexed Link Audit Gate, Educational Asset Barter & Fake Copyright Defense (Michał Rochwerger)**
 
 *Source: Michał Rochwerger (Odys Podcast / High Stakes Growth Show, "I spent $5M on SEO Links - Here's What Actually Works"). September 2026.*
 
-In an AI-saturated ecosystem where tens of millions of new web documents are published daily at zero marginal cost, links remain Google's fundamental algorithmic tiebreaker. However, empirical expenditure data across $5M+ in link acquisition reveals massive capital destruction through non-indexed placements and obsolete tactics.
+In an AI-saturated ecosystem where tens of millions of new web documents are published daily at zero marginal cost, links remain Google's fundamental algorithmic tiebreaker. However, reported expenditure data across $5M+ in link acquisition (single-source, unverified) suggests massive capital destruction through non-indexed placements and obsolete tactics.
 
 ```
 ┌────────────────────────────────────────────────────────┐
@@ -746,7 +746,7 @@ Each tier references and links to the next, building an unbreakable chain of thi
 
 *Source: Edward Sturm Podcast Episode 1,161 ("LinkedIn Is Still a Blue Ocean"). September 2026.*
 
-> **TL;DR:** LinkedIn (DA 99, 120M ranked keywords, ~500M monthly Google clicks) holds ~5.7M citations across ChatGPT, AI Overviews, and AI Mode. Placing the target keyword at the very beginning of a post automatically injects it into the URL slug, title tag, meta description, and BLUF text. Daily posting reactivates dormant accounts within 7 days, and high-performing text posts can be read verbatim on video for omni-channel AEO multi-placement.
+> **TL;DR (reported, single-source, unverified):** LinkedIn (DA 99, 120M ranked keywords, ~500M monthly Google clicks) holds ~5.7M citations across ChatGPT, AI Overviews, and AI Mode. Placing the target keyword at the very beginning of a post automatically injects it into the URL slug, title tag, meta description, and BLUF text. Daily posting reactivates dormant accounts within 7 days, and high-performing text posts can be read verbatim on video for omni-channel AEO multi-placement.
 
 #### A. Semrush LLM Citation Footprint (Reported ~5.7M, Single-Source, Unverified)
 Across active conversational search engines, LinkedIn reportedly holds roughly **5.7 million indexed citations** (2.7M + 2.0M + ~1.0M):

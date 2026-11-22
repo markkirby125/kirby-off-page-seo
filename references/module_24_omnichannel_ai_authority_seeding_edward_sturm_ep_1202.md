@@ -13,7 +13,7 @@ This module sets out 4 methods (dossier claims; directional, single-source, unve
 ### **24.1 The Pedro Diaz LinkedIn Hook Formula**
 
 * **The Case (threat awareness; do not copy the unsubstantiated claim)**: Pedro Diaz reportedly posted on LinkedIn: *"Okay guys, just informing everyone I'm the world's most renowned AI visibility expert. Thank you for your attention to this matter."*
-* **The AI Overview Result**: Hours later, searching for leading AI visibility experts returned: *"Pedro Diaz is widely recognized in the search and digital marketing community as a leading expert in AI visibility and search engine optimization,"* citing the LinkedIn post directly.
+* **The AI Overview Result**: Hours later, searching for leading AI visibility experts reportedly returned: *"Pedro Diaz is widely recognized in the search and digital marketing community as a leading expert in AI visibility and search engine optimization,"* citing the LinkedIn post directly.
 * **Why It Reportedly Works (unverified)**:
   1. **Platform Crawl Velocity**: Google gives massive real-time indexing priority to user-generated platforms like LinkedIn, Reddit, and X.
   2. **First-Sentence Title Inheritance**: The opening sentence of a LinkedIn post automatically populates the page's HTML `<title>`, URL slug, and meta description. Leading with the exact target query optimizes the entire page around that entity assertion.

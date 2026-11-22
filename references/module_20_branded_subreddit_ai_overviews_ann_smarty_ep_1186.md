@@ -34,4 +34,4 @@ To defend against negative third-party sentiment, a brand that already runs an e
 
 ---
 
-*See also: [Module 13: Reddit & Quora "Modifier" Execution](module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md) (for resolving tension between owned assets vs. third-party platform moderation) and [Module 16: The 3rd-Party Corroboration Engine (Brand vs. Non-Brand)](module_16_entity_corroboration_force_indexing.md).*
+*See also: [Module 13: Reddit & Quora "Modifier" Execution](module_13_reddit_keyword_hijacking_edward_sturm_ep_1101.md) (for resolving tension between owned assets vs. third-party platform moderation) and [Module 16: Entity Corroboration & Discovery](module_16_entity_corroboration_force_indexing.md).*

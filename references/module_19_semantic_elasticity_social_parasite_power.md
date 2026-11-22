@@ -40,7 +40,7 @@ When these co-occur, the entity occupies the broad-match rung of the §2.36E tru
 
 ### **19.2 Social Media Parasite Power Hierarchy (LinkedIn vs. EMDs & Tiered Networks)**
 
-#### A. The Live Competition Finding
+#### A. A Reported Competition Anecdote
 A single optimized LinkedIn post **ranked #1 on Google for high-competition head terms (reported, single-source, unverified)**, directly outranking:
 
 * Dedicated exact-match domains (EMDs) built for the query;
@@ -75,7 +75,7 @@ Google personalizes and geo-fences top social search results by user country. Th
    * While Ep. 1112 (`p1hExzKlHqk`) describes a tactic where an employee presents their Medium profile as an unbranded "consultant" rather than an employee of the company to recommend the brand, operating undisclosed employee or fabricated consultant personas violates **FTC 16 CFR Part 255** (endorsement disclosure law) and **Module 4 §4.6** (Google's ban on inauthentic LLM answer manipulation).
    * **Sanctioned Execution Paths:**
      * *Path A — Transparent Executive Voice (The Tim Soulo Model):* Publish openly under a verified founder, CMO, or product lead profile using explicit first-person ownership (*"Why I Think [Our Product] Is the Better Choice"*) backed by genuine product comparisons.
-     * *Path B — Disclosed Consultant Partnerships & Balanced Outbound Links:* Partner with real, verifiable practitioners who explicitly disclose the material connection (`#Sponsored` / FTC disclosure) and avoid routing excessive outbound links solely to the client's domain (link neutrally to multiple competing tools so the post does not trip promotional link-ratio filters).
+     * *Path B — Disclosed Consultant Partnerships & Balanced Outbound Links:* Partner with real, verifiable practitioners who explicitly disclose the material connection (`#Sponsored` / FTC disclosure) and avoid routing excessive outbound links solely to the client's domain (link neutrally to multiple competing tools so readers get a fair comparison).
      * *Path C — Multi-Platform Diversification:* As Sturm advises, diversify parasite and authority content across **Medium, LinkedIn, Threads, X, and Facebook** rather than concentrating all off-page visibility under a single `@username` profile.
 
 ### **19.3 Operational Protocol & Execution Checklist**
