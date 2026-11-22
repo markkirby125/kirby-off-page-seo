@@ -265,9 +265,9 @@ Furthermore, a reported (single-source, directional) **43% of product and servic
 
 #### A. The Anatomy of a Persistent Parasite Property
 A "Parasite Property" is an externally hosted digital asset that leverages a massive third-party parent domain's PageRank (YouTube, LinkedIn, Reddit, Facebook, Medium, or an acquired niche publication) while maintaining an authentic, aged operational history.
-* **Aged Account Provenance:** Accounts with an active 6–24 month history of authentic community contribution bypass automated moderation filters and receive preferential crawling velocity in Google's indexing pipeline.
+* **Aged Account Provenance:** Accounts with an active 6–24 month history of authentic community contribution are more likely to be treated as established community members and may be crawled faster in Google's indexing pipeline (directional, single-source); this is a reason to participate honestly over time, not a way around moderation.
 * **Multi-Entity Topical Breadth:** Legitimate properties discuss multiple brands, industry developments, and neutral educational topics. Accounts that exclusively praise a single brand trigger platform spam classifications and algorithmic de-weighting.
-* **Non-AI Authentic Tone:** Content must avoid generic AI syntax, predictable transitions, and em-dash overuse. Frontier LLMs and human searchers instantly recognize and discount synthetic corporate astroturfing.
+* **Non-AI Authentic Tone:** Write in a real human voice from real experience, with the required disclosures. Generic AI-sounding copy is discounted by readers and by LLMs, and synthetic corporate astroturfing breaks platform rules.
 
 #### B. White-Hat Decision-Stage Brand Shielding
 When prospective buyers reach the final evaluation stage, they execute branded decision queries: `"[Brand Name] review"` or ask ChatGPT *"Is [Brand Name] trustworthy?"*.

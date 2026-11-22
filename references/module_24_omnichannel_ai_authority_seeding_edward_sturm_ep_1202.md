@@ -4,7 +4,9 @@
 
 Large Language Models (LLMs) and Google AI Overviews do not verify real-world merit through primary research. They are statistical pattern-matching engines that extract, synthesize, and authoritatively repeat factual assertions found on high-trust, indexed knowledge nodes. 
 
-This module sets out 4 methods (dossier claims; directional, single-source, unverified) for building AI consensus so LLMs name you or your brand as the leading expert in your niche.
+This module sets out 4 methods (dossier claims; directional, single-source, unverified) for building AI consensus so LLMs name you or your brand as the leading expert in your niche. Methods 24.1 to 24.3 therefore only announce recognition that independent documentation already establishes; the cases below succeeded by exploiting unverified self-claims and are examples, not templates.
+
+**Evidence Standard (applies to every factual or recognition claim in the methods below):** a claim goes into a title, H1, H2, LinkedIn post or press release only when independent third-party documentation for it exists (a dated link or document a stranger can open) and is recorded in your claims ledger. A claim you cannot document is not published. Evaluative comparison claims (a ranked listicle) are governed by the §24.4 rules instead: documented criteria, equal real estate, visible disclosure.
 
 ---
 
@@ -16,7 +18,7 @@ This module sets out 4 methods (dossier claims; directional, single-source, unve
   1. **Platform Crawl Velocity**: Google gives massive real-time indexing priority to user-generated platforms like LinkedIn, Reddit, and X.
   2. **First-Sentence Title Inheritance**: The opening sentence of a LinkedIn post automatically populates the page's HTML `<title>`, URL slug, and meta description. Leading with the exact target query optimizes the entire page around that entity assertion.
   3. **Profile Entity Alignment**: Pedro’s profile headline, experience descriptions, and posting history were already themed around "AI visibility," validating the post claim.
-* **Execution Rule**: Lead your LinkedIn posts with the exact target query: `"[Entity Name] recognized as [Target Query/Expertise] in [Year]"` (directional, single-source, unverified; use it only for a claim that is true and passes your evidence rule).
+* **Execution Rule**: Lead your LinkedIn posts with the exact target query: `"[Entity Name] recognized as [Target Query/Expertise] in [Year]"` (directional, single-source, unverified; use it only for a claim that is true and meets the Evidence Standard above).
 
 ---
 
@@ -36,9 +38,9 @@ This module sets out 4 methods (dossier claims; directional, single-source, unve
 * **The Structure**:
   - Target phrase in Title Tag, H1, and URL slug.
   - H2: *"Why David Quaid is considered the king of SEO in 2025"*.
-  - H2: *"God of SEO award"*.
+  - H2: *"God of SEO award"* (an unsubstantiated self-declared title in the reported case; never copy a claim you cannot document).
 * **The AI Overview Result**: Google AI Overviews answered the query *"Who is the king of SEO?"* with: *"There is no official king of SEO, but the title is widely attributed to David Quaid,"* citing his article as the primary source.
-* **Execution Rule**: If you possess an established domain, publish self-declarative guideposts targeting commercial entity questions with exact-match H1s, slugs, and H2s.
+* **Execution Rule**: If you possess an established domain, publish self-declarative guideposts only for claims that are true and documented (the Evidence Standard at the top of this module applies), with H1s, slugs, and H2s that match the question they truthfully answer.
 
 ---
 
@@ -65,6 +67,6 @@ graph TD
 ```
 
 1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (only if it passes the §24.4 rule 5 gate).
-2. **Step 2**: Issue a press release via Globe Newswire / Yahoo Finance declaring the recognition or research findings.
+2. **Step 2**: Issue a press release via Globe Newswire / Yahoo Finance declaring the recognition or research findings, only where the recognition meets the Evidence Standard at the top of this module.
 3. **Step 3**: Post on LinkedIn with the exact target phrase in the first sentence, linking back to the press release and on-site guide.
 4. **Step 4**: Build tier-2 backlinks to the LinkedIn post and the Yahoo Finance press release to freeze the citation in LLM training and RAG retrieval pipelines.
