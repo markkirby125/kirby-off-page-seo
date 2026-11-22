@@ -1,4 +1,4 @@
-# Module 16: Entity Corroboration & Force-Indexing
+# Module 16: Entity Corroboration & Discovery
 
 *Source: James Dooley ("Money-Hat SEO") & TJ Robertson / The Edward Show, Episodes 1116 & 1134*
 
@@ -11,7 +11,7 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
 *   **Data Parity:** Ensure the data across these nodes is mathematically identical (same address format, same executive names, same founding dates). Discrepancies cause LLM hallucination and citation dropping.
 *   **Vertical Directory `About` Hard-Numbers Rule (Kasra Dash V4 Tier #5):** When populating the `About` or description fields on vertical trade, B2B, and local directories (Clutch, G2, Yelp, Checkatrade, Trustpilot, industry registers), lead with **verifiable hard numbers** — exact years in business, total verified jobs/deployments completed, active review counts, named certifications/registrations, and quantifiable response/delivery SLAs — rather than generic marketing prose. Ensure every metric matches the on-domain SSOT (`"My Business Facts"` / `/trust` hub) 1:1.
 
-### **16.2 Cross-Platform Corroboration (Force-Indexing)**
+### **16.2 Cross-Platform Corroboration (Discovery)**
 *   **The Consensus Playbook:** Take a single piece of high-value social proof (e.g., a major client testimonial or an industry award).
 *   **Syndication:** Syndicate that *exact* claim across Reddit, LinkedIn, Twitter, and niche podcasts.
 *   **The Result:** Because the claim is identical and hosted on multiple DA 90+ domains, it may lead AI search engines to treat it as corroborated (directional, single-source). This may modestly increase the likelihood it gets pulled into the AI Overview snippet as a trusted citation (directional, single-source).
@@ -54,6 +54,6 @@ To dominate Generative Engine Optimization (GEO) and AI Overviews, you must acti
 
 ### **16.6 48-Hour Opinion Sculpting & ORM at Scale (V6-H)**
 
-* **The 10x Paradox (routing rule):** dominating a *head* term's generative answer is **10x harder** — a single query spawns 10–15 fan-outs and winning requires positive-sentiment consensus across all of them (ORM at scale: this module + Module 14 in `kirby-aiseo-skill`). Capturing *long-tail* fan-out variants is **10x easier** — near-zero difficulty, exact-title + force-index plays (documented as the scoped exception in `kirby-aiseo-skill` §2.45; do not duplicate the on-page SOP here).
+* **The 10x Paradox (routing rule):** dominating a *head* term's generative answer is **10x harder** — a single query spawns 10–15 fan-outs and winning requires positive-sentiment consensus across all of them (ORM at scale: this module + Module 14 in `kirby-aiseo-skill`). Capturing *long-tail* fan-out variants is **10x easier** — near-zero difficulty, exact-title + discovery plays (Module 4 §4.9) (documented as the scoped exception in `kirby-aiseo-skill` §2.45; do not duplicate the on-page SOP here).
 * **48-Hour Opinion Sculpting:** high-level execution can fundamentally alter how LLMs describe and recommend a brand within ~48 hours by publishing **syndicated comparison assets** (Module 18 placements) plus **authoritative entity citations** (this module's nodes) — the same mechanism as Module 12's consensus economics, compressed. Directional, single-source (V6); a single-source exception, not the §4.8 window (see `kirby-seo-timing-benchmarks`: 2–4 weeks for AIO/Gemini, 60–120 days for ChatGPT Search).
 * **Cadence guardrail:** 48-hour sculpting rides the §12.6 4–6-week decay cliff — sculpted consensus without maintenance decays; schedule reload cadence for any sculpted claim.

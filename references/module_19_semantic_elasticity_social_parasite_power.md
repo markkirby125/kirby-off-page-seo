@@ -46,10 +46,10 @@ A single optimized LinkedIn post **ranked #1 on Google for high-competition head
 * Dedicated exact-match domains (EMDs) built for the query;
 * A competitor fielding **15 interlinked guest posts backed by tier-2 links**.
 
-The competitive network lost to one high-authority parasite post on a DA 99 host. Interlinked guest-post stacks and tier-2 reinforcement are therefore **not** a reliable counter to a winner-take-most social result on a commercial head term — and this is §19.1 in practice: the host supplied the elasticity, so lexical precision (the EMD) and link mass (the guest-post network) were both outbid by engagement telemetry.
+In this reported case, the competitive network lost to one parasite post on a DA 99 host, which suggests interlinked guest-post stacks and tier-2 reinforcement may **not** reliably counter a winner-take-most social result on a commercial head term. The source attributes this (unverified) to §19.1: the host supplied the elasticity, so lexical precision (the EMD) and link mass (the guest-post network) were both outbid by engagement telemetry.
 
 #### B. Critical Doctrinal Shift
-Social media is upgraded from merely an "**AI crawler trigger**" (Module 4 §4.14) to a **primary, dominant organic ranking substrate**.
+Based on this reported case, treat social media as a potential **primary organic ranking substrate** (directional, single-source), not merely an "**AI crawler trigger**" (Module 4 §4.14).
 
 | Old doctrine (Module 4 §4.14) | Upgraded doctrine (this module) |
 |---|---|

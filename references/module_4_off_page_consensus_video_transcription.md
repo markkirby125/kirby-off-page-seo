@@ -18,7 +18,7 @@ YouTube is the single most cited domain in Google AI Overviews (reported at **22
   3. **The Answer-Echo Opening Rule:** Instruct the SME to **repeat/echo the target question in their opening sentence** (e.g., *"When people ask what the best [product/service] is for [use case], I tell them..."*), then cut out the interviewer's voice in post-production so the video opens directly with a clean, self-contained semantic Q&A block.
   4. **Verified Transcript / Closed-Caption (`.SRT`) Upload & On-Site Mirroring:** Generate a clean transcript using **Gemini** (which produces cleaner punctuation and entity spelling than raw YouTube auto-captions), manually verify and upload that transcript / closed-caption (`.SRT`) file directly to YouTube, and embed the video alongside the structured Q&A text on the corresponding website page (with bidirectional links between the YouTube description and the site URL).
 * **The Shorts vs. Long-Form RAG Context Law & `CCBot` Audit (Nathan Gotch, `xo-daGqFFhM`):**
-  * **Longer-Form for AI Retrieval vs. Shorts for SERP Carousels:** While YouTube Shorts dominate mobile organic SERP video carousels (see `§4.14E`), Gotch notes that **Shorts are not retrieved in AI search because their script is too small (often `<100 words`) to provide sufficient semantic context**. Prioritize longer-form educational and comparison videos to supply the transcript depth LLMs require for citation.
+  * **Longer-Form for AI Retrieval vs. Shorts for SERP Carousels:** While YouTube Shorts dominate mobile organic SERP video carousels (see `§4.14E`), Gotch reports (single-source, unverified) that **Shorts are rarely retrieved in AI search, attributing this to scripts too short (often `<100 words`) for semantic context**. Prioritize longer-form educational and comparison videos to supply the transcript depth LLMs require for citation.
   * **Bot Access Verification (`CCBot`):** Verify that `robots.txt` on the companion website does not block **`CCBot` (Common Crawl)**, which LLMs rely on for training and entity discovery *(editorial extension: also verify access for live retrieval bots `OAI-SearchBot`, `GPTBot`, `ClaudeBot`, and `PerplexityBot`)*.
 
 ### **4.3 The 250 Authority Protocol & Reddit AI Search Blueprint**
@@ -64,14 +64,14 @@ YouTube Community Posts generate up to 10% of total channel impressions and trai
 
 * **Passive Link Moat Architecture:** Produce an annual, data-backed "State of the Niche" report citing verified industry statistics to passively compound 200+ high-authority (DR80+) referring domain backlinks.
 
-### **4.9 Multi-Platform Force-Indexing Pipeline (Rapid LLM Ingestion)**
+### **4.9 Multi-Platform Discovery & Indexing Workflow (LLM Ingestion)**
 
-To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, Medium teardowns, Web 2.0 assets) are indexed into LLM retrieval stores before competitors:
+To help off-page entity consensus mentions (Reddit threads, X/Twitter posts, Medium teardowns, Web 2.0 assets) get discovered and indexed (indexing is not guaranteed):
 * **Compact Keyword Distribution:** Deploy targeted entity anchors across secondary platforms matching specific high-intent sub-queries.
-* **Force-Indexing Workflow:** Immediately upon publishing off-page citations:
-  1. Submit URLs on properties you own via Search Console URL Inspection (Google's Indexing API is limited to job-posting and livestream pages).
-  2. Cross-reference URL in tier-1 social hubs (X, LinkedIn) to trigger immediate discovery bot crawlers (GPTBot, ClaudeBot, Googlebot).
-  3. Verify indexation within 48 hours to ensure LLM retrieval reasoning layers ingest the newly formed entity associations.
+* **Discovery Workflow:** Immediately upon publishing off-page citations:
+  1. Owned URLs: update sitemaps, add internal links, and use Request Indexing in the Search Console UI (the URL Inspection API is read-only; Google's Indexing API is limited to job-posting and livestream pages).
+  2. Third-party placements (Reddit, X, Medium, press): you cannot submit these; link to them from owned pages and share them on tier-1 social hubs (X, LinkedIn) so crawlers (GPTBot, ClaudeBot, Googlebot) can find them through normal discovery.
+  3. Check indexation within 48 hours to see whether ingestion occurred; ingestion is not guaranteed.
 
 
 ### **4.2.1 Multimodal Video Syndication Pipeline for Google Ask Maps & Gemini**
@@ -84,7 +84,7 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   * Alternatively, record the business owner speaking (voice only) and combine with b-roll footage.
   * Output: A factual, serviceable video. The goal is Gemini indexation, not audience engagement.
 * **The Two-Video Rule (V6-E — entity-anchor complement to this pipeline):** above the volume pipeline, the business owner records just **1–2 short authentic videos** to anchor video entity presence — syndicated across YouTube, Transistor/Spotify/Apple Podcasts, and IMDb (§16.3). Authentic owner footage beats AI avatars on production economics too: high-fidelity cloning (HeyGen + ~6h ElevenLabs voice training + phonetic debugging) costs *more* labor than recording raw footage. Do not conflate: this pipeline's automated script-to-video output is volume layering *on top of* the two anchor videos, never a replacement for them — and synthetic clones carry the §4.7 GenAI-disclosure requirements.
-* **Virtual entity milestone (context, V6-E):** fictional or synthetic personas are prohibited; entity building uses real, identifiable people only.
+* **No fabricated personas (V6-E):** do not invent fictional identities or personas for entity building; disclosed synthetic voice or avatar clones of a real, identified person stay governed by §4.7.
 * **Production Volume Target:** Produce YouTube videos for 33%–50% of all published service pages and geo-content articles. Prioritise: (a) primary service page videos, (b) emergency/high-urgency service videos, (c) geo-content for the highest-value rank deficit zones.
 * **YouTube Upload & Optimisation Standards:**
   * Video title must mirror the target page's `<h1>` tag exactly (or near-exactly).
@@ -116,14 +116,14 @@ To ensure off-page entity consensus mentions (Reddit threads, X/Twitter posts, M
   * **Case benchmark (single-source, anecdotal, unverified):** £250 UT Austin TEDx sponsorship → `.edu` domain backlink → reported 3–4 position rank increase overnight; treat as one observation, not a repeatable effect.
 * **Multi-Chamber of Commerce Syndication:** For highly competitive local markets, simultaneously enrol the business in multiple Chambers of Commerce within a defined metro radius. Chambers generate high-Trust Flow, locally authoritative backlinks satisfying both Google Maps local entity verification and AI citation consensus requirements. Joining 10–17 chambers for a highly competitive market (e.g., personal injury law) is documented as achievable and effective.
 * **Monthly Google News Press Release Syndication:**
-  * Use PR Underground (£50–£80/mo) as the lowest-cost syndication service that reliably achieves Google News inclusion.
+  * Use PR Underground (£50–£80/mo) as the lowest-cost syndication service reported (single-source, unverified) to achieve Google News inclusion.
   * Publish one press release per client per month covering genuine operational news (new service launch, case study metric, award, local event participation).
-  * Google News inclusion creates timestamped, indexed entity mentions feeding LLM retrieval pipelines. Monthly cadence ensures continuous entity freshness for both Google rank and AI citation inclusion.
-  * For larger metro clients (population >500,000), upgrade to PRASAP or equivalent regional newspaper placement services (~£1,500–£2,000 per feature article). Editorial features in established mastheads are treated as authoritative third-party validation by LLMs.
-* **Force-Index Sequence:** Immediately upon publishing any press release or sponsorship page:
-  1. Submit the press release URL to Google Search Console URL Inspection.
-  2. Cross-reference the URL on LinkedIn and X/Twitter (triggers GPTBot and ClaudeBot discovery).
-  3. Verify Google News inclusion within 48 hours.
+  * Google News inclusion creates timestamped, indexed entity mentions feeding LLM retrieval pipelines. Monthly cadence supports entity freshness for both Google rank and AI citation inclusion.
+  * For larger metro clients (population >500,000), upgrade to PRASAP or equivalent regional newspaper placement services (~£1,500–£2,000 per feature article). Editorial features in established mastheads are reportedly treated as authoritative third-party validation by LLMs (unverified).
+* **Discovery Sequence (§4.9):** Immediately upon publishing any press release or sponsorship page:
+  1. If the URL is on a property you own, use Request Indexing in the Search Console UI; otherwise link to it from owned pages.
+  2. Share the URL on LinkedIn and X/Twitter so crawlers can discover it (discovery is not guaranteed).
+  3. Check Google News inclusion within 48 hours.
 
 | Link Source Type | Estimated Cost | DR Range | LLM Trust Value |
 | :---- | :---- | :---- | :---- |
@@ -279,14 +279,14 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 ┌────────────────────────────────────────────────────────┐
 │ Pos 1: Primary Website (domain.com/testimonials/)      │
 │ Pos 2: Google Business Profile (Map Pack / Reviews)    │
-│ Pos 3: YouTube Video Case Study: "[Brand] Review"      │ <── 5-Hour Indexation
+│ Pos 3: YouTube Video Case Study: "[Brand] Review"      │ <── Fast Indexation (reported)
 │ Pos 4: LinkedIn Case Study Article: "[Brand] Review"   │ <── High-Trust Domain
 │ Pos 5: Existing Brand Subreddit (r/[brand])            │ <── Controls Forum Box
 │ Pos 6: Verified Trustpilot Profile                     │
 └────────────────────────────────────────────────────────┘
 ```
 
-1. **The 5-Hour Video & Article Review Sprint:**
+1. **The Video & Article Review Sprint:**
    * Package authentic customer video testimonials, verified performance metrics, and specific project outcomes.
    * Publish directly to aged brand-owned external properties: YouTube, LinkedIn company pages, Facebook business pages, and Medium.
    * **Front-Loaded Keyword Formula:** Title must begin with the exact decision-stage search query:
@@ -308,13 +308,13 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 **Persistent Parasite Properties Checklist**
 - [ ] Cultivate aged, multi-topic brand profiles across YouTube, LinkedIn, Medium, and Facebook.
 - [ ] Do not launch a fresh brand subreddit; maintain only an established, disclosed one (Module 20 §20.4, Module 26).
-- [ ] Publish authentic customer video reviews with front-loaded `[Brand] Review:` titles for 5-hour Page 1 indexing.
+- [ ] Publish authentic customer video reviews with front-loaded `[Brand] Review:` titles (fast Page 1 indexing is reported, single-source, unverified).
 - [ ] Audit off-site brand reputation monthly via `[Brand] reviews -site:[domain.com]` to neutralize adversarial astroturfing.
 - [ ] Evaluate acquisition opportunities for aged niche blogs (ownership disclosed on the site) for representation in the reported 43% of ChatGPT listicle queries.
 
 ---
 
-### **4.20 Wikipedia Source Synthesis: Resolving "Citation Needed" Gaps to Anchor Global LLM Retrieval Weights**
+### **4.20 Wikipedia Source Synthesis: Resolving "Citation Needed" Gaps for LLM Retrieval**
 
 *Source: Mick Meaney (Profit Copilot), "5.5 Billion Visitors! ChatGPT Traffic Hack!". September 2026.*
 
@@ -374,7 +374,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 2. With no financial or other interest, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
    * `{{cite web |url=https://domain.com/research/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
 3. Provide a transparent edit summary: *"Added multi-source synthesis reference substantiating unverified statement regarding [topic]"*.
-4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, ensuring that when ChatGPT, Gemini, or Perplexity perform real-time retrieval or periodic model weight refreshes, your owned synthesis asset is retrieved as the primary authoritative source.
+4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, which may increase the likelihood that ChatGPT, Gemini, or Perplexity retrieve your owned synthesis asset during real-time retrieval or model refreshes (single-source, unverified); retrieval is not guaranteed.
 
 **Wikipedia Citation Execution Checklist**
 - [ ] Query `citationhunt.org` for active `[citation needed]` statements in target industry topics.
@@ -497,7 +497,7 @@ Static keyword rank tracking (Position 1–10) is obsolete in conversational AI 
 3. Deploy Targeted Digital PR, Sponsorship, or Review Solicitation on Those Sources.
                                │
                                ▼
-4. Force-Index Third-Party Mentions (§4.9) to Update LLM Ground-Truth Retrieval.
+4. Support Discovery of Third-Party Mentions (§4.9) for LLM Retrieval.
 ```
 
 #### D. Agentic Commerce Readiness: The Extinction Event
@@ -535,20 +535,20 @@ In an AI-saturated ecosystem where tens of millions of new web documents are pub
 │ URL IS INDEXED:           │ URL IS NOT INDEXED:        │
 │ • PageRank & Anchor Flow  │ • ZERO PageRank or Anchor  │
 │   Active                  │   Equity Transmitted       │
-│ • Log Placement as Valid  │ • Deploy Force-Index (§4.9)│
+│ • Log Placement as Valid  │ • Run Discovery (§4.9)     │
 │   Asset                   │ • If unindexed by Day 28:  │
 │                           │   Demand Vendor Refund     │
 └───────────────────────────┴────────────────────────────┘
 ```
 
 #### A. The 10%–20% Non-Indexed Link Waste Trap
-Across comprehensive audits of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were NEVER indexed by Google**:
+Across reported audits (single-source, unverified) of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were NEVER indexed by Google**:
 * **The Blind Reporting Trap:** Media houses and SEO agencies routinely celebrate acquiring high-authority placements in client deliverables without verifying whether Googlebot actually indexed the host page.
 * **The Mathematical Reality:** A non-indexed backlink passes **0 PageRank, 0 anchor text equity, and 0 LLM retrieval grounding**. Every non-indexed link represents 100% wasted budget.
-* **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be immediately routed into the force-indexing pipeline (§4.9) or flagged for a contractual placement replacement or refund.
+* **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be routed into the §4.9 discovery workflow or flagged for a contractual placement replacement or refund.
 
 #### B. The Obsolete Tactic Burn Audit
-Empirical budget testing confirms the complete obsolescence or severe toxicity of the following traditional tactics:
+Reported budget testing (single-source, unverified) indicates the obsolescence or severe toxicity of the following traditional tactics:
 * **Dead / Ignored Assets:** Low-tier directory submissions, forum profile links, and blog comment signatures.
 * **Manipulated Metric Networks:** Private Blog Networks (PBNs) built on expired domains with artificially inflated third-party metrics (DA/DR) that lack real search traffic.
 * **Low-Quality Guest Post Farms:** Mass cold-outreach guest posts placed on commercial "write-for-us" blogs that sell dozens of outbound links daily.
@@ -571,7 +571,7 @@ Black-hat operators frequently run automated extortion schemes that client webma
 
 **Link Acquisition & Indexation Checklist**
 - [ ] Enforce an automated 14-day indexation verification check on every acquired backlink.
-- [ ] Deploy the force-indexing pipeline (§4.9) on any placement that remains un-indexed after 14 days.
+- [ ] Run the §4.9 discovery workflow on any placement that remains un-indexed after 14 days.
 - [ ] Enforce contractual refund or replacement clauses for any link failing indexation past 28 days.
 - [ ] Ban all low-quality directory, forum profile, and manipulated metric PBN expenditures.
 - [ ] Execute educational barter partnerships with universities to secure high-trust `.edu` / `.ac.uk` citations.
@@ -762,11 +762,11 @@ When publishing a parasite asset on LinkedIn, place the exact commercial or enti
 
 #### C. Rapid Indexing & Pedro Diaz Case Study
 * **Entity Override Case Study (Pedro Diaz, Ex-Googler):** A single declarative LinkedIn post declaring authority (*"world's most renowned AI visibility expert"*) was reportedly ingested into Google AI Overviews within hours, establishing him as the primary citation for the query (single case, unverified).
-* **Forced indexing:** forced-indexing services are not recommended; rely on normal discovery (sitemaps, internal links).
+* **Paid indexer services:** do not use paid third-party indexer or ping services; use the §4.9 discovery workflow (sitemaps, internal links, Request Indexing for owned URLs).
 
 #### D. The Dormant Account Reactivation Protocol
-* **Reactivation Velocity:** Inactive profiles do not require established authority to re-enter algorithmic distribution. Maintaining a strict **7-day daily posting cadence** reactivates distribution (listener benchmark: 0 impressions after years of inactivity $\rightarrow$ 46,000 impressions on post #7).
-* **Automatic Googlebot Ingestion:** Once daily cadence and initial engagement signals are restored, Googlebot and LLM web-crawlers index subsequent posts automatically without manual submission.
+* **Reactivation Velocity:** Inactive profiles do not require established authority to re-enter algorithmic distribution. Maintaining a strict **7-day daily posting cadence** reportedly reactivates distribution (single listener benchmark, unverified: 0 impressions after years of inactivity $\rightarrow$ 46,000 impressions on post #7).
+* **Automatic Googlebot Ingestion:** Once daily cadence and initial engagement signals are restored, Googlebot and LLM web-crawlers reportedly index subsequent posts without manual submission.
 
 #### E. The "Text-to-Video" Cross-Platform Arbitrage Loop (AEO Multi-Placement)
 Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, Module 10 §10.5) by syndicating validated text assets into video dominance:
@@ -780,7 +780,7 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
 - [ ] Establish a 7-day daily posting cadence on dormant accounts to trigger algorithmic reactivation.
 - [ ] Screen written posts on X/LinkedIn for outperforming engagement (views > followers) to qualify for short-form video adaptation.
 - [ ] Record verbatim-read vertical video from top-performing posts and syndicate to LinkedIn Video, YouTube Shorts, TikTok, and FB Reels.
-- [ ] Do not use third-party forced-indexing services; rely on sitemaps and internal links.
+- [ ] Do not use paid third-party indexer or ping services; use the §4.9 discovery workflow.
 
 ---
 
