@@ -580,7 +580,7 @@ Black-hat operators frequently run automated extortion schemes that client webma
 
 ---
 
-### **4.10 Entity-Aware Google Auto-Suggest Seeding: The 3,000 vs. 30,000 Search Volume Rule**
+### **4.10 Entity-Aware Google Auto-Suggest Seeding: The 3,000 vs. 30,000 Search Volume Rule (Reported, Single-Source)**
 
 *Source: James Dooley & David Quaid (Edward Sturm Podcast Episode 1,142).*
 
@@ -595,7 +595,7 @@ When Google observes consistent search velocity pairing a specific brand entity 
 The volume of monthly branded-keyword searches required to trigger Google Auto-Suggest is governed by existing Knowledge Graph status:
 * **Known Entities (Established Knowledge Panel / Schema-Verified):** Reportedly requires only **~3,000 to 5,000 searches per month** of `[Keyword] + [Brand]` to achieve durable (not guaranteed permanent) Auto-Suggest injection (directional, single-source).
 * **Unknown Entities (Unverified / New Domains):** Requires **10× the volume (~30,000 to 50,000 searches per month)** to reach algorithmic recognition (directional, single-source).
-* **Operational Implication:** Establishing verified LocalBusiness/Organization schema and earning an initial Knowledge Panel (§3.3) reduces the threshold for search seeding by 90%.
+* **Operational Implication:** Establishing verified LocalBusiness/Organization schema and earning an initial Knowledge Panel (§3.3) reportedly reduces the threshold for search seeding by about 90% (a figure derived from two single-source inputs; directional).
 
 #### C. Compliant Organic Seeding Playbook (The LinkedIn / Partner Call-to-Action)
 Rather than deploying dangerous bot clicks or fake CTR traffic (which drop off immediately and risk manual spam action), generate legitimate human search velocity via partner and social distribution:
@@ -604,7 +604,7 @@ Rather than deploying dangerous bot clicks or fake CTR traffic (which drop off i
 * **Execution Directive (reported, single-source, unverified):** In all email marketing, podcast appearances, partner communications, and LinkedIn announcements, give the normal link and, where it fits, add an optional search invitation: *"Search '[Service] + [Brand]' on Google and click our result."* Use this only to ask real audiences for natural brand searches; never script, pay for or incentivise searches to move Auto-Suggest (signal manipulation).
 
 **Auto-Suggest Seeding Checklist**
-- [ ] Verify primary Knowledge Graph entity status before initiating search campaigns to leverage the 3,000-search threshold.
+- [ ] Verify primary Knowledge Graph entity status before initiating search campaigns to leverage the reported 3,000-search threshold.
 - [ ] Where it fits, add an optional Google search invitation (`[Keyword] + [Brand]`) alongside the normal link in email/social campaigns.
 - [ ] Monitor Google Search Console and Incognito auto-suggest dropdowns for brand injection across target commercial queries.
 

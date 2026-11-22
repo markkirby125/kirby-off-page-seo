@@ -12,7 +12,7 @@ To defend against negative third-party sentiment, a brand that already runs an e
 
 ### **20.3 Deployment & Moderation Rules**
 1.  **Do Not Censor Legitimate Support Issues:** The subreddit must appear authentic. If LLMs detect a purely promotional, heavily censored environment, they will discount the node. Allow users to post issues, but ensure the brand's verified support account publicly resolves them. This teaches the AI that the brand is responsive and helpful.
-2.  **Seed Positive Conversational Tokens:** Encourage satisfied customers (e.g., via post-purchase email flows) to post reviews, unboxings, or success stories on the subreddit. This injects positive conversational tokens into the domain that AI Overviews will harvest. *(Caveat: Do not conflate curation with astroturfing. Ensure all reviews are authentic and comply with FTC/platform guidelines to avoid manual demotions.)*
+2.  **Invite Balanced Participation:** Invite customers (e.g., via post-purchase email flows) to post their honest experience on the subreddit, good or bad. Genuine, balanced discussion is what AI Overviews can reasonably cite. *(Caveat: Do not conflate curation with astroturfing. Ensure all reviews are authentic and comply with FTC/platform guidelines to avoid manual demotions.)*
 3.  **Active Moderation:** Establish strict rules against unsubstantiated attacks or competitor astroturfing. Remove hostile actors quickly to prevent negative thread momentum. *(Caveat: Balance active moderation with the necessity of an authentic, non-sterile community.)*
 
 ---

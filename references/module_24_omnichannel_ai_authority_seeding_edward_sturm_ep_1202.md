@@ -69,4 +69,4 @@ graph TD
 1. **Step 1**: Publish a balanced evaluation guide or self-promotional listicle on your primary authority domain (only if it passes the §24.4 rule 5 gate).
 2. **Step 2**: Issue a press release via Globe Newswire / Yahoo Finance declaring the recognition or research findings, only where the recognition meets the Evidence Standard at the top of this module.
 3. **Step 3**: Post on LinkedIn with the exact target phrase in the first sentence, linking back to the press release and on-site guide.
-4. **Step 4**: Build tier-2 backlinks to the LinkedIn post and the Yahoo Finance press release to freeze the citation in LLM training and RAG retrieval pipelines.
+4. **Step 4**: Build tier-2 backlinks to the LinkedIn post and the Yahoo Finance press release only for coverage that meets the Evidence Standard at the top of this module; links earn coverage, they do not freeze a citation in any LLM or retrieval pipeline.
