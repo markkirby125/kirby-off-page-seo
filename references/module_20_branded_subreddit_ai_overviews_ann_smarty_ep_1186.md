@@ -28,8 +28,8 @@ To defend against negative third-party sentiment, a brand that already runs an e
 * **Seasonal Execution Prohibition:**
   * **Strict Prohibition:** Never create a fresh branded Reddit account or launch a new brand subreddit at any time, and above all in the 30–60 days leading up to a major commercial event (e.g., Black Friday / Cyber Monday). Account termination is a high risk (reported, single-source, unverified).
 * **The Legitimate Engagement Channel:**
-  * Rather than creating rogue accounts or sending prohibited cash offers for Reddit posts, brands can legitimately hire established, recognized community moderators as official **Brand Ambassadors or Technical Advisors**.
-  * Established moderators already hold community standing; disclose the relationship, and run support communication and AMA scheduling through normal, disclosed platform processes.
+  * Do not create rogue accounts, send cash offers for Reddit posts, or pay or reward subreddit moderators. Check the current Reddit moderator rules; paid moderation arrangements are prohibited.
+  * Participate only unpaid and disclosed: state the brand affiliation, follow each subreddit's self-promotion rules, and never ask for moderation actions in exchange for anything of value. Run AMA scheduling through the subreddit's normal, disclosed processes.
 * **The On-Domain Counter-Positioning Rule:** For mitigating negative sentiment already present on Reddit, do not battle in comment threads. Execute the on-domain rebuttal architecture detailed in `../../kirby-aiseo-skill/SKILL.md` Module 14 §14.4.
 
 ---

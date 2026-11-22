@@ -68,10 +68,10 @@ The meta-study analyzed the empirical impact of Google's Disavow tool across his
 
 ---
 
-### **28.4 Cross-Reference: Nofollow Traffic Transmission (Module 23)**
+### **28.4 Cross-Reference: Reported Nofollow Transmission Hypothesis (Module 23)**
 
-For authority transmission and SERP video co-ranking via nofollow backlinks, defer entirely to **Module 23 (Nofollow Link Graph Ranking Physics & Clickstream Transmission)**:
-- Nofollow links may pass ranking signals when the host page ranks in Google's index and receives organic clickstream traffic (Kyle Roof Two-Factor Law & Sterling Sky case data; directional, single-source, unverified). Destination page media optimization rules live in Module 23 §23.6 item 3.
+For the reported nofollow transmission hypothesis (including reported SERP video co-ranking), defer entirely to **Module 23 (Reported Nofollow Signals & Clickstream Hypothesis)**:
+- Nofollow links may pass ranking signals when the host page ranks in Google's index and receives organic clickstream traffic (Kyle Roof Two-Factor Hypothesis & Sterling Sky case data; directional, single-source, unverified). Destination page media optimization rules live in Module 23 §23.6 item 3.
 
 ---
 

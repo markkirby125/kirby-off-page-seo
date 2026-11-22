@@ -1,4 +1,4 @@
-# Module 23: Nofollow Link Graph Ranking Physics & Clickstream Transmission (Edward Sturm Ep. 1198)
+# Module 23: Reported Nofollow Signals & Clickstream Hypothesis (Edward Sturm Ep. 1198)
 
 *Source: The Edward Show, Episode 1198 (Edward Sturm)*
 
@@ -8,7 +8,7 @@ In **September 2019**, Google officially revised its documentation: links marked
 
 ---
 
-### **23.1 Kyle Roof's Two-Factor Law for Nofollow Transmission**
+### **23.1 Kyle Roof's Two-Factor Hypothesis for Nofollow Transmission (Reported)**
 
 Kyle Roof reported (single-source, unverified) that a nofollow backlink acts almost identically to a standard `dofollow` link if and only if it satisfies two strict criteria:
 
@@ -17,14 +17,14 @@ Kyle Roof reported (single-source, unverified) that a nofollow backlink acts alm
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│               KYLE ROOF'S 2-FACTOR LAW                │
+│      KYLE ROOF'S REPORTED HYPOTHESIS (UNVERIFIED)      │
 │                                                        │
 │  [Page Ranks on Google]  +  [Page Gets Real Clicks]    │
 │           │                           │                │
 │           └─────────────┬─────────────┘                │
 │                         ▼                              │
-│       Nofollow Link Acts as Followed Link              │
-│       (Passes Measurable Ranking Authority)            │
+│         Nofollow Link May Act as Followed Link         │
+│              (May Pass Ranking Authority)              │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -57,7 +57,7 @@ Practitioners read the May 2024 Google API leak as explaining why nofollow links
 
 ---
 
-### **23.4 The Semrush 2025 AI Citation Study (Nofollow > Follow)**
+### **23.4 The Semrush 2025 AI Citation Study (Nofollow Correlation ≥ Follow, Reported)**
 
 Semrush and Kevin Indig analyzed 1,000 domains across 5 major AI search engines (Perplexity, ChatGPT Search, Gemini, Claude, Copilot):
 * Backlinks reportedly correlate strongly with AI visibility and LLM citations.
@@ -68,7 +68,7 @@ Semrush and Kevin Indig analyzed 1,000 domains across 5 major AI search engines 
 
 ### **23.5 Natural Profile Balance & Footprint Defense (Ep. 948)**
 
-An unnatural backlink profile triggers algorithmic suppression:
+An unnatural backlink profile can reportedly trigger algorithmic suppression (practitioner view, unverified):
 * **The 100% Follow Footprint Trap**: A backlink profile consisting exclusively of `dofollow` links can look like a statistical anomaly to link-spam filters (practitioner view, unverified). Natural profiles usually contain a significant ratio of nofollow, UGC, and sponsored attributes.
 * **Low-Authority vs. High-Authority Balance**: As demonstrated in Episode 948, a single-source observation (no guarantee) is that an unusually high-DR profile with few editorial or nofollow mentions can look lopsided; earn genuine links and mentions through real coverage rather than manufacturing links to engineer the profile (see the Module 18 bans on PBNs and junk directories).
 

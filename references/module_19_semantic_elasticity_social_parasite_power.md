@@ -1,7 +1,7 @@
 # Module 19: Semantic Elasticity & Social Media Parasite Power Rankings
 *Source: Edward Sturm × James Dooley (Ep. 1,171, "Query Augmentation: How One Page Ranks for Thousands of Keywords"). September 2026.*
 
-**This module is the ranking-substrate doctrine.** The *on-page* mechanics of query augmentation and authority elasticity are owned by `kirby-aiseo-skill` Module 2 §2.36 (canonical) and the URL-vs-`<h2>` architecture call by §2.37 — do not re-derive them here. LinkedIn *production mechanics* (~5.7M citation moat, CMS 4-zone keyword injection, dormant-account reactivation) remain in Module 4 §4.14. Durable entity corroboration across high-trust nodes is Module 16; LinkedIn *DMs for placements* are Module 18. Read this module when deciding **what earns the ranking** for a commercial head term.
+**This module is the ranking-substrate doctrine.** The *on-page* mechanics of query augmentation and authority elasticity are owned by `kirby-aiseo-skill` Module 2 §2.36 (canonical) and the URL-vs-`<h2>` architecture call by §2.37 — do not re-derive them here. LinkedIn *production mechanics* (reported ~5.7M citation footprint, single-source, unverified; CMS 4-zone keyword injection, dormant-account reactivation) remain in Module 4 §4.14. Durable entity corroboration across high-trust nodes is Module 16; LinkedIn *DMs for placements* are Module 18. Read this module when deciding **what earns the ranking** for a commercial head term.
 
 ### **19.1 The Authority Elasticity & Query Radius Model**
 
@@ -48,14 +48,14 @@ A single optimized LinkedIn post **ranked #1 on Google for high-competition head
 
 In this reported case, the competitive network lost to one parasite post on a DA 99 host, which suggests interlinked guest-post stacks and tier-2 reinforcement may **not** reliably counter a winner-take-most social result on a commercial head term. The source attributes this (unverified) to §19.1: the host supplied the elasticity, so lexical precision (the EMD) and link mass (the guest-post network) were both outbid by engagement telemetry.
 
-#### B. Critical Doctrinal Shift
+#### B. Reported Doctrinal Shift
 Based on this reported case, treat social media as a potential **primary organic ranking substrate** (directional, single-source), not merely an "**AI crawler trigger**" (Module 4 §4.14).
 
-| Old doctrine (Module 4 §4.14) | Upgraded doctrine (this module) |
+| Old doctrine (Module 4 §4.14) | Reported doctrine (single-source, unverified) |
 |---|---|
-| Social post = ingestion trigger to get the entity into Google/LLM indexes | Social post = competitive ranker that **beats** EMDs and link-built networks on head terms |
-| Social supports the money site | Social **is** the ranking asset for the target term |
-| Link building answers competition | Parasite authority answers competition |
+| Social post = ingestion trigger to get the entity into Google/LLM indexes | Social post = competitive ranker that **may beat** EMDs and link-built networks on head terms |
+| Social supports the money site | Social **can be** the ranking asset for the target term |
+| Link building answers competition | Parasite authority may answer competition |
 
 Implication: when a commercial head term is contested, evaluate whether the *host platform* (not the client domain) should hold the ranking asset — and budget link building only for terms where the parasite is defensible.
 

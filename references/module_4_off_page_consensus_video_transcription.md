@@ -7,7 +7,7 @@
 
 ### **4.2 YouTube Transcript Optimisation, SME Answer-Echo Protocol & Long-Form RAG Context Law (Reported 0.737 ChatGPT Correlation, Single-Source)**
 
-YouTube is the single most cited domain in Google AI Overviews (reported at **22%** of all AI Overview citations — the #1 source — by Rob Hoffman [`S_5rx9H0elM`]; external industry benchmarks similarly report ~22.9% [Ahrefs] to ~29.5% [BrightEdge], while Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined represent **15% of all sources linked inside AI summaries** vs. 5% in standard search results), and branded transcript mentions are reported (single-source, unverified) to show a 0.737 correlation with ChatGPT citation inclusion.
+YouTube is reported to be among the most cited domains in Google AI Overviews (Rob Hoffman [`S_5rx9H0elM`] reports **~22%**; industry benchmarks report ~22.9% [Ahrefs] to ~29.5% [BrightEdge]; these figures and their metric, share of citations or share of AI Overviews citing YouTube, are unverified here. Pew Research Center [July 2025] found Wikipedia, YouTube, and Reddit combined made up **15% of sources listed in AI summaries** vs. 17% in standard search results), and branded transcript mentions are reported (single-source, unverified) to show a 0.737 correlation with ChatGPT citation inclusion.
 
 * **First-45-Second Spoken Tokens:** Speak the primary brand name, geographic location, and specific technical topic clearly within the first 45 seconds of video audio.  
 * **ISO Chapter Timestamps:** Structure video descriptions with exact chapter timestamps aligned with the corresponding on-site article headings.
@@ -64,7 +64,7 @@ YouTube Community Posts generate up to 10% of total channel impressions and trai
 
 * **Passive Link Moat Architecture:** Produce an annual, data-backed "State of the Niche" report citing verified industry statistics to passively compound 200+ high-authority (DR80+) referring domain backlinks.
 
-### **4.9 Multi-Platform Discovery & Indexing Workflow (LLM Ingestion)**
+### **4.9 Multi-Platform Discovery & Indexing Workflow (LLM Retrieval)**
 
 To help off-page entity consensus mentions (Reddit threads, X/Twitter posts, Medium teardowns, Web 2.0 assets) get discovered and indexed (indexing is not guaranteed):
 * **Compact Keyword Distribution:** Deploy targeted entity anchors across secondary platforms matching specific high-intent sub-queries.
@@ -114,11 +114,11 @@ To help off-page entity consensus mentions (Reddit threads, X/Twitter posts, Med
   * Filter Gemini output for opportunities with: (a) a verified public web presence with a sponsor registration page, (b) a domain with topical proximity to the local audience, (c) a sponsorship tier accessible at £100–£500.
   * Priority target types: University TEDx events (`.ac.uk` / `.edu` backlinks), local charity gala sponsorships, annual civic festivals, youth sports league kit sponsorships.
   * **Case benchmark (single-source, anecdotal, unverified):** £250 UT Austin TEDx sponsorship → `.edu` domain backlink → reported 3–4 position rank increase overnight; treat as one observation, not a repeatable effect.
-* **Multi-Chamber of Commerce Syndication:** For highly competitive local markets, simultaneously enrol the business in multiple Chambers of Commerce within a defined metro radius. Chambers generate high-Trust Flow, locally authoritative backlinks satisfying both Google Maps local entity verification and AI citation consensus requirements. Joining 10–17 chambers for a highly competitive market (e.g., personal injury law) is documented as achievable and effective.
+* **Multi-Chamber of Commerce Syndication:** For highly competitive local markets, simultaneously enrol the business in multiple Chambers of Commerce within a defined metro radius. Chambers can generate high-Trust Flow, locally authoritative backlinks that may support both Google Maps local entity verification and AI citation consensus. Joining 10–17 chambers for a highly competitive market (e.g., personal injury law) is reported as achievable and effective (single-source, unverified).
 * **Monthly Google News Press Release Syndication:**
-  * Use PR Underground (£50–£80/mo) as the lowest-cost syndication service reported (single-source, unverified) to achieve Google News inclusion.
+  * Use PR Underground (£50–£80/mo) as the lowest-cost syndication service reported (single-source, unverified) to seek Google News inclusion (not guaranteed).
   * Publish one press release per client per month covering genuine operational news (new service launch, case study metric, award, local event participation).
-  * Google News inclusion creates timestamped, indexed entity mentions feeding LLM retrieval pipelines. Monthly cadence supports entity freshness for both Google rank and AI citation inclusion.
+  * Google News inclusion is reported (single-source, unverified) to create timestamped, indexed entity mentions that may feed LLM retrieval pipelines. Monthly cadence may support entity freshness for both Google rank and AI citation inclusion.
   * For larger metro clients (population >500,000), upgrade to PRASAP or equivalent regional newspaper placement services (~£1,500–£2,000 per feature article). Editorial features in established mastheads are reportedly treated as authoritative third-party validation by LLMs (unverified).
 * **Discovery Sequence (§4.9):** Immediately upon publishing any press release or sponsorship page:
   1. If the URL is on a property you own, use Request Indexing in the Search Console UI; otherwise link to it from owned pages.
@@ -302,7 +302,7 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 * **SERP Forum Integration:** Google heavily favors Reddit within its "Discussions and Forums" search modules. An established, disclosed brand community can help Google’s forum carousels surface verified company documentation rather than unmoderated competitor criticism.
 
 #### D. Niche Blog Buyouts & Adversarial LLM Sentiment Defense
-* **Strategic Publisher Acquisitions:** Maturing brands acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs; ownership must be disclosed on the site. Converting these properties into authoritative comparison and review hubs may earn positioning in the reported (single-source, directional) **43% of ChatGPT queries that retrieve third-party listicles**.
+* **Strategic Publisher Acquisitions:** Maturing brands acquire local mom-and-pop blogs or hyper-specific trade websites that already possess aged organic traffic and clean backlink graphs; ownership must be disclosed on the site. Converting these properties into authoritative comparison and review hubs may earn positioning in the reported (single-source, directional) **43% of ChatGPT product and service recommendation queries that cite third-party listicles**.
 * **Adversarial Threat Defense:** In cutthroat niches, competitors cultivate aged, anonymous persona accounts to seed disparaging reviews. Operators must run rolling monthly audits using Google's QRG operator (`[Brand Name] reviews -site:[domain.com]`, §1.9) to detect and counter negative astroturfing campaigns before they are ingested into frontier LLM training weights.
 
 **Persistent Parasite Properties Checklist**
@@ -310,11 +310,11 @@ When prospective buyers reach the final evaluation stage, they execute branded d
 - [ ] Do not launch a fresh brand subreddit; maintain only an established, disclosed one (Module 20 §20.4, Module 26).
 - [ ] Publish authentic customer video reviews with front-loaded `[Brand] Review:` titles (fast Page 1 indexing is reported, single-source, unverified).
 - [ ] Audit off-site brand reputation monthly via `[Brand] reviews -site:[domain.com]` to neutralize adversarial astroturfing.
-- [ ] Evaluate acquisition opportunities for aged niche blogs (ownership disclosed on the site) for representation in the reported 43% of ChatGPT listicle queries.
+- [ ] Evaluate acquisition opportunities for aged niche blogs (ownership disclosed on the site) for representation in the reported 43% of ChatGPT product and service recommendation queries that cite third-party listicles (single-source, directional).
 
 ---
 
-### **4.20 Wikipedia Source Synthesis: Resolving "Citation Needed" Gaps for LLM Retrieval**
+### **4.20 Wikipedia Independent Sources: Resolving "Citation Needed" Gaps for LLM Retrieval**
 
 *Source: Mick Meaney (Profit Copilot), "5.5 Billion Visitors! ChatGPT Traffic Hack!". September 2026.*
 
@@ -329,22 +329,23 @@ Wikipedia contains millions of factual statements that remain unverified and act
 * **Targeted Search Operator:** Execute Google queries to uncover indexed gaps:
   * `site:wikipedia.org "[target topic / industry]" "citation needed"`
 
-#### B. The Wikipedia Reliability Gate (Surviving WP:RS & WP:NPOV Moderation)
+#### B. The Wikipedia Reliability Gate (WP:RS, WP:NPOV, WP:NOR & WP:COI)
 * **The Commercial Rejection Trap:** Linking directly to a commercial homepage, product brochure, or sales blog results in automated bot or administrator reversion within minutes for violating Wikipedia's guidelines on Reliable Sources (WP:RS) and Neutral Point of View (WP:NPOV).
 * **Mandatory Domain Infrastructure Standards:**
   * Domain maturity: minimum $\ge 6$ months of continuous uptime.
   * Transparent governance: a complete `/about/` page detailing verified company registration, corporate leadership, physical address, and formal editorial policies.
   * Author credentials: content must feature named authors with verifiable professional or academic credentials in the subject matter.
+* **No original research or synthesis (WP:NOR, WP:SYNTH) and conflict of interest (WP:COI):** the cited source must itself state the claim and be independent of you. Your own synthesis or an owned white paper may not be the cited source.
 
-#### C. The "Source Synthesis" Methodology
-Wikipedia editors require a single authoritative source that directly substantiates the unsourced claim. Because foundational data is often scattered across disparate books, conference transcripts, and paywalled journals, Wikipedia cannot easily cite individual fragments.
+#### C. The Independent-Source Methodology
+Wikipedia editors require a single authoritative source that directly substantiates the unsourced claim. Because foundational data is often scattered across disparate books, conference transcripts, and paywalled journals, Wikipedia cannot easily cite individual fragments. Cite the independent reliable sources directly, or a synthesis that an independent outlet has published; never an owned copy (§4.20B).
 
 ```
 [Disparate Industry Data: Studies, Expert Books, Survey Data]
                              │
                              ▼
-     Publish Neutral "Source Synthesis" White Paper
-     (Hosted on owned domain /research/ subfolder)
+     Neutral Research Brief, Published Independently
+     (Never cite an owned /research/ copy on Wikipedia)
                              │
                              ▼
 ┌────────────────────────────────────────────────────────┐
@@ -358,11 +359,11 @@ Wikipedia editors require a single authoritative source that directly substantia
    Talk-page edit request if any COI; direct edit only if none
                              │
                              ▼
-    Ingested into ChatGPT, Gemini & Perplexity RAG
+    May be retrieved by ChatGPT, Gemini & Perplexity
 ```
 
 1. **Information Aggregation:** Collect 3–5 independent research data points, peer-reviewed statistics, or verified expert interviews that substantiate the Wikipedia claim.
-2. **Author the Synthesis Document:** Publish an objective white paper or technical research brief on an owned research subfolder (e.g., `domain.com/research/[topic-synthesis]/`).
+2. **Author the Research Brief:** Write an objective research brief and get it published by an independent outlet (peer-reviewed journal or independent editorial publication). An owned copy (e.g., `domain.com/research/[topic]/`) may exist but is never the Wikipedia citation.
 3. **Strict Editorial Discipline:**
    * Title directly mirrors the factual statement being substantiated.
    * Tone is strictly neutral and analytical; promotional sales copy, marketing claims, and conversion popups are completely prohibited.
@@ -372,14 +373,14 @@ Wikipedia editors require a single authoritative source that directly substantia
 #### D. Editorial Deployment & RAG Ingestion
 1. Edit only from your own real, disclosed Wikipedia account; never build up an account to look established or use undisclosed accounts. If you or your client have a financial or other interest in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
 2. With no financial or other interest, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
-   * `{{cite web |url=https://domain.com/research/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
-3. Provide a transparent edit summary: *"Added multi-source synthesis reference substantiating unverified statement regarding [topic]"*.
-4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, which may increase the likelihood that ChatGPT, Gemini, or Perplexity retrieve your owned synthesis asset during real-time retrieval or model refreshes (single-source, unverified); retrieval is not guaranteed.
+   * `{{cite web |url=https://[independent-publisher]/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
+3. Provide a transparent edit summary: *"Added independent reliable source substantiating statement regarding [topic]"*.
+4. **The Generative AI Yield:** Once accepted, the citation enters Wikipedia's live graph, which may increase the likelihood that ChatGPT, Gemini, or Perplexity retrieve the cited source during real-time retrieval or model refreshes (single-source, unverified); retrieval is not guaranteed.
 
 **Wikipedia Citation Execution Checklist**
 - [ ] Query `citationhunt.org` for active `[citation needed]` statements in target industry topics.
 - [ ] Aggregate 3–5 verifiable third-party studies, expert quotes, and survey statistics.
-- [ ] Publish an objective, non-promotional "Source Synthesis" research brief on owned domain.
+- [ ] Cite independent reliable sources directly, or an independently published research brief; never an owned copy (WP:RS, WP:NOR, WP:SYNTH, WP:COI).
 - [ ] Verify zero commercial CTAs, complete author credentials, and formal bibliography.
 - [ ] Disclose any financial or other interest (WP:COI, WP:PAID); with any such interest, put the `{{cite web}}` markup inside a Talk-page edit request and do not edit the article; with none, add it directly with a descriptive edit summary.
 - [ ] Monitor edit longevity and verify automated citation retrieval across ChatGPT and Perplexity.
@@ -747,8 +748,8 @@ Each tier references and links to the next, building an unbreakable chain of thi
 
 > **TL;DR:** LinkedIn (DA 99, 120M ranked keywords, ~500M monthly Google clicks) holds ~5.7M citations across ChatGPT, AI Overviews, and AI Mode. Placing the target keyword at the very beginning of a post automatically injects it into the URL slug, title tag, meta description, and BLUF text. Daily posting reactivates dormant accounts within 7 days, and high-performing text posts can be read verbatim on video for omni-channel AEO multi-placement.
 
-#### A. Semrush LLM Citation Footprint (The ~5.7M Grounding Moat)
-Across active conversational search engines, LinkedIn holds roughly **5.7 million indexed citations** (2.7M + 2.0M + ~1.0M):
+#### A. Semrush LLM Citation Footprint (Reported ~5.7M, Single-Source, Unverified)
+Across active conversational search engines, LinkedIn reportedly holds roughly **5.7 million indexed citations** (2.7M + 2.0M + ~1.0M):
 * **2.7 Million citations in ChatGPT**
 * **2.0 Million citations in Google AI Mode (SGE)**
 * **~1.0 Million citations in Google AI Overviews**
@@ -760,13 +761,13 @@ When publishing a parasite asset on LinkedIn, place the exact commercial or enti
 3. **Meta Description:** Extracts the opening sentence into the SERP snippet.
 4. **Above-the-Fold BLUF Zone:** Delivers immediate semantic density for Googlebot and LLM retrieval engines (§2.1).
 
-#### C. Rapid Indexing & Pedro Diaz Case Study
-* **Entity Override Case Study (Pedro Diaz, Ex-Googler):** A single declarative LinkedIn post declaring authority (*"world's most renowned AI visibility expert"*) was reportedly ingested into Google AI Overviews within hours, establishing him as the primary citation for the query (single case, unverified).
+#### C. Rapid Indexing & Pedro Diaz Case (Threat Awareness)
+* **Entity Override Case (Pedro Diaz; threat awareness, do not execute):** An unsubstantiated self-declared claim in one LinkedIn post (*"world's most renowned AI visibility expert"*) was reportedly surfaced in Google AI Overviews within hours (single case, unverified). This is the manufactured-citation pattern §4.6 bans; any entity claim you post must be true and documented.
 * **Paid indexer services:** do not use paid third-party indexer or ping services; use the §4.9 discovery workflow (sitemaps, internal links, Request Indexing for owned URLs).
 
 #### D. The Dormant Account Reactivation Protocol
-* **Reactivation Velocity:** Inactive profiles do not require established authority to re-enter algorithmic distribution. Maintaining a strict **7-day daily posting cadence** reportedly reactivates distribution (single listener benchmark, unverified: 0 impressions after years of inactivity $\rightarrow$ 46,000 impressions on post #7).
-* **Automatic Googlebot Ingestion:** Once daily cadence and initial engagement signals are restored, Googlebot and LLM web-crawlers reportedly index subsequent posts without manual submission.
+* **Reactivation Velocity:** Inactive profiles reportedly do not require established authority to re-enter algorithmic distribution. Maintaining a strict **7-day daily posting cadence** reportedly reactivates distribution (single listener benchmark, unverified: 0 impressions after years of inactivity $\rightarrow$ 46,000 impressions on post #7).
+* **Reported Googlebot Indexing:** Once daily cadence and initial engagement signals are restored, Googlebot and LLM web-crawlers reportedly index subsequent posts without manual submission.
 
 #### E. The "Text-to-Video" Cross-Platform Arbitrage Loop (AEO Multi-Placement)
 Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, Module 10 §10.5) by syndicating validated text assets into video dominance:
@@ -777,7 +778,7 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
 
 **LinkedIn Parasite AEO Execution Checklist**
 - [ ] Place exact target keyword at index 0 of all commercial LinkedIn post copy to trigger automatic slug/title/meta injection.
-- [ ] Establish a 7-day daily posting cadence on dormant accounts to trigger algorithmic reactivation.
+- [ ] Test a 7-day daily posting cadence on dormant accounts (reactivation is reported, single listener benchmark, unverified).
 - [ ] Screen written posts on X/LinkedIn for outperforming engagement (views > followers) to qualify for short-form video adaptation.
 - [ ] Record verbatim-read vertical video from top-performing posts and syndicate to LinkedIn Video, YouTube Shorts, TikTok, and FB Reels.
 - [ ] Do not use paid third-party indexer or ping services; use the §4.9 discovery workflow.
