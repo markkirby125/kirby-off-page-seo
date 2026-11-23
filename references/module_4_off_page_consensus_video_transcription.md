@@ -167,28 +167,28 @@ Image backlinks constitute an under-leveraged link acquisition vector with super
   * **S — Simple Visual:** Generate a clean, high-contrast chart or diagram communicating the revelation in <3 seconds without extraneous visual noise.
   * **T — Tactical Promotion:** Execute targeted digital PR outreach to writers currently covering adjacent stories using tools such as feature.com, Ahrefs Content Explorer, or Google News byline extraction.
 
-* **Passive Stock Photo Link Scaling & Attribution Reclamation Protocol (Charles Floate Method):**
+* **Passive Stock Photo Seeding & Courtesy Credit Request Protocol (Charles Floate Method):**
   1. **Asset Creation & Seeding:** Produce original, professional niche photography, system diagrams, and workflows. Upload full-resolution versions to high-authority free stock repositories:
      * Unsplash (DR 93+)
      * Pexels (DR 91+)
      * Pixabay (DR 92+)
      * Flickr Creative Commons
-  2. **Attribution Field Configuration:** Configure contributor profile names and attribution fields to specify standard attribution requirements linking to the target domain or specific topical pillar page.
+  2. **Attribution Field Configuration:** Set the contributor profile name and link to the target domain or topical pillar page. The Unsplash, Pexels and Pixabay licences do not require attribution, so any credit from users is voluntary.
   3. **Organic Syndication Ingestion:** Publishers, journalists, and web designers routinely pull and embed these assets onto live web pages, creating passive, unprompted brand impressions and initial attribution links.
-  4. **Attribution Reclamation Loop:**
+  4. **Courtesy Credit Request Loop:**
      * Run monthly reverse image crawls across all seeded assets using Google Lens, TinEye, and reverse image APIs.
      * Identify third-party domains utilizing the image without a valid hyperlink or with missing attribution.
      * Deploy automated or low-friction outreach to site editors:
        > *"Subject: Image attribution update for [Article Title] / [Target Domain]  
        > Hi [Editor], we noticed you featured our [Topic Graphic / Photo] in your guide at [Page URL]. We're glad you found it useful! Could you please add a quick source credit linking back to the original study at [Target URL]? Thank you."*
-     * Conversion rates on copyright/source attribution requests routinely exceed 40%–60% because webmasters recognize existing asset usage and have a legal obligation to honor image credits.
+     * Reported acceptance of 40%–60% (single source, unverified). These are courtesy requests: never claim a legal obligation or imply a copyright claim the licence does not support.
 
 **Image Backlink Operational Checklist**
 - [ ] Audit top content assets and identify opportunities to convert core data tables into simple branded charts (T.R.U.S.T. framework).
 - [ ] Ensure all embedded linkable images include descriptive, keyword-aligned `alt` text (10–125 characters; no keyword stuffing).
 - [ ] Seed 10–20 original niche photos/diagrams across Unsplash, Pexels, and Pixabay with target domain attribution metadata.
 - [ ] Schedule a recurring 30-day Google Lens / TinEye reverse image search to detect uncredited asset usage.
-- [ ] Execute attribution reclamation outreach on all identified unlinked usages.
+- [ ] Send courtesy credit requests (no legal claims) on identified unlinked usages.
 - [ ] Verify overall backlink profile maintains <5% exact-match anchor text distribution across text and image links combined.
 
 ---
@@ -647,11 +647,11 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 #### B. The Scripted Sector-Wide Audit Engine ($n \ge 3,000$ Formula)
 * **Outreach-Free Citation Moats:** Traditional manual outreach achieves low conversion and high payment demands. Replace manual link requests with the automated programmatic sector audit (the *best8381 benchmark*).
 * **Execution Architecture:**
-  1. *Vertical Sector Scraping:* Programmatically scrape and run a scripted technical or compliance audit across an entire industry vertical (e.g., 2,141 training providers, 3,111 law firms, 5,568 home services contractors).
+  1. *Vertical Sector Scraping:* Programmatically scrape public pages only, honouring each site's robots.txt and terms and rate-limiting requests, and run a scripted technical or compliance audit across an entire industry vertical (e.g., 2,141 training providers, 3,111 law firms, 5,568 home services contractors).
   2. *Distribution Curve Publication:* Publish the empirical distribution of findings (e.g., pass/fail rates, compliance benchmarks) in a structured report.
   3. *The LLM & Journalist Citation Magnet:* Industry writers, journalists, and LLM reasoning models require authoritative baseline figures to cite. In a niche where no competitor has audited $n \ge 3,000$ entities, your distribution curve becomes the default factual standard ("a statistic with a sample size and a date gets quoted").
 * **The 3 Mandatory Asset Rules:**
-  1. *Public Data Foundation:* Use accessible public data to eliminate survey friction and legal complications.
+  1. *Public Data Foundation:* Use accessible public data to cut survey friction and reduce legal risk.
   2. *The Single Debated Metric:* Center the audit on a single operational metric that industry practitioners actively argue about (debate drives organic virality, social sharing, and press coverage).
   3. *The Honest Negative Methodology Disclosure:* Explicitly state what parameters were deliberately *not* measured (e.g., *"This study measures technical SPF/DMARC syntax compliance only; it explicitly excludes active mailbox volume and organic search visibility"*). Disclosing negative boundaries is the definitive mathematical trust signal that earns editor approval and LLM citation weight.
 
@@ -684,7 +684,7 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 
 **Episode 1,160 Implementation Checklist**
 - [ ] Audit backlink profiles for spammy/paid links; remove or replace them at the source first, and disavow only domains a manual-action notice names (see §4.12.A and Module 18 §18.22).
-- [ ] Identify a sector-wide vertical to scrape and audit at $n \ge 3,000$; isolate one contentious metric and draft an honest methodology disclosure.
+- [ ] Identify a sector-wide vertical to scrape (robots.txt, terms and rate limits honoured) and audit at $n \ge 3,000$; isolate one contentious metric and draft an honest methodology disclosure.
 - [ ] Cross-reference government/census data sets with industry topics to construct a regional index report for local press syndication.
 - [ ] Implement a named, disclosed tip workflow (the business is identified as the source) for charitable and community service projects to secure local news coverage.
 - [ ] Audit partner/vendor ecosystems and deploy embeddable HTML badges for approved partners or award recipients.
@@ -848,9 +848,9 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
 * **On-Domain Ingestion Architecture:**
   1. Transcribe sponsored video reviews, tutorials, and unboxings using automated transcription tools (Descript, Whisper).
   2. Publish structured review pages directly on the **primary money domain** under a dedicated directory: `brand.com/reviews/[creator-name]-review`.
-  3. Mark up the document with `VideoObject` and `Review` schema, linking the video embed to the timestamped text transcript.
+  3. Mark up the video embed with `VideoObject` only, linking it to the timestamped text transcript. Never add `Review` or `AggregateRating` markup or any rating property: a sponsored review on the brand's own site is self-serving review markup under Google's review snippet guidelines.
 * **FTC Sponsorship Compliance (16 CFR Part 465):**
-  * Mandate conspicuous, above-the-fold sponsorship disclosures:
+  * Mandate conspicuous, above-the-fold sponsorship disclosures, per Module 12 §12.7 Advertorial Compliance Standards:
     > *"Notice: This review transcript features a sponsored product partnership between [Brand] and [Creator]. Opinions and test results reflect genuine creator evaluations."*
   * Disclose compensation clearly to prevent regulatory enforcement under FTC endorsement and testimonial rules.
 * **LLM Synthesis Outcome:** Answer engines (ChatGPT, Perplexity) searching for brand reviews crawl the structured on-domain transcript text and cite the creator’s positive technical observations during comparative buyer prompts, converting influencer spend into permanent generative search equity.

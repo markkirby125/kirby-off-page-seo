@@ -50,8 +50,8 @@ Surviving referring domains must be categorized into four operational buckets or
 
 ### **25.3 Integration with Module 22 Cold-Outreach Guardrails**
 
-When generating outreach copy for Bucket 3 and Bucket 4 targets, the agent MUST strictly enforce the empirical email constraints defined in **Module 22**:
-* **Word Count**: Strictly **60–90 words** total body length.
+When generating outreach copy for Bucket 3 and Bucket 4 targets, the agent applies the **Module 22** defaults (reported, single-source, unverified; starting hypotheses to test):
+* **Word Count**: Target **60–90 words** total body length.
 * **Subject Line**: Under **30 characters**, lower-case conversational framing.
 * **Value-First Open**: Lead immediately with the specific content gap, broken resource, or editorial value proposition in Sentence 1—never open with self-referential company bios.
 * **Recipient Selection**: Address the Managing Editor, Content Lead, or Specific Author—never generic `info@` inboxes or CEOs of mid-size firms.
