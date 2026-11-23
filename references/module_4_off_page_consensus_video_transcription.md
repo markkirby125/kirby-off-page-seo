@@ -220,7 +220,7 @@ Prospective clients searching a brand name (e.g., *"Berkshire IT Services"*, *"S
 ┌──────────────────────────────────────────────┐
 │ Pos 1: Primary Owned Website (domain.com)    │
 │ Pos 2: Google Business Profile (Map Pack)    │
-│ Pos 3: Published Claude Artifact (claude.ai) │ <── Reported high-DR asset (confirm the figure)
+│ Pos 3: Published Claude Artifact (claude.ai) │ <── Reported high-DR asset (figure unverified)
 │ Pos 4: Verified Trustpilot Profile           │
 │ Pos 5: YouTube Case Walkthrough (§4.2.1)     │
 └──────────────────────────────────────────────┘
