@@ -1,5 +1,7 @@
 # Module 4: Off-Page Consensus & Video Transcription
 
+> **Section order:** section numbers are stable IDs that other modules cite, so they are not renumbered. They do not follow file order: §4.18 to §4.22 sit before §4.10 to §4.17, and §4.2.1, §4.3.1, §4.5.1 and §4.3.2 are interleaved. Find a section by searching for its number.
+
 ### **4.1 Multi-Platform Entity Consensus**
 
 * **NAP & Entity Consistency:** Standardise the exact Legal Business Name, Address, Phone, and Service Categories verbatim across secondary trade registries (Yell, Clutch UK, Spiceworks, LinkedIn, Thomson Local) to supply consistent cross-referencing signals for LLM consensus validation.  
@@ -200,12 +202,12 @@ Image backlinks constitute an under-leveraged link acquisition vector with super
 While establishing owned topical authority on primary domain infrastructure remains the fundamental long-term mandate, ranking young or maturing websites for high-intent search terms can require weeks of crawler validation. High-authority third-party hosting architectures (Parasite SEO) are reported to leverage established enterprise PageRank to achieve same-day Google indexation and top-tier rankings (unverified).
 
 #### A. The Subfolder Authority Inheritance Mechanism
-The efficacy of parasite SEO is dictated by URL taxonomy:
-* **The Subdomain Liability:** Most web platforms host user-generated content on subdomains (e.g., `user.platform.com`). Google's indexing systems treat subdomains as quasi-independent entities, meaning they do not automatically inherit the root domain's accumulated trust and crawling priority.
+The source attributes the effect to URL taxonomy (reported mechanism; single-source, not confirmed by Google):
+* **The Subdomain Liability:** Most web platforms host user-generated content on subdomains (e.g., `user.platform.com`). Google's indexing systems are reported to treat subdomains as quasi-independent entities, meaning they may not inherit the root domain's accumulated trust and crawling priority.
 * **The Root Subfolder Advantage (`claude.ai/public/artifacts/`):**
   * Anthropic’s root domain maintains an enterprise-grade authority profile (DR 66+).
   * Published Claude Artifacts are hosted directly on the root domain within a subfolder path: `https://claude.ai/public/artifacts/[unique-uuid]`.
-  * Because subfolder structures inherit the consolidated PageRank and crawling velocity of the root domain, Google’s search bots discover, crawl, and rank published artifacts in as little as **5 to 24 hours**.
+  * The source reports that subfolder paths share the root domain’s PageRank and crawl priority, and that published artifacts were discovered, crawled and ranked in as little as **5 to 24 hours** (unverified; no timing guarantee).
 * **Seed-Click Crawl Ingestion Trigger:** To shorten crawl delay on a newly published URL, share it where your real audience already is (your own social channels, newsletter or email list) so genuine visitors arrive. Never manufacture visits (bots, click farms, paid clicks, staged team clicks). Directional, single-source; no crawl-timing guarantee.
 
 #### B. Branded SERP Domination & Competitor Displacement
@@ -585,12 +587,12 @@ Black-hat operators frequently run automated extortion schemes that client webma
 
 *Source: James Dooley & David Quaid (Edward Sturm Podcast Episode 1,142).*
 
-Google's Auto-Suggest and Related Searches algorithms are dynamic neural recommendation systems driven by aggregate user search frequency and entity co-occurrence. Proactively training these algorithmic associations enables domains to bypass traditional backlink barriers and capture organic rankings on primary unbranded commercial terms.
+Per the source (single-source, directional), Google's Auto-Suggest and Related Searches are driven by aggregate user search frequency and entity co-occurrence, and building these associations is reported to help a domain rank on unbranded commercial terms with less reliance on backlinks.
 
 #### A. The Brand + Keyword Query Seeding Mechanism
-When Google observes consistent search velocity pairing a specific brand entity with a high-value commercial keyword (e.g., `[Focus Keyword] + [Brand Name]`), two automated system updates occur:
+When Google observes consistent search velocity pairing a specific brand entity with a high-value commercial keyword (e.g., `[Focus Keyword] + [Brand Name]`), the source reports two effects (directional):
 1. **Auto-Suggest Injection:** Google appends the brand to the search box dropdown suggestions for the root keyword, capturing high-intent searchers before they finish typing.
-2. **Semantic Co-Occurrence Grounding:** Google's Knowledge Graph binds the brand entity directly to the commercial topical node, dramatically increasing ranking velocity for the root *unbranded* term.
+2. **Semantic Co-Occurrence Grounding:** Google's Knowledge Graph is reported to bind the brand entity to the commercial topical node, increasing ranking velocity for the root *unbranded* term.
 
 #### B. The Mathematical Threshold: Known Entities vs. Unknown Entities
 The volume of monthly branded-keyword searches required to trigger Google Auto-Suggest is governed by existing Knowledge Graph status:
