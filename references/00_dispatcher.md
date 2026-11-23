@@ -23,13 +23,13 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 ## When to Use
 - You need to build multi-platform entity consensus.
 - You are vetting paid newswire/press placements for guaranteed indexation, defending against fraudulent competitor DMCA takedowns (pre-position, counter-notice, §512(f) escalation), or auditing host platforms for self-referential canonical traps (Module 21).
-- You are optimizing YouTube transcripts or executing Parasite SEO.
+- You are optimizing YouTube transcripts or executing Parasite SEO (only after explicit user confirmation; disclose ownership or paid placement on every parasite asset and follow each host platform's rules).
 - You are planning backlink acquisition or PR syndication, or auditing whether AI Overviews about your entity have been manipulated (AEO press-release threat awareness and truthful-announcement rules live here in Module 12, not in `kirby-technical-aeo`).
 - You are structuring front-loaded PR Newswire headlines to rank directly on Page 1 for commercial queries (Module 12 §12.8), or auditing media buys to enforce the publisher subfolder exclusion rule (§12.9).
 - You are defending against negative AI Overviews by maintaining an already-established, disclosed branded subreddit (never launching a fresh one), or navigating the 2026 administrative anti-spam crackdown and unpaid, disclosed participation rule (Module 20 §20.4).
 - You are transcribing influencer YouTube review videos on your primary domain with FTC Part 465 disclosures to seed LLM consensus (Module 4 §4.23).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
-- You are using micro-influencers and short-form video for indexable social proof.
+- You are using micro-influencers and short-form video for indexable, disclosed creator posts (Module 15).
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).
 - You are placing a SaaS/B2B brand into third-party listicles/roundups, running competitive link-gap outreach, or pricing editorial insertions (Module 18). First-party “Best X” pages stay in `kirby-aiseo-skill` Module 2 §2.16. Before initiating off-page outreach, check SERP undertargeting (`kirby-aiseo-skill` §2.29); defer link building if on-page targeting can rank first (§18.1.1). LinkedIn parasite *posts* stay in Module 4 §4.14; LinkedIn *DMs for placements* are Module 18.
 - You are evaluating which asset should hold a commercial head term, whether a high-authority social post can beat exact-match domains and link-built networks, or how a "Positive Ranking State" expands query radius beyond the written page (Module 19). LinkedIn production mechanics stay in Module 4 §4.14; Module 19 holds the ranking-substrate doctrine, including per-market/geo-fenced top social results.

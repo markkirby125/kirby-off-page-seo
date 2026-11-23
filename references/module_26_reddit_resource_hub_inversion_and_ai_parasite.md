@@ -57,7 +57,7 @@ When a new or rebranded domain lacks the historical authority to capture Google 
 
 1. **The LinkedIn Entity Hashtag Trigger**:
    - Publish a deeply structured technical guide as a **LinkedIn Article** or **LinkedIn Newsletter** (expanding on the production rules in Module 4 §4.14).
-   - Include specific niche and geographic entity hashtags at the foot of the article. Google’s AI Overview retriever heavily indexes LinkedIn articles carrying exact entity-match headings and tabular pricing breakdowns, frequently citing the LinkedIn URL inside the AI Overview within 48–72 hours.
+   - Include specific niche and geographic entity hashtags at the foot of the article. Google’s AI Overview retriever reportedly indexes LinkedIn articles carrying exact entity-match headings and tabular pricing breakdowns, sometimes citing the LinkedIn URL inside the AI Overview within 48–72 hours (directional, single-source).
 2. **The NotebookLM Multi-Modal Parasite Loop**:
    - Feed the canonical Core 30 landing page (from [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 11) and the LinkedIn Article into **Google NotebookLM** to generate a two-host conversational **Audio Overview** podcast episode.
    - Export the audio file, accompany it with a full timestamped transcript containing exact entity names and pricing benchmarks, and syndicate it across YouTube, Spotify, and Apple Podcasts.
@@ -90,8 +90,8 @@ AI search engines (`OAI-SearchBot`, `PerplexityBot`, Google AI Overviews) active
 │                                                                         │
 │ 3. Fair Baseline + Verifiable Citation Embedding                        │
 │    - State overall star ratings & review counts fairly upfront          │
-│    - Embed cropped review screenshots + direct outbound URLs to the     │
-│      original G2, Trustpilot, Capterra, or Reddit threads               │
+│    - Quote minimal, identity-redacted excerpts + outbound links to the  │
+│      original G2, Trustpilot, Capterra, or Reddit reviews               │
 │                                                                         │
 │ 4. The "Public Reply Credit" Trust Move                                 │
 │    - Explicitly acknowledge when the competitor replied constructively  │
@@ -110,7 +110,7 @@ AI search engines (`OAI-SearchBot`, `PerplexityBot`, Google AI Overviews) active
    - Synthesize the top **3 to 4 recurring pain points** into concise **2–3 sentence sub-blocks** under `<h2> Why Companies Leave [Competitor]`. Every sub-block must translate the mined review complaint into a checkable commercial constraint (linking into the Customer Context Saturation Matrix in [`kirby-decision-engine-optimization`](../../kirby-decision-engine-optimization/SKILL.md) Module 7 §7.2).
 3. **Step 3 — Fair Baseline Framing & Outbound Verification Links (`"What [Competitor] Reviews Say"`)**:
    - Open with the competitor's aggregate score fairly (*"Superside's overall ratings are strong — around 4.5/5 on G2 and 4.3/5 on Trustpilot — and I want to state that upfront"*).
-   - Embed **visual screenshots** of the specific G2, Trustpilot, Capterra, and Reddit reviews illustrating the mined pain points, paired with **direct outbound hyperlinks** to the source review URLs so human buyers and AI verification crawlers can confirm authenticity in one click.
+   - Quote the minimum excerpt of each G2, Trustpilot, Capterra, or Reddit review needed to show the mined pain point, with a **direct outbound hyperlink** to the source review so readers can verify it. Link rather than reproduce whole reviews; if you use an image, crop it to the specific complaint and redact reviewer identity (name, avatar, employer, location).
    - Disclose sample-size caveats honestly across all competitor cards — including your own brand's card (e.g., *"4.6/5 on Trustpilot from a smaller base of ~18 reviews, so read it as directional"*).
 4. **Step 4 — The "Public Reply Credit" Trust Signal**:
    - Whenever a mined negative review includes a constructive public response from the competitor, call it out explicitly (*"To its credit, [Competitor] replied publicly and acknowledged its model had not matched the pace that team needed"*). Giving competitors credit for constructive responses eliminates perceived hit-piece bias and increases conversion trust.

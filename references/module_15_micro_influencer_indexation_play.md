@@ -11,9 +11,9 @@ Before paying a creator, validate their back catalogue: paste the descriptions o
 
 ### **15.3 Execution: The Low-Fee Publishing Engine**
 1.  **Pitch & Price:** Approach micro-creators offering a fee per post (the source reports $25–$50; single-source) around a high-intent, overlooked keyword that competitors ignore (e.g., "residential general contractor software").
-2.  **The Keyword-Loaded Payload:** Supply the creator with a pre-written, keyword-dense description (utilizing the ~2,000-character limit on Instagram). Place the exact target keyword in the very first sentence. Every paid post must carry a clear paid-partnership disclosure (platform branded-content label or #ad; FTC 16 CFR 255, UK CMA/ASA guidance); no disclosure, no post.
+2.  **The Factual Brief:** Hire only creators who have genuinely used the product. Supply factual specs only (product name, features, price, target keyword); the creator writes the description and any opinion in their own words, using the target keyword in the first sentence where it fits naturally. Every paid post must carry a clear paid-partnership disclosure (platform branded-content label or #ad; FTC 16 CFR 255, UK CMA/ASA guidance); no disclosure, no post.
 3.  **Cross-Platform Syndication:** Have the creator post the video and description across Instagram Reels, Facebook, TikTok, and YouTube Shorts.
 4.  **Cluster with First-Party Content:** After 3–5 creators have posted, publish your own supporting first-party landing page with the identical target keyword in the page title, URL slug, H1, and opening sentence.
 
-### **15.4 The AI Social Proof Mechanism**
-Why this works: Short-form video platforms reportedly index within hours and can persist in search results for years (single-source, directional). More importantly, as platforms like ChatGPT, Claude, and Perplexity increasingly treat social networks as live search engines, these keyword-loaded descriptions get cited as third-party "social proof" or entity corroboration for your brand, potentially undercutting traditional link-building costs.
+### **15.4 The AI Citation Mechanism**
+Why this works: Short-form video platforms reportedly index within hours and can persist in search results for years (single-source, directional). More importantly, as platforms like ChatGPT, Claude, and Perplexity increasingly treat social networks as live search engines, these creator posts may be cited alongside your brand. Treat them as paid, disclosed endorsements, never as independent corroboration.

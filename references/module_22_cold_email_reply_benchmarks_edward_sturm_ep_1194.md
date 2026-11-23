@@ -4,6 +4,8 @@
 
 These are reported, single-source, unverified benchmarks; treat them as starting hypotheses to test, not rules. Use them as defaults for outbound email this skill generates: link-gap outreach (Module 18), PR syndication pitching (Module 12), guest-post perimeter and cash local outreach (Module 4 §4.16–§4.17).
 
+**Consent Rule (all outreach email):** identify the sender accurately in every message, include a working unsubscribe/opt-out and honour opt-outs promptly, and confirm a lawful basis for the recipient's market before sending (e.g., US CAN-SPAM, UK PECR/UK GDPR).
+
 ### **22.1 The Word-Count Reply Curve**
 
 | Email length | Reported reply rate | Drop-off |
