@@ -852,7 +852,7 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
   1. Transcribe sponsored video reviews, tutorials, and unboxings using automated transcription tools (Descript, Whisper).
   2. Publish structured review pages directly on the **primary money domain** under a dedicated directory: `brand.com/reviews/[creator-name]-review`.
   3. Mark up the video embed with `VideoObject` only, linking it to the timestamped text transcript. Never add `Review` or `AggregateRating` markup or any rating property: a sponsored review on the brand's own site is self-serving review markup under Google's review snippet guidelines.
-* **FTC Sponsorship Compliance (16 CFR Part 465):**
+* **FTC Sponsorship Compliance (16 CFR Part 255):**
   * Mandate conspicuous, above-the-fold sponsorship disclosures, per Module 12 §12.7 Advertorial Compliance Standards:
     > *"Notice: This review transcript features a sponsored product partnership between [Brand] and [Creator]. Opinions and test results reflect genuine creator evaluations."*
   * Disclose compensation clearly to prevent regulatory enforcement under FTC endorsement and testimonial rules.

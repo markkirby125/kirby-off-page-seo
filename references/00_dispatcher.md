@@ -27,7 +27,7 @@ This skill handles Off-Page Consensus, Video Transcription, & Link Acquisition.
 - You are planning backlink acquisition or PR syndication, or auditing whether AI Overviews about your entity have been manipulated (AEO press-release threat awareness and truthful-announcement rules live here in Module 12, not in `kirby-technical-aeo`).
 - You are structuring front-loaded PR Newswire headlines to rank directly on Page 1 for commercial queries (Module 12 §12.8), or auditing media buys to enforce the publisher subfolder exclusion rule (§12.9).
 - You are defending against negative AI Overviews by maintaining an already-established, disclosed branded subreddit (never launching a fresh one), or navigating the 2026 administrative anti-spam crackdown and unpaid, disclosed participation rule (Module 20 §20.4).
-- You are transcribing influencer YouTube review videos on your primary domain with FTC Part 465 disclosures to seed LLM consensus (Module 4 §4.23).
+- You are transcribing influencer YouTube review videos on your primary domain with FTC Part 255 disclosures to seed LLM consensus (Module 4 §4.23).
 - You are building owned assets to intercept "[Keyword] Reddit" modifier searches.
 - You are using micro-influencers and short-form video for indexable, disclosed creator posts (Module 15).
 - You are anchoring entity consensus via Wikidata, Crunchbase, or cross-platform social corroboration (on-page pruning first: `kirby-aiseo-skill` Module 2 §2.34).
