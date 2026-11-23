@@ -220,12 +220,12 @@ Prospective clients searching a brand name (e.g., *"Berkshire IT Services"*, *"S
 ┌──────────────────────────────────────────────┐
 │ Pos 1: Primary Owned Website (domain.com)    │
 │ Pos 2: Google Business Profile (Map Pack)    │
-│ Pos 3: Published Claude Artifact (claude.ai) │ <── High-DR Parasite Asset
+│ Pos 3: Published Claude Artifact (claude.ai) │ <── Reported high-DR asset (confirm the figure)
 │ Pos 4: Verified Trustpilot Profile           │
 │ Pos 5: YouTube Case Walkthrough (§4.2.1)     │
 └──────────────────────────────────────────────┘
                │
-   Competitors Pushed to Page 2
+   Competitors Pushed to Page 2 (illustrative, not guaranteed)
 ```
 
 1. **Asset Compilation:** Assemble all verified brand credentials: case studies, client review transcripts, verified licensing/accreditations, and transparent pricing benchmarks.
@@ -422,7 +422,7 @@ Traditional search tracking measures rank positions (1–10). Generative Engine 
 2. **Visibility Score (0%–100%):** The positional weighting of the brand recommendation (PromptWatch's reported scoring bands; vendor-defined, unverified):
    * *Top Pick (Rank #1):* Delivers 90%–100% visibility score.
    * *Mid-Tier Alternative:* Delivers 40%–60% visibility score.
-   * *Footer / Passing Mention:* Delivers $<20\%$ visibility score.
+   * *Footer / Passing Mention:* Delivers under 20% visibility score.
 3. **Inline Citations vs. Source Footnotes:**
    * **Source Footnotes:** The search agent retrieves 10–30 candidate URLs into its reasoning context window to synthesize the answer.
    * **Inline Citations:** The model inserts a clickable, numbered link directly into the response text to anchor a specific factual claim.
@@ -546,7 +546,7 @@ In an AI-saturated ecosystem where tens of millions of new web documents are pub
 ```
 
 #### A. The 10%–20% Non-Indexed Link Waste Trap
-Across reported audits (single-source, unverified) of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were NEVER indexed by Google**:
+Across reported audits (single-source, unverified) of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were reportedly never indexed by Google**:
 * **The Blind Reporting Trap:** Media houses and SEO agencies routinely celebrate acquiring high-authority placements in client deliverables without verifying whether Googlebot actually indexed the host page.
 * **The Mathematical Reality:** A backlink on a page Google has not indexed is generally understood to pass little or no PageRank or anchor-text signal, and an unindexed page cannot be retrieved for LLM grounding via Google (inference, unverified). Treat every non-indexed paid link as likely wasted budget.
 * **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be routed into the §4.9 discovery workflow or flagged for a contractual placement replacement or refund.

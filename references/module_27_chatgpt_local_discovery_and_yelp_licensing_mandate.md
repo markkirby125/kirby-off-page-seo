@@ -40,7 +40,7 @@ When a user prompts ChatGPT with a local commercial query (*"Who is the highest-
 
 ### **27.2 Compliant Yelp Optimization & Anti-Filter Guardrails**
 
-Practitioners report that Yelp's recommendation software hides solicited reviews; Yelp does not publish its mechanics. Do not run Google-style review blasts against a Yelp profile.
+Practitioners report that Yelp's recommendation software hides solicited reviews; Yelp does not publish its mechanics. Do not run review-request campaigns against a Yelp profile: Yelp's content guidelines say businesses should never ask customers to write reviews (yelp.com/guidelines, checked 2026-11-23).
 
 1. **Complete Profile & Visual Parity**:
    - Claim the Yelp Business Page and align NAP, operating hours, service categories, and website URL 1:1 with the Google Business Profile (preventing the radius-killing citation inconsistency penalty in [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 6 §6.3).

@@ -17,6 +17,8 @@ Standard keyword research tools systematically underreport high-intent commercia
 
 Rather than deploying black-hat sockpuppet accounts inside subreddits (which get banned by moderators and stripped of link equity), build an on-site **Reddit Alternative Resource Hub** that satisfies the exact user intent driving the Reddit search:
 
+Before scraping or reusing Reddit text, check Reddit's current robots.txt and user agreement (use its official API within its terms), paraphrase rather than republish comments, and never present harvested comments as your own customers' reviews.
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │            ON-SITE "REDDIT ALTERNATIVE RESOURCE HUB" BLUEPRINT          │
