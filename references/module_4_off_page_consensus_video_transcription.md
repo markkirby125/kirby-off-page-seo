@@ -333,19 +333,20 @@ Wikipedia contains millions of factual statements that remain unverified and act
 
 #### B. The Wikipedia Reliability Gate (WP:RS, WP:NPOV, WP:NOR & WP:COI)
 * **The Commercial Rejection Trap:** Linking directly to a commercial homepage, product brochure, or sales blog results in automated bot or administrator reversion within minutes for violating Wikipedia's guidelines on Reliable Sources (WP:RS) and Neutral Point of View (WP:NPOV).
-* **Independent Publisher Standards (the cited outlet, not your domain):**
+* **Vetting heuristics for the cited outlet (house heuristics, not Wikipedia policy; WP:RS decides; never your own domain):**
   * Domain maturity: minimum $\ge 6$ months of continuous uptime.
   * Transparent governance: a complete `/about/` page detailing verified company registration, corporate leadership, physical address, and formal editorial policies.
   * Author credentials: content must feature named authors with verifiable professional or academic credentials in the subject matter.
 * **No original research or synthesis (WP:NOR, WP:SYNTH) and conflict of interest (WP:COI):** the cited source must itself state the claim and be independent of you. Your own synthesis or an owned white paper may not be the cited source.
 
 #### C. The Independent-Source Methodology
-Wikipedia editors require a single authoritative source that directly substantiates the unsourced claim. Because foundational data is often scattered across disparate books, conference transcripts, and paywalled journals, Wikipedia cannot easily cite individual fragments. Cite the independent reliable sources directly, or a synthesis that an independent outlet has published; never an owned copy (§4.20B).
+Wikipedia editors require one or more independent reliable sources that directly substantiate the unsourced claim. Because foundational data is often scattered across disparate books, conference transcripts, and paywalled journals, Wikipedia cannot easily cite individual fragments. Cite independent reliable sources that already exist; never an owned copy (§4.20B). A brief you wrote or commissioned is not an independent source, even when an independent outlet publishes it: disclose the authorship or commission and offer it only through a Talk-page edit request (§4.20D).
 
 ```
 [Disparate Industry Data: Studies, Expert Books, Survey Data]
                              │
                              ▼
+  Existing Independent Sources (preferred), or a Disclosed
      Neutral Research Brief, Published Independently
      (Never cite an owned /research/ copy on Wikipedia)
                              │
@@ -365,7 +366,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 ```
 
 1. **Information Aggregation:** Collect 3–5 independent research data points, peer-reviewed statistics, or verified expert interviews that substantiate the Wikipedia claim.
-2. **Author the Research Brief:** Write an objective research brief and get it published by an independent outlet (peer-reviewed journal or independent editorial publication). An owned copy (e.g., `domain.com/research/[topic]/`) may exist but is never the Wikipedia citation.
+2. **Author the Research Brief (optional; not an independent source):** Prefer sources that already exist independently. If you write or commission an objective research brief and an independent outlet (peer-reviewed journal or independent editorial publication) publishes it, you hold an interest in that source: disclose it and propose it only as a Talk-page edit request (§4.20D), never by direct edit. An owned copy (e.g., `domain.com/research/[topic]/`) may exist but is never the Wikipedia citation.
 3. **Strict Editorial Discipline:**
    * Title directly mirrors the factual statement being substantiated.
    * Tone is strictly neutral and analytical; promotional sales copy, marketing claims, and conversion popups are completely prohibited.
@@ -373,7 +374,7 @@ Wikipedia editors require a single authoritative source that directly substantia
    * The page terminates with a formal, academic bibliography.
 
 #### D. Editorial Deployment & RAG Ingestion
-1. Edit only from your own real, disclosed Wikipedia account; never build up an account to look established or use undisclosed accounts. If you or your client have a financial or other interest in the article's subject or in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
+1. Edit only from your own real, disclosed Wikipedia account; never create or age accounts deceptively or use undisclosed accounts (normal constructive editing is fine). If you or your client have a financial or other interest in the article's subject or in the cited source, disclose it on your user page and the article's Talk page and follow WP:COI and WP:PAID; with any such interest, propose the edit on the Talk page (edit request) and do not edit the article directly.
 2. With no financial or other interest in the article's subject or in the cited source, edit the target Wikipedia article directly; otherwise post the citation as a Talk-page edit request and do not touch the article. The edit consists of removing the `[citation needed]` flag and embedding the reference using standard citation markup:
    * `{{cite web |url=https://[independent-publisher]/... |title=... |author=... |date=... |publisher=... |access-date=...}}`
 3. Provide a transparent edit summary: *"Added independent reliable source substantiating statement regarding [topic]"*.
@@ -382,7 +383,7 @@ Wikipedia editors require a single authoritative source that directly substantia
 **Wikipedia Citation Execution Checklist**
 - [ ] Query `citationhunt.org` for active `[citation needed]` statements in target industry topics.
 - [ ] Aggregate 3–5 verifiable third-party studies, expert quotes, and survey statistics.
-- [ ] Cite independent reliable sources directly, or an independently published research brief; never an owned copy (WP:RS, WP:NOR, WP:SYNTH, WP:COI).
+- [ ] Cite independent reliable sources that already exist; a brief you wrote or commissioned goes through a disclosed Talk-page edit request only; never an owned copy (WP:RS, WP:NOR, WP:SYNTH, WP:COI).
 - [ ] Verify zero commercial CTAs, complete author credentials, and formal bibliography.
 - [ ] Disclose any financial or other interest in the article's subject or in the cited source (WP:COI, WP:PAID); with any such interest, put the `{{cite web}}` markup inside a Talk-page edit request and do not edit the article; with none, add it directly with a descriptive edit summary.
 - [ ] Monitor edit longevity and verify automated citation retrieval across ChatGPT and Perplexity.
