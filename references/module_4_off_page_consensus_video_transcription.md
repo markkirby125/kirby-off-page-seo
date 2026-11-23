@@ -701,7 +701,7 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 > **TL;DR:** Generative engines prioritize verified entities (top 0.1%) and third-party sentiment over raw backlinks. Separate SEO and ORM operations, secure third-party listicle placements, and use temporal markers ("what was" vs. "what is now") to prove semantic freshness.
 
 #### A. The "GEO = SEO + ORM" Equation & Departmental Restructuring
-* **The 1% Execution Reality:** 99% of traditional SEOs fail at Generative Engine Optimization because they focus exclusively on on-page technical factors and backlink acquisition to rank #1 in Google. In generative search, a reported 85%+ of recommendations are synthesized from third-party sentiment across the web (single-source, unverified).
+* **The 1% Execution Reality:** The source claims that most traditional SEOs fail at Generative Engine Optimization (its "99%" is rhetoric, not a measured figure) because they focus exclusively on on-page technical factors and backlink acquisition to rank #1 in Google. In generative search, a reported 85%+ of recommendations are synthesized from third-party sentiment across the web (single-source, unverified).
 * **The ORM Requirement:** GEO requires active **Online Reputation Management (ORM)**: dominating sentiment, review volume, and brand framing across secondary platforms (Reddit, YouTube, Trustpilot, TripAdvisor, Clutch, G2).
 * **Autonomous GEO Operations:** Scale GEO by establishing a dedicated AEO/GEO workflow separate from standard SEO:
   1. *SEO Department:* Focuses on technical crawling, indexation, internal linking, and organic ranking.
