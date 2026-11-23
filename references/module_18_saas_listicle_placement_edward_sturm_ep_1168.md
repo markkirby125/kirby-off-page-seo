@@ -118,7 +118,7 @@ Lead with money **only** when the publisher clearly monetizes roundups — then 
 
 ### **18.9 Incentives and follow-up**
 
-Win-win. Stack what you can: payment, premium/product access, coupon/voucher, you write the blurb, a link they cannot get.
+Win-win. Stack what you can: payment, premium/product access, coupon/voucher, you write the blurb, a link they cannot get. Any payment, free product or voucher is a material connection: it must be disclosed (FTC 16 CFR Part 255; UK CMA/ASA guidance, confirm current) and must not be conditional on a favourable mention.
 
 Route by owner:
 
@@ -242,8 +242,8 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 *Source: LLM Mastery — "Advanced LLM Visibility Hacks".*
 
 * **The Void:** ~93% of directory listings on Yelp, Clutch, and DesignRush carry **zero reviews** (source figure spans review directories broadly). Securing just 1–2 reviews (earned organically on Yelp, never solicited) typically jumps a listing to page 1 of the directory's own category pages (directional, single-test) — visibility inside the directory's internal search that LLM retrieval also fans out to.
-* **Execution:** Identify the 2–3 directories where the category page ranks for commercial queries; request reviews from genuine recent clients with directory accounts (except Yelp: its content guidelines say "Businesses should never ask customers to write reviews" [yelp.com/guidelines, checked 2026-11-23]; see Module 27 §27.2; the §4.12.F quote platforms route the same way).
-* **⚠️ Sourcing guardrail:** Genuine customer-solicited reviews only (never on Yelp) — fabricated or agency-seeded reviews are astroturfing, breach Yelp's content guidelines (conflicts of interest; yelp.com/guidelines, checked 2026-11-23) and each directory's own authenticity terms (check each directory's current rules), and are prohibited by the FTC consumer reviews and testimonials rule (16 CFR §465.2 fake or false reviews, §465.4 buying reviews; eCFR checked 2026-11-23). One or two real reviews accomplish the jump; fabrication risks the entire listing.
+* **Execution:** Identify the 2–3 directories where the category page ranks for commercial queries; ask genuine recent clients with directory accounts, all of them rather than only the happy ones, with no incentive and no pressure to post a positive rating (Google's contributor policy bars selective solicitation and incentives; check each directory's current rules) (except Yelp: its content guidelines say "Businesses should never ask customers to write reviews" [yelp.com/guidelines, checked 2026-11-23]; see Module 27 §27.2; the §4.12.F quote platforms route the same way).
+* **⚠️ Sourcing guardrail:** Genuine reviews from real customers only, never incentivised, gated or selectively requested (never solicited on Yelp) — fabricated or agency-seeded reviews are astroturfing, breach Yelp's content guidelines (conflicts of interest; yelp.com/guidelines, checked 2026-11-23) and each directory's own authenticity terms (check each directory's current rules), and are prohibited by the FTC consumer reviews and testimonials rule (16 CFR §465.2 fake or false reviews, §465.4 buying reviews; eCFR checked 2026-11-23). One or two real reviews accomplish the jump; fabrication risks the entire listing.
 
 ### **18.22 Digital PR Yield Benchmarks & The Disavow Dichotomy**
 

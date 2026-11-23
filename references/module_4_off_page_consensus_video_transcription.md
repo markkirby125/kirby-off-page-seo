@@ -205,7 +205,7 @@ While establishing owned topical authority on primary domain infrastructure rema
 The source attributes the effect to URL taxonomy (reported mechanism; single-source, not confirmed by Google):
 * **The Subdomain Liability:** Most web platforms host user-generated content on subdomains (e.g., `user.platform.com`). Google's indexing systems are reported to treat subdomains as quasi-independent entities, meaning they may not inherit the root domain's accumulated trust and crawling priority.
 * **The Root Subfolder Advantage (`claude.ai/public/artifacts/`):**
-  * Anthropic’s root domain maintains an enterprise-grade authority profile (DR 66+).
+  * The source describes Anthropic’s root domain as high-authority (reported DR 66+; vendor metric, unverified, confirm the current figure in your own tool).
   * Published Claude Artifacts are hosted directly on the root domain within a subfolder path: `https://claude.ai/public/artifacts/[unique-uuid]`.
   * The source reports that subfolder paths share the root domain’s PageRank and crawl priority, and that published artifacts were discovered, crawled and ranked in as little as **5 to 24 hours** (unverified; no timing guarantee).
 * **Seed-Click Crawl Ingestion Trigger:** To shorten crawl delay on a newly published URL, share it where your real audience already is (your own social channels, newsletter or email list) so genuine visitors arrive. Never manufacture visits (bots, click farms, paid clicks, staged team clicks). Directional, single-source; no crawl-timing guarantee.
@@ -229,9 +229,9 @@ Prospective clients searching a brand name (e.g., *"Berkshire IT Services"*, *"S
 ```
 
 1. **Asset Compilation:** Assemble all verified brand credentials: case studies, client review transcripts, verified licensing/accreditations, and transparent pricing benchmarks.
-2. **Artifact Generation:** Instruct an LLM to formulate an exhaustive, visually polished interactive review and operational profile of the brand, embedding explicit customer testimonials and service capabilities.
+2. **Artifact Generation:** Instruct an LLM to formulate an exhaustive, visually polished interactive review and operational profile of the brand, embedding only real, attributable customer testimonials you have permission to use (no Review or AggregateRating markup) and service capabilities.
 3. **Publication:** Click the native **Publish** button within Claude to deploy the artifact to `claude.ai/public/artifacts/`.
-4. **The Yield:** The artifact reportedly ranks on Google within hours for branded queries (unverified), establishing a third-party trust anchor that pushes competitor aggregators off Page 1 while funneling visitors directly into your owned conversion funnel via embedded CTA links.
+4. **The Yield:** The artifact reportedly ranks on Google within hours for branded queries (unverified), establishing a self-published branded profile (hosted on a third-party domain, but not independent corroboration) that may push competitor aggregators off Page 1 while funneling visitors directly into your owned conversion funnel via embedded CTA links.
 
 #### C. The Interim BOFU Intent Intercept (5-Minute Placeholder)
 When a lucrative, low-competition Bottom-of-Funnel (BOFU) search opportunity is identified, custom-coding, designing, and staging a permanent landing page on an owned domain can create a 1–3 day deployment delay, followed by multi-week indexation lag.
@@ -419,7 +419,7 @@ While §4.3 documents the historic power of community consensus seeding via Redd
 Traditional search tracking measures rank positions (1–10). Generative Engine Optimization (GEO) requires tracking a 3-tier retrieval hierarchy:
 
 1. **Mention (Binary 0/1):** Is the brand entity named in the synthesized response text?
-2. **Visibility Score (0%–100%):** The positional weighting of the brand recommendation.
+2. **Visibility Score (0%–100%):** The positional weighting of the brand recommendation (PromptWatch's reported scoring bands; vendor-defined, unverified):
    * *Top Pick (Rank #1):* Delivers 90%–100% visibility score.
    * *Mid-Tier Alternative:* Delivers 40%–60% visibility score.
    * *Footer / Passing Mention:* Delivers $<20\%$ visibility score.
@@ -548,7 +548,7 @@ In an AI-saturated ecosystem where tens of millions of new web documents are pub
 #### A. The 10%–20% Non-Indexed Link Waste Trap
 Across reported audits (single-source, unverified) of $5M in enterprise link building spend, **10% to 20% of all purchased or placed backlinks were NEVER indexed by Google**:
 * **The Blind Reporting Trap:** Media houses and SEO agencies routinely celebrate acquiring high-authority placements in client deliverables without verifying whether Googlebot actually indexed the host page.
-* **The Mathematical Reality:** A non-indexed backlink passes **0 PageRank, 0 anchor text equity, and 0 LLM retrieval grounding**. Every non-indexed link represents 100% wasted budget.
+* **The Mathematical Reality:** A backlink on a page Google has not indexed is generally understood to pass little or no PageRank or anchor-text signal, and an unindexed page cannot be retrieved for LLM grounding via Google (inference, unverified). Treat every non-indexed paid link as likely wasted budget.
 * **The Mandatory Audit Protocol:** Every acquired backlink must be subjected to an automated indexation check 14 days post-publication. Any URL failing indexation must be routed into the §4.9 discovery workflow or flagged for a contractual placement replacement or refund.
 
 #### B. The Obsolete Tactic Burn Audit
@@ -855,6 +855,6 @@ Operationalize the AEO Multi-Placement Law (`../../kirby-aiseo-skill/SKILL.md`, 
 * **FTC Sponsorship Compliance (16 CFR Part 255):**
   * Mandate conspicuous, above-the-fold sponsorship disclosures, per Module 12 §12.7 Advertorial Compliance Standards:
     > *"Notice: This review transcript features a sponsored product partnership between [Brand] and [Creator]. Opinions and test results reflect genuine creator evaluations."*
-  * Disclose compensation clearly to prevent regulatory enforcement under FTC endorsement and testimonial rules.
+  * Disclose compensation clearly (FTC Endorsement Guides, 16 CFR Part 255; in the UK, CMA/ASA guidance, confirm the current rules before publishing).
 * **LLM Synthesis Outcome:** Answer engines (ChatGPT, Perplexity) searching for brand reviews crawl the structured on-domain transcript text and cite the creator’s positive technical observations during comparative buyer prompts, converting influencer spend into permanent generative search equity.
 
