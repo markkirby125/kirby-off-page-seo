@@ -40,7 +40,7 @@ When a user prompts ChatGPT with a local commercial query (*"Who is the highest-
 
 ### **27.2 Compliant Yelp Optimization & Anti-Filter Guardrails**
 
-Yelp operates the most aggressive automated review-solicitation filter in the local ecosystem. Executing standard Google review blasts against a Yelp profile results in immediate review deletion and a public *"Consumer Alert"* banner on the Yelp listing.
+Yelp's recommendation software filters solicited reviews (hidden, not deleted). A public *"Consumer Alert"* banner follows only an investigation. Do not run Google-style review blasts against a Yelp profile.
 
 1. **Complete Profile & Visual Parity**:
    - Claim the Yelp Business Page and align NAP, operating hours, service categories, and website URL 1:1 with the Google Business Profile (preventing the radius-killing citation inconsistency penalty in [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 6 §6.3).
