@@ -62,7 +62,7 @@ Practitioners read the May 2024 Google API leak as explaining why nofollow links
 Semrush and Kevin Indig analyzed 1,000 domains across 5 AI platforms (ChatGPT, ChatGPT Search, Gemini, Google AI Overviews, Perplexity):
 * Backlinks reportedly correlate strongly with AI visibility and LLM citations.
 * **Critical Finding**: **Nofollow backlinks showed a slightly STRONGER correlation with AI mentions than followed backlinks** (a correlation, directional and single-source; not evidence that nofollow links cause AI mentions).
-* *The Mechanism*: Major knowledge-dense platforms (Reddit, Wikipedia, Quora, GitHub) enforce nofollow on user-submitted links by default. However, these exact platforms form the primary retrieval corpora and RAG sources for LLM-generated search answers. Winning nofollow citations on these platforms can improve the odds of LLM brand citations (directional, single-source).
+* *The Mechanism*: Major knowledge-dense platforms (Reddit, Wikipedia, Quora, GitHub) typically apply nofollow to user-submitted links (confirm per platform). However, these exact platforms form the primary retrieval corpora and RAG sources for LLM-generated search answers. Winning nofollow citations on these platforms can improve the odds of LLM brand citations (directional, single-source).
 
 ---
 
