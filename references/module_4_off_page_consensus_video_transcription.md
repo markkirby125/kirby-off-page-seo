@@ -498,7 +498,7 @@ Static keyword rank tracking (Position 1–10) is obsolete in conversational AI 
 2. Inspect the Citations & Sources Cited by the LLM to Validate Competitor.
                                │
                                ▼
-3. Deploy Targeted Digital PR, Sponsorship, or Review Solicitation on Those Sources.
+3. Deploy Targeted Digital PR, Sponsorship, or review requests on those sources (never ask for reviews on Yelp, see Module 27 §27.2; invite every relevant customer, not only happy ones, with no incentive and no pressure to post; disclose any sponsorship).
                                │
                                ▼
 4. Support Discovery of Third-Party Mentions (§4.9) for LLM Retrieval.
