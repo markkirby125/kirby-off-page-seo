@@ -28,8 +28,9 @@ Rather than deploying black-hat sockpuppet accounts inside subreddits (which get
 │                                                                         │
 │ 2. Anti-Corporate Formatting ("Reddit Inversion" Layout)                │
 │    - Open with a TL;DR summary box and explicit pricing table           │
-│    - Quote public community consensus ("Across 40+ r/msp threads,       │
+│    - Quote public community consensus ("Across [N] r/msp threads,       │
 │      engineers warn against 36-month auto-renewing SLA lock-ins...")    │
+│      [N] = placeholder; count and link the threads before shipping      │
 │    - Present candid pros, cons, and "Who Should NOT Hire Us" sections   │
 │                                                                         │
 │ 3. Legitimate Subreddit Brand Citation Seeding                          │

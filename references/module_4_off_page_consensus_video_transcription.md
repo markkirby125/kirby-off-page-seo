@@ -44,7 +44,7 @@ YouTube Community Posts generate up to 10% of total channel impressions and trai
 
 1. **Budget Cannibalization:** Never divert core SEO resources solely to chase AI metrics. AI search agents crawl and rely upon traditional Google/Bing organic search indexes as their primary retrieval base.
 2. **Topical Isolation & Query Fanout Neglect:** Covering only primary transactional terms without mapping multi-turn query expansions leaves adjacent intent uncaptured during complex LLM synthesis.
-3. **The Competitor Mention Phobia:** Refusing to publish direct comparison content ("Product A vs Product B") eliminates the brand from consideration in commercial AI comparison outputs, which account for the dominant 85% of third-party citations in commercial queries.
+3. **The Competitor Mention Phobia:** Refusing to publish direct comparison content ("Product A vs Product B") eliminates the brand from consideration in commercial AI comparison outputs, which reportedly account for 85% of third-party citations in commercial queries (single-source, unverified).
 4. **API-Based Tracking Delusion:** Tracking brand inclusion via programmatic API prompts produces distorted results; automated tracking must scrape live web interface outputs.
 5. **Self-Referential AI Consulting:** Do not rely on LLMs to self-diagnose how to rank in LLMs. Ground all optimization on empirical web citations, schema validation, and SERP telemetry.
 
@@ -149,7 +149,7 @@ Image backlinks constitute an under-leveraged link acquisition vector with super
 
 * **AI Search Engine Correlation (Kevin Indig / SEMrush Study):**
   * Dataset: 35,000 backlink data points across 1,000 domains.
-  * Finding: Backlinks embedded in image source attributions correlate **more strongly with AI search visibility (ChatGPT, Perplexity, Gemini, Claude)** than standard text backlinks.
+  * Reported finding: Backlinks embedded in image source attributions correlate **more strongly with AI search visibility (ChatGPT, ChatGPT Search, Gemini, Google AI Overviews, Perplexity)** than standard text backlinks.
   * Multimodal RAG models prioritize structured image citations, visual entity provenance, and media attribution schema when compiling authoritative reference indices.
 
 * **The 5 High-Yield Link-Magnet Visual Asset Types:**
@@ -699,7 +699,7 @@ Following Google's official confirmation that random, low-quality backlinks (unr
 > **TL;DR:** Generative engines prioritize verified entities (top 0.1%) and third-party sentiment over raw backlinks. Separate SEO and ORM operations, secure third-party listicle placements, and use temporal markers ("what was" vs. "what is now") to prove semantic freshness.
 
 #### A. The "GEO = SEO + ORM" Equation & Departmental Restructuring
-* **The 1% Execution Reality:** 99% of traditional SEOs fail at Generative Engine Optimization because they focus exclusively on on-page technical factors and backlink acquisition to rank #1 in Google. In generative search, 85%+ of recommendations are synthesized from third-party sentiment across the web.
+* **The 1% Execution Reality:** 99% of traditional SEOs fail at Generative Engine Optimization because they focus exclusively on on-page technical factors and backlink acquisition to rank #1 in Google. In generative search, a reported 85%+ of recommendations are synthesized from third-party sentiment across the web (single-source, unverified).
 * **The ORM Requirement:** GEO requires active **Online Reputation Management (ORM)**: dominating sentiment, review volume, and brand framing across secondary platforms (Reddit, YouTube, Trustpilot, TripAdvisor, Clutch, G2).
 * **Autonomous GEO Operations:** Scale GEO by establishing a dedicated AEO/GEO workflow separate from standard SEO:
   1. *SEO Department:* Focuses on technical crawling, indexation, internal linking, and organic ranking.

@@ -2,7 +2,7 @@
 
 *Source: Nico | AI Ranking ("How I Built a Claude Skill That Finds Perfect Backlinks In Under 9 Mins (SEO: Claude/GPT)"). October 2026.*
 
-Manual backlink prospecting from raw Ahrefs/Semrush CSV exports wastes 2–3 hours per target domain as operators manually weed out scraper networks, dead directories, PBNs, and auto-generated subdomains. By passing raw competitor backlink exports through a structured LLM classification pipeline, an agent can strip out 95% of toxic noise and output a prioritized, outreach-ready link acquisition matrix in under 9 minutes.
+Manual backlink prospecting from raw Ahrefs/Semrush CSV exports reportedly wastes 2–3 hours per target domain as operators manually weed out scraper networks, dead directories, PBNs, and auto-generated subdomains. The source reports that passing raw competitor backlink exports through a structured LLM classification pipeline strips out 95% of toxic noise and outputs a prioritized, outreach-ready link acquisition matrix in under 9 minutes (single-source, unverified).
 
 ---
 
@@ -24,7 +24,7 @@ Before generating any outreach angles, the agent must filter raw referring-domai
 │                                                                         │
 │ Gate 3: Acquisition Feasibility Classification (The 4 Buckets)          │
 │         - Classify surviving prospects into one of 4 actionable buckets │
-│         - Generate a bespoke "Value-First" hook per Module 22 rules     │
+│         - Generate a bespoke "Value-First" hook per Module 22 defaults  │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 

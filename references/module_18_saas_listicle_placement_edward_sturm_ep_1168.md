@@ -98,8 +98,7 @@ Keywords around the brand: yes. Do not over-stuff. Do not pile exact-match ancho
 ### **18.7 Channel, volume, copy freeze**
 
 * Default: **LinkedIn DM > cold email** (face, case studies, personal profile). Personal profile ≫ company page for trust.
-* Target list ~**50**, not thousands. ~**50–100 messages/day** if using a sequencer.
-* Optional sequencers: Dripify (team CRM), Linked Helper. Agent must not run them unsupervised (`kirby-agent-security`).
+* Target list ~**50**, not thousands. Send each DM by hand, personalised and one-to-one, at a low pace that stays within LinkedIn's User Agreement. No automation tools or sequencers.
 * Finite publisher pool: expand by retrying people you never started a conversation with.
 * If copy is net-positive, do not weekly-tweak. Revisit ~3 months or when you have a real test.
 
@@ -184,7 +183,7 @@ Skip: 60–160 articles, ~70% quote-farm, then they sell links.
 
 ### **18.16 Relationship compounding**
 
-Distinct from Module 15 micro-influencers ($25–$50 short-form).
+Distinct from Module 15 micro-influencers (reported $25–$50 short-form, single-source).
 
 * Industry meetups; partner links from people you actually met.
 * Podcast guests who **already have blogs**; wait ~**30 days**; ask for an article; pay with social posts instead of a reciprocal site link.
