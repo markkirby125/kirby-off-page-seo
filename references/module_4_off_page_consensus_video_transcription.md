@@ -71,7 +71,7 @@ YouTube Community Posts generate up to 10% of total channel impressions and trai
 To help off-page entity consensus mentions (Reddit threads, X/Twitter posts, Medium teardowns, Web 2.0 assets) get discovered and indexed (indexing is not guaranteed):
 * **Compact Keyword Distribution:** Deploy targeted entity anchors across secondary platforms matching specific high-intent sub-queries.
 * **Discovery Workflow:** Immediately upon publishing off-page citations:
-  1. Owned URLs: update sitemaps, add internal links, and use Request Indexing in the Search Console UI (the URL Inspection API is read-only; Google's Indexing API is limited to job-posting and livestream pages).
+  1. Owned URLs: update sitemaps, add internal links, and use Request Indexing in the Search Console UI (the URL Inspection API is read-only; Google's Indexing API is limited to job-posting and livestream pages: JobPosting, or BroadcastEvent in a VideoObject; https://developers.google.com/search/apis/indexing-api/v3/quickstart, checked 2026-11-23).
   2. Third-party placements (Reddit, X, Medium, press): you cannot submit these; link to them from owned pages and share them on tier-1 social hubs (X, LinkedIn) so crawlers (GPTBot, ClaudeBot, Googlebot) can find them through normal discovery.
   3. Check indexation within 48 hours to see whether ingestion occurred; ingestion is not guaranteed.
 
