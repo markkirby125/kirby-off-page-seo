@@ -242,7 +242,7 @@ Competitive gap + qualifying roundups + expert quotes compound. Guest posts and 
 *Source: LLM Mastery — "Advanced LLM Visibility Hacks".*
 
 * **The Void:** ~93% of directory listings on Yelp, Clutch, and DesignRush carry **zero reviews** (source figure spans review directories broadly). Securing just 1–2 reviews (earned organically on Yelp, never solicited) typically jumps a listing to page 1 of the directory's own category pages (directional, single-test) — visibility inside the directory's internal search that LLM retrieval also fans out to.
-* **Execution:** Identify the 2–3 directories where the category page ranks for commercial queries; request reviews from genuine recent clients with directory accounts (except Yelp, which the source speaker says prohibits soliciting reviews, so confirm Yelp's current guidelines and see Module 27 §27.2; the §4.12.F quote platforms route the same way).
+* **Execution:** Identify the 2–3 directories where the category page ranks for commercial queries; request reviews from genuine recent clients with directory accounts (except Yelp, whose content guidelines state businesses should never ask customers to write reviews; see Module 27 §27.2; the §4.12.F quote platforms route the same way).
 * **⚠️ Sourcing guardrail:** Genuine customer-solicited reviews only (never on Yelp) — fabricated or agency-seeded reviews are astroturfing, violate Clutch/Yelp authenticity rules, and fall under the FTC consumer reviews and testimonials rule (16 CFR Part 465). One or two real reviews accomplish the jump; fabrication risks the entire listing.
 
 ### **18.22 Digital PR Yield Benchmarks & The Disavow Dichotomy**

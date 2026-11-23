@@ -47,7 +47,7 @@ Practitioners report that Yelp's recommendation software hides solicited reviews
    - Upload 15–25 authentic operational photographs (work vehicles, team, completed jobs) directly to Yelp so ChatGPT’s visual cards render rich media.
    - Enable Yelp’s **Request a Quote** messaging interface and route notifications to an actively monitored inbox.
 2. **Respecting the Yelp Solicitation Guardrail**:
-   - Cross-reference [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 6 §6.12: the speaker in that source states that Yelp's rules prohibit soliciting reviews, including simply asking (speaker-reported; confirm against Yelp's current content guidelines before relying on it). Do not solicit Yelp reviews; keep Yelp review growth organic and unsolicited.
+   - Cross-reference [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Module 6 §6.12: Yelp's content guidelines state businesses should never ask customers to write reviews (yelp.com/guidelines, checked 2026-11-23). Do not solicit Yelp reviews; keep Yelp review growth organic and unsolicited.
    - Do not link customers to your Yelp review page, send review requests, or display "review us on Yelp" badges or prompts. A plain business-page link (without review wording) in the site footer is fine.
 3. **B2B Procurement Corroboration & Review Sentiment Harvesting**:
    - For B2B and commercial service providers, pair Yelp optimization with **Trustpilot**, **G2**, **Capterra**, **Clutch**, and verified accreditation badging per [`kirby-decision-engine-optimization`](../../kirby-decision-engine-optimization/SKILL.md) Module 2 §2.4.
