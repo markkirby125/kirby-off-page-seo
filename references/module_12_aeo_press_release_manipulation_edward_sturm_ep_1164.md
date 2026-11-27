@@ -102,3 +102,11 @@ When an AI Overview target query transitions from an uncontested niche to a mult
   * Never purchase sponsored articles or seasonal PR placements relegated to an affiliate subfolder.
   * Require the publisher to publish the article under their primary editorial or news URL root (e.g., `publisher.com/news/article-title` or `publisher.com/lifestyle/article-title`). If the publisher cannot provide primary root or section-level editorial URL placement, reject the placement. The placement still carries clear sponsorship disclosure and `sponsored`/`nofollow` (§12.7); this rule is about buying honest editorial-section placement, never about disguising paid content as editorial.
 
+---
+
+### **12.10 Press Release Link-Laundering Threat Warning, Wire Persistence & White-Hat Alignment (Edward Sturm Ep. 1,222, `4Xai_CtAsks`)**
+
+* **Threat Awareness — Fake Job-Listing + PR Click-Laundering (Strictly Prohibited):** Do **not** execute patterns where a linkless external job ad forces applicants to search `[brand] + [role]`, click an artificially ranked press release (`#1`) into an on-site application form, and click internal money-page links to answer application questions. This violates Google's link-spam policies (evidenced in the same episode by Kyle Roof losing `20` deindexed sites after ranking gibberish) and carries deceptive-recruitment / FTC enforcement exposure.
+* **Wire Pricing & Indexation Persistence (Directional, Single-Source):** `AB Newswire` (`$80` one-off, or `$500/yr` for `83` releases with 1-year expiry) offers low-cost testing, whereas `EIN Presswire` costs more per release but reportedly stays indexed longer; treat wire longevity as directional and pair with §12.6 decay expectations.
+* **White-Hat Alternative — Viral Easter-Egg PR & Title/H1 Anchor Alignment:** When running a genuine promotional campaign or brand news announcement (never fabricating underlying brand news) that drives real branded searches into a PR → instructions page → commercial page funnel, align the PR's anchor text with the destination page's `<title>` tag and `<h1>` so descriptive anchors remain accurate and consistent with the destination page.
+

@@ -38,11 +38,13 @@ Roof's hypothesis (unverified) is that when a nofollow link is embedded on a pag
    - *Test 1*: Built nofollow links across 55 distinct domains pointing to a URL ranking at #16 on Google. The page climbed to **#6** (+10 positions).
    - *Test 2*: Built nofollow links across 42 distinct domains pointing to a URL at #9. The page climbed to **#5** (+4 positions).
    - *Removal Test*: When the nofollow links were pulled down, the pages maintained their elevated positions and in several instances continued to climb, suggesting that nofollow authority transmission does not instantaneously collapse upon link removal.
-2. **Joy Hawkins' Test (Sterling Sky, 2024, as reported in Ep. 1198; unverified)**:
-   - Joy placed a comment containing a nofollow link on a high-traffic local search forum thread that was actively ranking for commercial keywords.
-   - *Day 2*: The target keyword reportedly jumped in SERPs. An embedded YouTube video on the destination page was also reported to begin ranking in Google search results where the page had previously never ranked.
+2. **Joy Hawkins' Test (Sterling Sky, 2024, as reported in Ep. 1198 & Ep. 1,222 `4Xai_CtAsks`; unverified)**:
+   - Joy placed a comment containing a `nofollow` link on a high-traffic local search forum thread that was actively ranking for commercial keywords, pointing to a Sterling Sky page containing an **embedded YouTube video**.
+   - *Day 2*: The target keyword reportedly jumped in SERPs, and **both the linked page and the embedded YouTube video** were reported to begin ranking in Google search results where the page had previously never ranked.
    - Reportedly replicated across multiple high-traffic forum/community pages with identical positive ranking velocity, reported as indicating that nofollow links on ranking, high-traffic pages pass significant ranking value.
-3. **Link Research High-Authority Case Studies (2025, reported, single-source, unverified)**:
+3. **Matt Cutts `"Sreppleasers"` PR Precedent (late 2014, reported in Ep. 1,222 `4Xai_CtAsks`; historical baseline):**
+   - `SEO Consult` issued a press release containing a `nofollow` link to Google Head of Webspam Matt Cutts' personal blog using the invented anagram anchor `"Sreppleasers"` (`0` occurrences on Cutts' site), ranking Cutts' blog `#1` for the term. Treat as a 12-year-old historical precedent (link-spam filters have evolved substantially since 2014).
+4. **Link Research High-Authority Case Studies (2025, reported, single-source, unverified)**:
    - *BBC Nofollow Link*: Reportedly coincided with brand entity inclusion in Google’s "People Also Search For" (PASF), bumped supporting blog posts 3–5 positions, and faster new URL indexation across the target domain.
    - *gov.uk Nofollow Link*: Reportedly coincided with higher compliance-related keyword rankings, organic tier-2 backlinks from private sector blogs citing gov.uk, and improved B2B lead conversion trust.
 
